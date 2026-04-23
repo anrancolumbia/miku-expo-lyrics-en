@@ -1,459 +1,99 @@
 {
   "id": "08-play-with-fire",
-  "title": "ヒアソビ (Play with Fire)",
-  "artist": "Camellia ft. 初音ミク",
+  "title": "Hiasobi (Play with Fire)",
+  "artist": "Camellia ft. Hatsune Miku",
   "mode": "timed",
   "source": "lrc-merged",
   "lines": [
-    {
-      "t": 6.21,
-      "ja": "(燃えるアヴァンチュール)",
-      "en": ""
-    },
-    {
-      "t": 8.04,
-      "ja": "(密会のアピール)",
-      "en": ""
-    },
-    {
-      "t": 9.86,
-      "ja": "(融けていくルール)",
-      "en": ""
-    },
-    {
-      "t": 12.33,
-      "ja": "清純を装ってる 泥棒猫の罠は誘い",
-      "en": ""
-    },
-    {
-      "t": 16.02,
-      "ja": "(Bam bam we're damned, Ba-bam bam we're slammed)",
-      "en": ""
-    },
-    {
-      "t": 19.58,
-      "ja": "だれも×付けないなら 「正解」と同じでしょ",
-      "en": ""
-    },
-    {
-      "t": 23.16,
-      "ja": "(Bam bam we're damned, Ba-bam bam we're slammed)",
-      "en": ""
-    },
-    {
-      "t": 26.06,
-      "ja": "甘い甘い捕食的な愛",
-      "en": ""
-    },
-    {
-      "t": 28.25,
-      "ja": "そんな「駆け引き」なんてできっこない",
-      "en": ""
-    },
-    {
-      "t": 30.05,
-      "ja": "私 欲求のまま狩るだけだから",
-      "en": ""
-    },
-    {
-      "t": 33.74,
-      "ja": "二人しか知らないこのロマンス",
-      "en": ""
-    },
-    {
-      "t": 35.44,
-      "ja": "罪な味で濡らすこのパラダイス",
-      "en": ""
-    },
-    {
-      "t": 37.36,
-      "ja": "麻痺する前に もう点火して",
-      "en": ""
-    },
-    {
-      "t": 40.08,
-      "ja": "求めてよ",
-      "en": ""
-    },
-    {
-      "t": 41.13,
-      "ja": "危険なヒアソビを",
-      "en": ""
-    },
-    {
-      "t": 43.98,
-      "ja": "甘えて 悶えて 肌に牙を剥いて Woah",
-      "en": ""
-    },
-    {
-      "t": 48.27,
-      "ja": "今宵限りのファンタジア",
-      "en": ""
-    },
-    {
-      "t": 51.21,
-      "ja": "待ってないで さあ踊って",
-      "en": ""
-    },
-    {
-      "t": 52.89,
-      "ja": "その指焦がしてる Dissatisfaction",
-      "en": ""
-    },
-    {
-      "t": 55.81,
-      "ja": "あとはなすがまま (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 57.57,
-      "ja": "転げ落ちるままさ (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 59.46,
-      "ja": "地獄の底まで (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 60.78,
-      "ja": "Down Low, Low, Low, Oh",
-      "en": ""
-    },
-    {
-      "t": 63.03,
-      "ja": "罪の意識さえ (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 64.73,
-      "ja": "一口で呑み込んで (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 66.35,
-      "ja": "こぼれてる 吐息が",
-      "en": ""
-    },
-    {
-      "t": 68.18,
-      "ja": "止まない 刺激が",
-      "en": ""
-    },
-    {
-      "t": 70.01,
-      "ja": "人のモノだろうが",
-      "en": ""
-    },
-    {
-      "t": 71.45,
-      "ja": "ただ 掠め盗るだけ",
-      "en": ""
-    },
-    {
-      "t": 74.99,
-      "ja": "(3, 2, 1 Bass drop)",
-      "en": ""
-    },
-    {
-      "t": 92.27,
-      "ja": "(燃えるアヴァンチュール)",
-      "en": ""
-    },
-    {
-      "t": 94.05,
-      "ja": "(密会 香るアピール)",
-      "en": ""
-    },
-    {
-      "t": 95.8,
-      "ja": "(融けていくルール)",
-      "en": ""
-    },
-    {
-      "t": 100.02,
-      "ja": "いたずら、ままごと そんな言葉じゃずっとぬるい",
-      "en": ""
-    },
-    {
-      "t": 103.81,
-      "ja": "(Bam bam we're damned, Ba-bam bam we're slammed)",
-      "en": ""
-    },
-    {
-      "t": 107.33,
-      "ja": "一瞬の儚い 夢こそグサって残るでしょ",
-      "en": ""
-    },
-    {
-      "t": 110.88,
-      "ja": "(Bam bam we're damned, Ba-bam bam we're slammed)",
-      "en": ""
-    },
-    {
-      "t": 114.31,
-      "ja": "あなたとわたしで何がしたい？",
-      "en": ""
-    },
-    {
-      "t": 115.99,
-      "ja": "どんな「計算」だってあてにしない",
-      "en": ""
-    },
-    {
-      "t": 117.84,
-      "ja": "熱と嘘で答え かき消えるから",
-      "en": ""
-    },
-    {
-      "t": 121.41,
-      "ja": "後ろ手で鍵を掛けてランデヴー",
-      "en": ""
-    },
-    {
-      "t": 123.16,
-      "ja": "優しく獲物を狙ってほくそ笑む",
-      "en": ""
-    },
-    {
-      "t": 125.16,
-      "ja": "齧り付いたなら もう点火して",
-      "en": ""
-    },
-    {
-      "t": 128.06,
-      "ja": "教えてよ",
-      "en": ""
-    },
-    {
-      "t": 128.72,
-      "ja": "醜いヒアソビを",
-      "en": ""
-    },
-    {
-      "t": 131.76,
-      "ja": "モラルも 理性も 置き去りの獣に Woah",
-      "en": ""
-    },
-    {
-      "t": 136.05,
-      "ja": "情熱性のヒプノシス",
-      "en": ""
-    },
-    {
-      "t": 138.88,
-      "ja": "絡め取って 楽にして",
-      "en": ""
-    },
-    {
-      "t": 140.68,
-      "ja": "此処から先は全て Infraction",
-      "en": ""
-    },
-    {
-      "t": 143.6,
-      "ja": "愛の言葉なんて (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 145.36,
-      "ja": "もういらないから (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 147.09,
-      "ja": "ドン底のハネムーン (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 148.55,
-      "ja": "Down Low, Low, Low, Oh",
-      "en": ""
-    },
-    {
-      "t": 150.82,
-      "ja": "ワガママこじらせ (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 152.59,
-      "ja": "騙し騙されるHeart (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 154.21,
-      "ja": "過ちは No return",
-      "en": ""
-    },
-    {
-      "t": 155.86,
-      "ja": "虜に染めるカラー",
-      "en": ""
-    },
-    {
-      "t": 157.59,
-      "ja": "もう戻れないなら",
-      "en": ""
-    },
-    {
-      "t": 159.26,
-      "ja": "ただ 爛れ切るだけ",
-      "en": ""
-    },
-    {
-      "t": 161.61,
-      "ja": "さあ塞いで ウイスキーの香りの口吻で",
-      "en": ""
-    },
-    {
-      "t": 168.45,
-      "ja": "今宵は狩人と獲物",
-      "en": ""
-    },
-    {
-      "t": 171.39,
-      "ja": "仕留めて 火を付けて",
-      "en": ""
-    },
-    {
-      "t": 175.33,
-      "ja": "咎めてよ",
-      "en": ""
-    },
-    {
-      "t": 176.27,
-      "ja": "バカげたヒアソビを",
-      "en": ""
-    },
-    {
-      "t": 179.16,
-      "ja": "孤独が 鼓動が ここじゃ止めらんないじゃん Woah",
-      "en": ""
-    },
-    {
-      "t": 183.47,
-      "ja": "背徳感のトラジェディ",
-      "en": ""
-    },
-    {
-      "t": 186.35,
-      "ja": "誰かさんとの 約束ごと",
-      "en": ""
-    },
-    {
-      "t": 188.1,
-      "ja": "ただ奪い去るだけ",
-      "en": ""
-    },
-    {
-      "t": 191.49,
-      "ja": "求めてよ",
-      "en": ""
-    },
-    {
-      "t": 192.4,
-      "ja": "危険なヒアソビを",
-      "en": ""
-    },
-    {
-      "t": 195.28,
-      "ja": "甘えて 悶えて 肌に牙を剥いて Woah",
-      "en": ""
-    },
-    {
-      "t": 199.64,
-      "ja": "今宵限りのファンタジア",
-      "en": ""
-    },
-    {
-      "t": 202.47,
-      "ja": "待ってないで さあ踊って",
-      "en": ""
-    },
-    {
-      "t": 204.24,
-      "ja": "その指焦がしてる Dissatisfaction",
-      "en": ""
-    },
-    {
-      "t": 207.23,
-      "ja": "あとはなすがまま (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 208.98,
-      "ja": "転げ落ちるままさ (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 210.74,
-      "ja": "地獄の底まで (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 212.07,
-      "ja": "Down Low, Low, Low, Oh",
-      "en": ""
-    },
-    {
-      "t": 214.42,
-      "ja": "罪の意識さえ (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 216.17,
-      "ja": "一口で呑み込んで (Yeah)",
-      "en": ""
-    },
-    {
-      "t": 217.72,
-      "ja": "こぼれてる 吐息が",
-      "en": ""
-    },
-    {
-      "t": 219.4,
-      "ja": "止まない 刺激が",
-      "en": ""
-    },
-    {
-      "t": 221.2,
-      "ja": "人のモノだろうが",
-      "en": ""
-    },
-    {
-      "t": 222.81,
-      "ja": "ただ 掠め盗るだけ",
-      "en": ""
-    },
-    {
-      "t": 225.59,
-      "ja": "(燃えるアヴァンチュール)",
-      "en": ""
-    },
-    {
-      "t": 227.43,
-      "ja": "(密会のアピール)",
-      "en": ""
-    },
-    {
-      "t": 229.25,
-      "ja": "(融けていくルール)",
-      "en": ""
-    },
-    {
-      "t": 232.71,
-      "ja": "(燃えるアヴァンチュール)",
-      "en": ""
-    },
-    {
-      "t": 234.64,
-      "ja": "(密会のアピール)",
-      "en": ""
-    },
-    {
-      "t": 236.46,
-      "ja": "(融けていくルール)",
-      "en": ""
-    }
+    {"t": 6.21,  "ja": "(燃えるアヴァンチュール)", "en": "(A burning misadventure)"},
+    {"t": 8.04,  "ja": "(密会のアピール)", "en": "(The allure of a secret tryst)"},
+    {"t": 9.86,  "ja": "(融けていくルール)", "en": "(Rules melting away)"},
+    {"t": 12.33, "ja": "清純を装ってる 泥棒猫の罠は誘い", "en": "Playing innocent — the cat burglar's trap is an invitation"},
+    {"t": 16.02, "ja": "(Bam bam we're damned, Ba-bam bam we're slammed)", "en": "(Bam bam — we're damned. Ba-bam bam — we're slammed.)"},
+    {"t": 19.58, "ja": "だれも×付けないなら 「正解」と同じでしょ", "en": "If nobody marks it wrong, that's basically the \"right answer,\" right?"},
+    {"t": 23.16, "ja": "(Bam bam we're damned, Ba-bam bam we're slammed)", "en": "(Bam bam — we're damned. Ba-bam bam — we're slammed.)"},
+    {"t": 26.06, "ja": "甘い甘い捕食的な愛", "en": "A sweet, sweet, predatory kind of love"},
+    {"t": 28.25, "ja": "そんな「駆け引き」なんてできっこない", "en": "I couldn't play that \"pull-back-and-pounce\" game if I tried"},
+    {"t": 30.05, "ja": "私 欲求のまま狩るだけだから", "en": "I just hunt — exactly as my desire tells me to"},
+    {"t": 33.74, "ja": "二人しか知らないこのロマンス", "en": "This romance only the two of us know"},
+    {"t": 35.44, "ja": "罪な味で濡らすこのパラダイス", "en": "this paradise, wet with the flavor of sin —"},
+    {"t": 37.36, "ja": "麻痺する前に もう点火して", "en": "before we go numb — light the fuse already"},
+    {"t": 40.08, "ja": "求めてよ", "en": "Ask for it —"},
+    {"t": 41.13, "ja": "危険なヒアソビを", "en": "this dangerous little game of playing with fire"},
+    {"t": 43.98, "ja": "甘えて 悶えて 肌に牙を剥いて Woah", "en": "Cling to me, writhe for me, bare your teeth against my skin — woah"},
+    {"t": 48.27, "ja": "今宵限りのファンタジア", "en": "Tonight's one-time-only fantasia"},
+    {"t": 51.21, "ja": "待ってないで さあ踊って", "en": "Don't wait — come on, dance"},
+    {"t": 52.89, "ja": "その指焦がしてる Dissatisfaction", "en": "That finger of yours is scorched with Dissatisfaction"},
+    {"t": 55.81, "ja": "あとはなすがまま (Yeah)", "en": "After that, just let it happen (yeah)"},
+    {"t": 57.57, "ja": "転げ落ちるままさ (Yeah)", "en": "tumble right on down (yeah)"},
+    {"t": 59.46, "ja": "地獄の底まで (Yeah)", "en": "straight to the bottom of hell (yeah)"},
+    {"t": 60.78, "ja": "Down Low, Low, Low, Oh", "en": "Down low, low, low, oh"},
+    {"t": 63.03, "ja": "罪の意識さえ (Yeah)", "en": "Even the weight of sin (yeah)"},
+    {"t": 64.73, "ja": "一口で呑み込んで (Yeah)", "en": "I'll swallow in one gulp (yeah)"},
+    {"t": 66.35, "ja": "こぼれてる 吐息が", "en": "A breath spilling out,"},
+    {"t": 68.18, "ja": "止まない 刺激が", "en": "a thrill that won't stop —"},
+    {"t": 70.01, "ja": "人のモノだろうが", "en": "Doesn't matter if it belongs to someone else"},
+    {"t": 71.45, "ja": "ただ 掠め盗るだけ", "en": "I'm just going to snatch it away"},
+    {"t": 74.99, "ja": "(3, 2, 1 Bass drop)", "en": "(3, 2, 1 — bass drop)"},
+    {"t": 92.27, "ja": "(燃えるアヴァンチュール)", "en": "(A burning misadventure)"},
+    {"t": 94.05, "ja": "(密会 香るアピール)", "en": "(A secret tryst — fragrant allure)"},
+    {"t": 95.8,  "ja": "(融けていくルール)", "en": "(Rules melting away)"},
+    {"t": 100.02,"ja": "いたずら、ままごと そんな言葉じゃずっとぬるい", "en": "\"Mischief,\" \"playing house\" — words like those stay lukewarm forever"},
+    {"t": 103.81,"ja": "(Bam bam we're damned, Ba-bam bam we're slammed)", "en": "(Bam bam — we're damned. Ba-bam bam — we're slammed.)"},
+    {"t": 107.33,"ja": "一瞬の儚い 夢こそグサって残るでしょ", "en": "A fleeting, momentary dream is exactly what sticks like a blade, right?"},
+    {"t": 110.88,"ja": "(Bam bam we're damned, Ba-bam bam we're slammed)", "en": "(Bam bam — we're damned. Ba-bam bam — we're slammed.)"},
+    {"t": 114.31,"ja": "あなたとわたしで何がしたい？", "en": "You and me — what do you want to do?"},
+    {"t": 115.99,"ja": "どんな「計算」だってあてにしない", "en": "I'm not counting on any kind of \"calculation\""},
+    {"t": 117.84,"ja": "熱と嘘で答え かき消えるから", "en": "because heat and lies will wash any answer clean away"},
+    {"t": 121.41,"ja": "後ろ手で鍵を掛けてランデヴー", "en": "Lock the door behind your back — rendezvous"},
+    {"t": 123.16,"ja": "優しく獲物を狙ってほくそ笑む", "en": "Gently stalking my prey, grinning to myself"},
+    {"t": 125.16,"ja": "齧り付いたなら もう点火して", "en": "Once you bite down — light the fuse already"},
+    {"t": 128.06,"ja": "教えてよ", "en": "Show me —"},
+    {"t": 128.72,"ja": "醜いヒアソビを", "en": "this ugly little game of playing with fire"},
+    {"t": 131.76,"ja": "モラルも 理性も 置き去りの獣に Woah", "en": "Morals, reason, left behind — turned into a beast — woah"},
+    {"t": 136.05,"ja": "情熱性のヒプノシス", "en": "A passionate hypnosis"},
+    {"t": 138.88,"ja": "絡め取って 楽にして", "en": "Tangle me up, make it easy"},
+    {"t": 140.68,"ja": "此処から先は全て Infraction", "en": "From this point on, it's all Infraction"},
+    {"t": 143.6, "ja": "愛の言葉なんて (Yeah)", "en": "Words of love? (yeah)"},
+    {"t": 145.36,"ja": "もういらないから (Yeah)", "en": "I don't need them anymore (yeah)"},
+    {"t": 147.09,"ja": "ドン底のハネムーン (Yeah)", "en": "A rock-bottom honeymoon (yeah)"},
+    {"t": 148.55,"ja": "Down Low, Low, Low, Oh", "en": "Down low, low, low, oh"},
+    {"t": 150.82,"ja": "ワガママこじらせ (Yeah)", "en": "Selfishness twisted way too far (yeah)"},
+    {"t": 152.59,"ja": "騙し騙されるHeart (Yeah)", "en": "A heart tricking and being tricked (yeah)"},
+    {"t": 154.21,"ja": "過ちは No return", "en": "There's no return from a mistake like this"},
+    {"t": 155.86,"ja": "虜に染めるカラー", "en": "A color that stains you into a captive"},
+    {"t": 157.59,"ja": "もう戻れないなら", "en": "If we can't go back now,"},
+    {"t": 159.26,"ja": "ただ 爛れ切るだけ", "en": "then we'll just rot ourselves all the way through"},
+    {"t": 161.61,"ja": "さあ塞いで ウイスキーの香りの口吻で", "en": "Come on, seal my mouth with yours — whiskey-scented kiss"},
+    {"t": 168.45,"ja": "今宵は狩人と獲物", "en": "Tonight it's hunter and prey"},
+    {"t": 171.39,"ja": "仕留めて 火を付けて", "en": "Finish the kill — strike the match"},
+    {"t": 175.33,"ja": "咎めてよ", "en": "Condemn me —"},
+    {"t": 176.27,"ja": "バカげたヒアソビを", "en": "this ridiculous game of playing with fire"},
+    {"t": 179.16,"ja": "孤独が 鼓動が ここじゃ止めらんないじゃん Woah", "en": "Loneliness, heartbeat — you can't stop either of them here — woah"},
+    {"t": 183.47,"ja": "背徳感のトラジェディ", "en": "A tragedy of forbidden thrill"},
+    {"t": 186.35,"ja": "誰かさんとの 約束ごと", "en": "Someone else's promise —"},
+    {"t": 188.1, "ja": "ただ奪い去るだけ", "en": "I'm just going to steal it away"},
+    {"t": 191.49,"ja": "求めてよ", "en": "Ask for it —"},
+    {"t": 192.4, "ja": "危険なヒアソビを", "en": "this dangerous little game of playing with fire"},
+    {"t": 195.28,"ja": "甘えて 悶えて 肌に牙を剥いて Woah", "en": "Cling to me, writhe for me, bare your teeth against my skin — woah"},
+    {"t": 199.64,"ja": "今宵限りのファンタジア", "en": "Tonight's one-time-only fantasia"},
+    {"t": 202.47,"ja": "待ってないで さあ踊って", "en": "Don't wait — come on, dance"},
+    {"t": 204.24,"ja": "その指焦がしてる Dissatisfaction", "en": "That finger of yours is scorched with Dissatisfaction"},
+    {"t": 207.23,"ja": "あとはなすがまま (Yeah)", "en": "After that, just let it happen (yeah)"},
+    {"t": 208.98,"ja": "転げ落ちるままさ (Yeah)", "en": "tumble right on down (yeah)"},
+    {"t": 210.74,"ja": "地獄の底まで (Yeah)", "en": "straight to the bottom of hell (yeah)"},
+    {"t": 212.07,"ja": "Down Low, Low, Low, Oh", "en": "Down low, low, low, oh"},
+    {"t": 214.42,"ja": "罪の意識さえ (Yeah)", "en": "Even the weight of sin (yeah)"},
+    {"t": 216.17,"ja": "一口で呑み込んで (Yeah)", "en": "I'll swallow in one gulp (yeah)"},
+    {"t": 217.72,"ja": "こぼれてる 吐息が", "en": "A breath spilling out,"},
+    {"t": 219.4, "ja": "止まない 刺激が", "en": "a thrill that won't stop —"},
+    {"t": 221.2, "ja": "人のモノだろうが", "en": "Doesn't matter if it belongs to someone else"},
+    {"t": 222.81,"ja": "ただ 掠め盗るだけ", "en": "I'm just going to snatch it away"},
+    {"t": 225.59,"ja": "(燃えるアヴァンチュール)", "en": "(A burning misadventure)"},
+    {"t": 227.43,"ja": "(密会のアピール)", "en": "(The allure of a secret tryst)"},
+    {"t": 229.25,"ja": "(融けていくルール)", "en": "(Rules melting away)"},
+    {"t": 232.71,"ja": "(燃えるアヴァンチュール)", "en": "(A burning misadventure)"},
+    {"t": 234.64,"ja": "(密会のアピール)", "en": "(The allure of a secret tryst)"},
+    {"t": 236.46,"ja": "(融けていくルール)", "en": "(Rules melting away)"}
   ]
 }

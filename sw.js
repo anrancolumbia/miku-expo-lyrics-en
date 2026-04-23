@@ -1,7 +1,7 @@
 // Miku Expo lyrics viewer — offline cache
 // Strategy: cache-first for app shell + song data. Bump VERSION to force refresh.
 
-const VERSION = 'miku-v2-2026-04-22';
+const VERSION = 'miku-en-v1-2026-04-22';
 const SHELL = [
   './',
   './index.html',

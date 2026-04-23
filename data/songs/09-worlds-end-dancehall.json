@@ -1,294 +1,66 @@
 {
   "id": "09-worlds-end-dancehall",
-  "title": "ワールズエンド・ダンスホール",
-  "artist": "wowaka",
+  "title": "World's End Dancehall",
+  "artist": "wowaka ft. Hatsune Miku × Megurine Luka",
   "mode": "timed",
   "neteaseId": 4888353,
   "lines": [
-    {
-      "t": 3.0,
-      "ja": "制作人 : wowaka",
-      "en": ""
-    },
-    {
-      "t": 29.41,
-      "ja": "冗談混じりの境界線上",
-      "en": ""
-    },
-    {
-      "t": 32.21,
-      "ja": "階段のそのまた向こう",
-      "en": ""
-    },
-    {
-      "t": 34.98,
-      "ja": "全然良いこともないし、ねえ",
-      "en": ""
-    },
-    {
-      "t": 37.69,
-      "ja": "その手を引いてみようか？",
-      "en": ""
-    },
-    {
-      "t": 40.49,
-      "ja": "散々躓いたダンスを、",
-      "en": ""
-    },
-    {
-      "t": 43.04,
-      "ja": "そう、祭壇の上で踊るの？",
-      "en": ""
-    },
-    {
-      "t": 46.35,
-      "ja": "呆然に目が眩んじゃうから",
-      "en": ""
-    },
-    {
-      "t": 49.13,
-      "ja": "どうでしょう、一緒にここで！",
-      "en": ""
-    },
-    {
-      "t": 63.18,
-      "ja": "甲高い声が部屋を埋めるよ",
-      "en": ""
-    },
-    {
-      "t": 65.87,
-      "ja": "最低な意味を渦巻いて",
-      "en": ""
-    },
-    {
-      "t": 68.68,
-      "ja": "当然、良いこともないし",
-      "en": ""
-    },
-    {
-      "t": 71.0,
-      "ja": "さあ、思い切り吐き出そうか",
-      "en": ""
-    },
-    {
-      "t": 74.34,
-      "ja": "「短い言葉で繋がる意味を",
-      "en": ""
-    },
-    {
-      "t": 75.8,
-      "ja": "顔も合わせずに毛嫌う理由(わけ)を",
-      "en": ""
-    },
-    {
-      "t": 76.92,
-      "ja": "さがしても",
-      "en": ""
-    },
-    {
-      "t": 77.85,
-      "ja": "さがしても",
-      "en": ""
-    },
-    {
-      "t": 78.46,
-      "ja": "見つからないけど",
-      "en": ""
-    },
-    {
-      "t": 79.9,
-      "ja": "はにかみながら怒ったって",
-      "en": ""
-    },
-    {
-      "t": 81.06,
-      "ja": "目を伏せながら笑ったって",
-      "en": ""
-    },
-    {
-      "t": 82.37,
-      "ja": "そんなの、どうせ、つまらないわ！」",
-      "en": ""
-    },
-    {
-      "t": 85.54,
-      "ja": "ホップ・ステップで踊ろうか",
-      "en": ""
-    },
-    {
-      "t": 87.87,
-      "ja": "世界の隅っこでワン・ツー",
-      "en": ""
-    },
-    {
-      "t": 91.52,
-      "ja": "ちょっとクラッとしそうになる終末感を楽しんで",
-      "en": ""
-    },
-    {
-      "t": 94.56,
-      "ja": "パッとフラッと消えちゃいそな",
-      "en": ""
-    },
-    {
-      "t": 99.6,
-      "ja": "次の瞬間を残そうか",
-      "en": ""
-    },
-    {
-      "t": 102.61,
-      "ja": "くるくるくるくるり 回る世界に酔う",
-      "en": ""
-    },
-    {
-      "t": 119.33,
-      "ja": "傍観者だけの空間。",
-      "en": ""
-    },
-    {
-      "t": 121.55,
-      "ja": "レースを最終電車に乗り込んで、",
-      "en": ""
-    },
-    {
-      "t": 124.78,
-      "ja": "「全然良いこともないし、ねえ、この手を引いてみようか？」",
-      "en": ""
-    },
-    {
-      "t": 130.51,
-      "ja": "なんだかいつもと違う。",
-      "en": ""
-    },
-    {
-      "t": 132.42,
-      "ja": "運命のいたずらを信じてみる。",
-      "en": ""
-    },
-    {
-      "t": 135.98,
-      "ja": "散々躓いたダンスを、",
-      "en": ""
-    },
-    {
-      "t": 138.46,
-      "ja": "そう、思い切り馬鹿にしようか",
-      "en": ""
-    },
-    {
-      "t": 141.67,
-      "ja": "「つまらん動き繰り返す意味を",
-      "en": ""
-    },
-    {
-      "t": 142.79,
-      "ja": "音に合わせて足を踏む理由(わけ)を",
-      "en": ""
-    },
-    {
-      "t": 143.98,
-      "ja": "さがしても",
-      "en": ""
-    },
-    {
-      "t": 145.1,
-      "ja": "さがしても",
-      "en": ""
-    },
-    {
-      "t": 145.74,
-      "ja": "見つからないから",
-      "en": ""
-    },
-    {
-      "t": 147.33,
-      "ja": "悲しいときに踊りたいの",
-      "en": ""
-    },
-    {
-      "t": 148.59,
-      "ja": "泣きたいときに笑いたいの」",
-      "en": ""
-    },
-    {
-      "t": 149.92,
-      "ja": "そんなわがまま疲れちゃうわ！",
-      "en": ""
-    },
-    {
-      "t": 153.33,
-      "ja": "ポップにセンスを歌おうか",
-      "en": ""
-    },
-    {
-      "t": 155.36,
-      "ja": "世界、俯いちゃう前に",
-      "en": ""
-    },
-    {
-      "t": 158.6,
-      "ja": "キュッとしちゃった心の音をどうぞ。",
-      "en": ""
-    },
-    {
-      "t": 161.84,
-      "ja": "まだまだ忘れないわ。",
-      "en": ""
-    },
-    {
-      "t": 164.23,
-      "ja": "なんて綺麗な眺めなんでしょうか！",
-      "en": ""
-    },
-    {
-      "t": 167.47,
-      "ja": "ここから見える風景",
-      "en": ""
-    },
-    {
-      "t": 169.95,
-      "ja": "きっと何一つ変わらないから、",
-      "en": ""
-    },
-    {
-      "t": 173.09,
-      "ja": "枯れた地面を這うの。",
-      "en": ""
-    },
-    {
-      "t": 175.41,
-      "ja": "ホップ・ステップで踊ろうか",
-      "en": ""
-    },
-    {
-      "t": 177.7,
-      "ja": "世界の隅っこでワン・ツー",
-      "en": ""
-    },
-    {
-      "t": 180.99,
-      "ja": "ちょっとクラッとしそうになる終末感を楽しんで",
-      "en": ""
-    },
-    {
-      "t": 186.68,
-      "ja": "パッとフラッと消えちゃいそな",
-      "en": ""
-    },
-    {
-      "t": 189.02,
-      "ja": "次の瞬間を残そうか",
-      "en": ""
-    },
-    {
-      "t": 192.36,
-      "ja": "さよなら、お元気で。",
-      "en": ""
-    },
-    {
-      "t": 195.14,
-      "ja": "終わる世界に言う―――",
-      "en": ""
-    }
+    {"t": 3.0,    "ja": "制作人 : wowaka", "en": "Produced by wowaka"},
+    {"t": 29.41,  "ja": "冗談混じりの境界線上", "en": "On a borderline mixed with jokes"},
+    {"t": 32.21,  "ja": "階段のそのまた向こう", "en": "Just beyond those stairs"},
+    {"t": 34.98,  "ja": "全然良いこともないし、ねえ", "en": "There's nothing good going on, hey —"},
+    {"t": 37.69,  "ja": "その手を引いてみようか？", "en": "How about I pull you along by the hand?"},
+    {"t": 40.49,  "ja": "散々躓いたダンスを、", "en": "A dance we've tripped over countless times,"},
+    {"t": 43.04,  "ja": "そう、祭壇の上で踊るの？", "en": "So — shall we dance it up on the altar?"},
+    {"t": 46.35,  "ja": "呆然に目が眩んじゃうから", "en": "My eyes are dazed and blinded,"},
+    {"t": 49.13,  "ja": "どうでしょう、一緒にここで！", "en": "so what do you say — right here, together!"},
+    {"t": 63.18,  "ja": "甲高い声が部屋を埋めるよ", "en": "Shrill voices fill up the room"},
+    {"t": 65.87,  "ja": "最低な意味を渦巻いて", "en": "Swirling with the worst kinds of meaning"},
+    {"t": 68.68,  "ja": "当然、良いこともないし", "en": "Naturally, nothing good comes of it"},
+    {"t": 71.0,   "ja": "さあ、思い切り吐き出そうか", "en": "Come on, let's spit it all out"},
+    {"t": 74.34,  "ja": "「短い言葉で繋がる意味を", "en": "\"The reason we connect through short words,"},
+    {"t": 75.8,   "ja": "顔も合わせずに毛嫌う理由(わけ)を", "en": "the reason we loathe without ever meeting face to face —"},
+    {"t": 76.92,  "ja": "さがしても", "en": "I search,"},
+    {"t": 77.85,  "ja": "さがしても", "en": "and search,"},
+    {"t": 78.46,  "ja": "見つからないけど", "en": "but I can never find it"},
+    {"t": 79.9,   "ja": "はにかみながら怒ったって", "en": "Getting angry with a bashful face,"},
+    {"t": 81.06,  "ja": "目を伏せながら笑ったって", "en": "laughing while looking down —"},
+    {"t": 82.37,  "ja": "そんなの、どうせ、つまらないわ！」", "en": "none of it matters, it's all so boring!\""},
+    {"t": 85.54,  "ja": "ホップ・ステップで踊ろうか", "en": "Let's dance — hop, step"},
+    {"t": 87.87,  "ja": "世界の隅っこでワン・ツー", "en": "One, two, in the corner of the world"},
+    {"t": 91.52,  "ja": "ちょっとクラッとしそうになる終末感を楽しんで", "en": "Savoring that dizzying end-of-the-world feeling"},
+    {"t": 94.56,  "ja": "パッとフラッと消えちゃいそな", "en": "Before this moment flickers and fades away,"},
+    {"t": 99.6,   "ja": "次の瞬間を残そうか", "en": "let's leave the next one behind"},
+    {"t": 102.61, "ja": "くるくるくるくるり 回る世界に酔う", "en": "Spin, spin, spin, spin — drunk on a turning world"},
+    {"t": 119.33, "ja": "傍観者だけの空間。", "en": "A space filled with nothing but bystanders."},
+    {"t": 121.55, "ja": "レースを最終電車に乗り込んで、", "en": "Boarding the last train of the race,"},
+    {"t": 124.78, "ja": "「全然良いこともないし、ねえ、この手を引いてみようか？」", "en": "\"Nothing good's happening — hey, shall I pull you by the hand?\""},
+    {"t": 130.51, "ja": "なんだかいつもと違う。", "en": "Something feels different today."},
+    {"t": 132.42, "ja": "運命のいたずらを信じてみる。", "en": "I'll trust in fate's little prank."},
+    {"t": 135.98, "ja": "散々躓いたダンスを、", "en": "A dance we've tripped over countless times,"},
+    {"t": 138.46, "ja": "そう、思い切り馬鹿にしようか", "en": "So — shall we make a total joke of it?"},
+    {"t": 141.67, "ja": "「つまらん動き繰り返す意味を", "en": "\"The reason we repeat these dull motions,"},
+    {"t": 142.79, "ja": "音に合わせて足を踏む理由(わけ)を", "en": "the reason we step in time with the music —"},
+    {"t": 143.98, "ja": "さがしても", "en": "I search,"},
+    {"t": 145.1,  "ja": "さがしても", "en": "and search,"},
+    {"t": 145.74, "ja": "見つからないから", "en": "but I can never find it — so"},
+    {"t": 147.33, "ja": "悲しいときに踊りたいの", "en": "When I'm sad, I want to dance"},
+    {"t": 148.59, "ja": "泣きたいときに笑いたいの」", "en": "When I want to cry, I want to laugh\""},
+    {"t": 149.92, "ja": "そんなわがまま疲れちゃうわ！", "en": "All that selfishness is exhausting!"},
+    {"t": 153.33, "ja": "ポップにセンスを歌おうか", "en": "Let's sing with a pop sensibility"},
+    {"t": 155.36, "ja": "世界、俯いちゃう前に", "en": "Before the world hangs its head,"},
+    {"t": 158.6,  "ja": "キュッとしちゃった心の音をどうぞ。", "en": "listen to the sound of a heart squeezed tight."},
+    {"t": 161.84, "ja": "まだまだ忘れないわ。", "en": "I still won't forget."},
+    {"t": 164.23, "ja": "なんて綺麗な眺めなんでしょうか！", "en": "What a beautiful view this is!"},
+    {"t": 167.47, "ja": "ここから見える風景", "en": "The scenery visible from here"},
+    {"t": 169.95, "ja": "きっと何一つ変わらないから、", "en": "Surely not a single thing will change,"},
+    {"t": 173.09, "ja": "枯れた地面を這うの。", "en": "so I'll crawl along the withered ground."},
+    {"t": 175.41, "ja": "ホップ・ステップで踊ろうか", "en": "Let's dance — hop, step"},
+    {"t": 177.7,  "ja": "世界の隅っこでワン・ツー", "en": "One, two, in the corner of the world"},
+    {"t": 180.99, "ja": "ちょっとクラッとしそうになる終末感を楽しんで", "en": "Savoring that dizzying end-of-the-world feeling"},
+    {"t": 186.68, "ja": "パッとフラッと消えちゃいそな", "en": "Before this moment flickers and fades away,"},
+    {"t": 189.02, "ja": "次の瞬間を残そうか", "en": "let's leave the next one behind"},
+    {"t": 192.36, "ja": "さよなら、お元気で。", "en": "Goodbye — take care."},
+    {"t": 195.14, "ja": "終わる世界に言う―――", "en": "I say it to the ending world ———"}
   ]
 }

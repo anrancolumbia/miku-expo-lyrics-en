@@ -1,254 +1,58 @@
 {
   "id": "01-teo",
-  "title": "テオ",
-  "artist": "Omoi",
+  "title": "Teo",
+  "artist": "Omoi ft. Hatsune Miku",
   "mode": "timed",
   "neteaseId": 492834361,
   "lines": [
-    {
-      "t": 22.67,
-      "ja": "考えるこのままいつまで 隠しておけるかな",
-      "en": ""
-    },
-    {
-      "t": 28.28,
-      "ja": "帰りたくなった時 さよならは言えるかな",
-      "en": ""
-    },
-    {
-      "t": 32.95,
-      "ja": "見落としたあの日のサインが 少しずつ溶けても",
-      "en": ""
-    },
-    {
-      "t": 38.66,
-      "ja": "きっと大丈夫だよ こうやって僕らまた逢えるから",
-      "en": ""
-    },
-    {
-      "t": 48.58,
-      "ja": "目を閉じる",
-      "en": ""
-    },
-    {
-      "t": 49.81,
-      "ja": "小さな祈りは まだ残せるかな",
-      "en": ""
-    },
-    {
-      "t": 54.24,
-      "ja": "光が戾ったとき ただいまは言えるかな",
-      "en": ""
-    },
-    {
-      "t": 58.83,
-      "ja": "行かなくちゃ",
-      "en": ""
-    },
-    {
-      "t": 60.2,
-      "ja": "世界で一番 綺麗なものなら",
-      "en": ""
-    },
-    {
-      "t": 64.93,
-      "ja": "今まで奪われてた分は",
-      "en": ""
-    },
-    {
-      "t": 67.08,
-      "ja": "取り戾すまでさ!",
-      "en": ""
-    },
-    {
-      "t": 69.97,
-      "ja": "もっと",
-      "en": ""
-    },
-    {
-      "t": 70.42,
-      "ja": "クラクラクラ クラクラさせてよ",
-      "en": ""
-    },
-    {
-      "t": 72.94,
-      "ja": "ユラユラユラ ゆらぎを見せてよ",
-      "en": ""
-    },
-    {
-      "t": 75.56,
-      "ja": "キラキラキラ きらめいていてよ",
-      "en": ""
-    },
-    {
-      "t": 80.11,
-      "ja": "そっと",
-      "en": ""
-    },
-    {
-      "t": 80.5,
-      "ja": "傷ついた夜を呼び出してみる",
-      "en": ""
-    },
-    {
-      "t": 83.1,
-      "ja": "ささやかな魔法をひとつかける",
-      "en": ""
-    },
-    {
-      "t": 85.96,
-      "ja": "それだけで僕らは飛べるのさ!",
-      "en": ""
-    },
-    {
-      "t": 89.63,
-      "ja": "離さないでよ! 眼差しを",
-      "en": ""
-    },
-    {
-      "t": 92.37,
-      "ja": "僕達はもう 止まらないよ",
-      "en": ""
-    },
-    {
-      "t": 94.97,
-      "ja": "魔法が解ける それまで",
-      "en": ""
-    },
-    {
-      "t": 97.07,
-      "ja": "繋いでいてよ 手を",
-      "en": ""
-    },
-    {
-      "t": 99.36,
-      "ja": "手を!",
-      "en": ""
-    },
-    {
-      "t": 100.38,
-      "ja": "ひとつだって残さない",
-      "en": ""
-    },
-    {
-      "t": 102.55,
-      "ja": "全てを取り戾すだけさ",
-      "en": ""
-    },
-    {
-      "t": 105.11,
-      "ja": "魔法が解ける それまで",
-      "en": ""
-    },
-    {
-      "t": 107.86,
-      "ja": "繋いでいてよ 手を 手を",
-      "en": ""
-    },
-    {
-      "t": 109.9,
-      "ja": "手を!",
-      "en": ""
-    },
-    {
-      "t": 137.1,
-      "ja": "今まで奪われてた分は",
-      "en": ""
-    },
-    {
-      "t": 140.02,
-      "ja": "取り戾すまでさ!",
-      "en": ""
-    },
-    {
-      "t": 142.3,
-      "ja": "そっと",
-      "en": ""
-    },
-    {
-      "t": 143.01,
-      "ja": "傷ついた夜を呼び出してみる",
-      "en": ""
-    },
-    {
-      "t": 145.43,
-      "ja": "ささやかな魔法をひとつかける",
-      "en": ""
-    },
-    {
-      "t": 148.15,
-      "ja": "それだけで僕らは飛べるのさ!",
-      "en": ""
-    },
-    {
-      "t": 152.23,
-      "ja": "もっと",
-      "en": ""
-    },
-    {
-      "t": 153.2,
-      "ja": "クラクラクラ クラクラさせてよ",
-      "en": ""
-    },
-    {
-      "t": 155.87,
-      "ja": "ユラユラユラ ゆらぎを見せてよ",
-      "en": ""
-    },
-    {
-      "t": 158.49,
-      "ja": "キラキラキラ きらめいていてよ",
-      "en": ""
-    },
-    {
-      "t": 162.48,
-      "ja": "離さないでよ! 眼差しを",
-      "en": ""
-    },
-    {
-      "t": 165.0,
-      "ja": "僕達はもう 止まらないよ",
-      "en": ""
-    },
-    {
-      "t": 167.2,
-      "ja": "魔法が解ける それまで",
-      "en": ""
-    },
-    {
-      "t": 170.0,
-      "ja": "繋いでいてよ 手を",
-      "en": ""
-    },
-    {
-      "t": 172.0,
-      "ja": "手を!",
-      "en": ""
-    },
-    {
-      "t": 172.6,
-      "ja": "ひとつだって残さない",
-      "en": ""
-    },
-    {
-      "t": 175.36,
-      "ja": "全てを取り戾すだけさ",
-      "en": ""
-    },
-    {
-      "t": 177.9,
-      "ja": "魔法が解ける それまで",
-      "en": ""
-    },
-    {
-      "t": 180.62,
-      "ja": "繋いでいてよ 手を 手を",
-      "en": ""
-    },
-    {
-      "t": 183.43,
-      "ja": "手を!",
-      "en": ""
-    }
+    {"t": 22.67, "ja": "考えるこのままいつまで 隠しておけるかな", "en": "I wonder — how long can I keep this hidden?"},
+    {"t": 28.28, "ja": "帰りたくなった時 さよならは言えるかな", "en": "When I want to go home, will I be able to say goodbye?"},
+    {"t": 32.95, "ja": "見落としたあの日のサインが 少しずつ溶けても", "en": "Even if the signs from that day I overlooked slowly melt away"},
+    {"t": 38.66, "ja": "きっと大丈夫だよ こうやって僕らまた逢えるから", "en": "It'll be okay — this is how we'll meet again"},
+    {"t": 48.58, "ja": "目を閉じる", "en": "I close my eyes"},
+    {"t": 49.81, "ja": "小さな祈りは まだ残せるかな", "en": "Can I still leave behind a tiny prayer?"},
+    {"t": 54.24, "ja": "光が戾ったとき ただいまは言えるかな", "en": "When the light returns, can I say \"I'm home\"?"},
+    {"t": 58.83, "ja": "行かなくちゃ", "en": "I have to go"},
+    {"t": 60.2,  "ja": "世界で一番 綺麗なものなら", "en": "If it's the most beautiful thing in the world"},
+    {"t": 64.93, "ja": "今まで奪われてた分は", "en": "Everything that's been taken from us until now"},
+    {"t": 67.08, "ja": "取り戾すまでさ!", "en": "I'll take it all back!"},
+    {"t": 69.97, "ja": "もっと", "en": "More —"},
+    {"t": 70.42, "ja": "クラクラクラ クラクラさせてよ", "en": "Spin-spin-spin, make me dizzy"},
+    {"t": 72.94, "ja": "ユラユラユラ ゆらぎを見せてよ", "en": "Sway-sway-sway, show me the tremor"},
+    {"t": 75.56, "ja": "キラキラキラ きらめいていてよ", "en": "Sparkle-sparkle-sparkle, keep shining"},
+    {"t": 80.11, "ja": "そっと", "en": "Softly —"},
+    {"t": 80.5,  "ja": "傷ついた夜を呼び出してみる", "en": "I'll summon up the wounded night"},
+    {"t": 83.1,  "ja": "ささやかな魔法をひとつかける", "en": "Cast one small spell"},
+    {"t": 85.96, "ja": "それだけで僕らは飛べるのさ!", "en": "That alone will let us fly!"},
+    {"t": 89.63, "ja": "離さないでよ! 眼差しを", "en": "Don't look away from me!"},
+    {"t": 92.37, "ja": "僕達はもう 止まらないよ", "en": "We can't stop now"},
+    {"t": 94.97, "ja": "魔法が解ける それまで", "en": "Until the magic breaks —"},
+    {"t": 97.07, "ja": "繋いでいてよ 手を", "en": "Keep holding my hand"},
+    {"t": 99.36, "ja": "手を!", "en": "Hand in hand!"},
+    {"t": 100.38,"ja": "ひとつだって残さない", "en": "I won't leave a single thing behind"},
+    {"t": 102.55,"ja": "全てを取り戾すだけさ", "en": "I'll reclaim every last piece"},
+    {"t": 105.11,"ja": "魔法が解ける それまで", "en": "Until the magic breaks —"},
+    {"t": 107.86,"ja": "繋いでいてよ 手を 手を", "en": "Keep holding my hand, my hand"},
+    {"t": 109.9, "ja": "手を!", "en": "My hand!"},
+    {"t": 137.1, "ja": "今まで奪われてた分は", "en": "Everything that's been taken from us until now"},
+    {"t": 140.02,"ja": "取り戾すまでさ!", "en": "I'll take it all back!"},
+    {"t": 142.3, "ja": "そっと", "en": "Softly —"},
+    {"t": 143.01,"ja": "傷ついた夜を呼び出してみる", "en": "I'll summon up the wounded night"},
+    {"t": 145.43,"ja": "ささやかな魔法をひとつかける", "en": "Cast one small spell"},
+    {"t": 148.15,"ja": "それだけで僕らは飛べるのさ!", "en": "That alone will let us fly!"},
+    {"t": 152.23,"ja": "もっと", "en": "More —"},
+    {"t": 153.2, "ja": "クラクラクラ クラクラさせてよ", "en": "Spin-spin-spin, make me dizzy"},
+    {"t": 155.87,"ja": "ユラユラユラ ゆらぎを見せてよ", "en": "Sway-sway-sway, show me the tremor"},
+    {"t": 158.49,"ja": "キラキラキラ きらめいていてよ", "en": "Sparkle-sparkle-sparkle, keep shining"},
+    {"t": 162.48,"ja": "離さないでよ! 眼差しを", "en": "Don't look away from me!"},
+    {"t": 165.0, "ja": "僕達はもう 止まらないよ", "en": "We can't stop now"},
+    {"t": 167.2, "ja": "魔法が解ける それまで", "en": "Until the magic breaks —"},
+    {"t": 170.0, "ja": "繋いでいてよ 手を", "en": "Keep holding my hand"},
+    {"t": 172.0, "ja": "手を!", "en": "Hand in hand!"},
+    {"t": 172.6, "ja": "ひとつだって残さない", "en": "I won't leave a single thing behind"},
+    {"t": 175.36,"ja": "全てを取り戾すだけさ", "en": "I'll reclaim every last piece"},
+    {"t": 177.9, "ja": "魔法が解ける それまで", "en": "Until the magic breaks —"},
+    {"t": 180.62,"ja": "繋いでいてよ 手を 手を", "en": "Keep holding my hand, my hand"},
+    {"t": 183.43,"ja": "手を!", "en": "My hand!"}
   ]
 }

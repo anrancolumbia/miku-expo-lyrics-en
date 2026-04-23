@@ -69,11 +69,6 @@
       }
     }));
     renderPicker();
-    // Restore last picked setlist if any
-    const saved = localStorage.getItem('miku-setlist');
-    if (saved && setlistData.setlists.some(s => s.id === saved)) {
-      pickSetlist(saved);
-    }
   }
 
   function renderPicker() {

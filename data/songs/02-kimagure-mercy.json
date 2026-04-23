@@ -1,219 +1,51 @@
 {
   "id": "02-kimagure-mercy",
-  "title": "気まぐれメルシィ",
-  "artist": "P*Light × 初音ミク",
+  "title": "Kimagure Mercy",
+  "artist": "P*Light × Hatsune Miku",
   "mode": "timed",
   "neteaseId": 417953304,
   "lines": [
-    {
-      "t": 17.76,
-      "ja": "ほらほらまたはじまった",
-      "en": ""
-    },
-    {
-      "t": 20.12,
-      "ja": "お得意の自己弁護 言い訳「でもね」「だって」",
-      "en": ""
-    },
-    {
-      "t": 29.81,
-      "ja": "ほらほらまたはじまった",
-      "en": ""
-    },
-    {
-      "t": 32.14,
-      "ja": "ごめん！からの Kiss のパターンって感じ？ 安易",
-      "en": ""
-    },
-    {
-      "t": 41.75,
-      "ja": "“いつかアタシだけ” そんな夢見たこともあったけど",
-      "en": ""
-    },
-    {
-      "t": 47.63,
-      "ja": "寂しい時だけ電話して もううんざりだわ！",
-      "en": ""
-    },
-    {
-      "t": 53.81,
-      "ja": "全然アタシに興味ないじゃん",
-      "en": ""
-    },
-    {
-      "t": 56.49,
-      "ja": "キミが好きなのは自分でしょ (Yeah！)",
-      "en": ""
-    },
-    {
-      "t": 59.69,
-      "ja": "やっぱりアタシに興味ないじゃん",
-      "en": ""
-    },
-    {
-      "t": 62.53,
-      "ja": "その話もう聞き飽きたわ",
-      "en": ""
-    },
-    {
-      "t": 65.76,
-      "ja": "そもそもだいたいアタシに興味ないじゃん",
-      "en": ""
-    },
-    {
-      "t": 68.51,
-      "ja": "そーやってまた誤魔化して… (もう！)",
-      "en": ""
-    },
-    {
-      "t": 71.67,
-      "ja": "Be My Boy わがまますぎるBaby",
-      "en": ""
-    },
-    {
-      "t": 76.21,
-      "ja": "抱きしめてよね！",
-      "en": ""
-    },
-    {
-      "t": 83.66,
-      "ja": "ホントキミは しょーもないな",
-      "en": ""
-    },
-    {
-      "t": 85.27,
-      "ja": "甘いアタシ 「しょーがないな」",
-      "en": ""
-    },
-    {
-      "t": 86.78,
-      "ja": "泣いたって 行かないでって 言ったって 変わりゃしないや！",
-      "en": ""
-    },
-    {
-      "t": 89.78,
-      "ja": "もう少しだけならまぁ 踊ってもいいかもな",
-      "en": ""
-    },
-    {
-      "t": 92.82,
-      "ja": "とろけて とけてイキたいの",
-      "en": ""
-    },
-    {
-      "t": 95.79,
-      "ja": "どんなアピールも意味ないし 気づいてくれないけど",
-      "en": ""
-    },
-    {
-      "t": 101.54,
-      "ja": "アタシが寂しい時だって 逢いにきて！",
-      "en": ""
-    },
-    {
-      "t": 107.82,
-      "ja": "全然アタシに興味ないじゃん",
-      "en": ""
-    },
-    {
-      "t": 110.47,
-      "ja": "どこがダメなの？ 教えてよ (Yeah！)",
-      "en": ""
-    },
-    {
-      "t": 113.7,
-      "ja": "やっぱりアタシに興味ないじゃん",
-      "en": ""
-    },
-    {
-      "t": 116.49,
-      "ja": "携带ばかりいじってさ",
-      "en": ""
-    },
-    {
-      "t": 119.85,
-      "ja": "そもそもだいたいアタシに興味ないじゃん",
-      "en": ""
-    },
-    {
-      "t": 122.51,
-      "ja": "少しくらい期待させて (もう…)",
-      "en": ""
-    },
-    {
-      "t": 125.69,
-      "ja": "Lonely Girl 独り占めてよBaby",
-      "en": ""
-    },
-    {
-      "t": 130.18,
-      "ja": "振り回さないで！",
-      "en": ""
-    },
-    {
-      "t": 143.39,
-      "ja": "ねぇ？ Maybe Melty？",
-      "en": ""
-    },
-    {
-      "t": 145.3,
-      "ja": "ワン・ツー Shall We Dance？ 踊りましょ",
-      "en": ""
-    },
-    {
-      "t": 149.25,
-      "ja": "はやく 手と手 繋いで 最後にひとつだけ",
-      "en": ""
-    },
-    {
-      "t": 155.94,
-      "ja": "溺れるくらい愛してよ",
-      "en": ""
-    },
-    {
-      "t": 158.73,
-      "ja": "全然アタシに興味ないじゃん",
-      "en": ""
-    },
-    {
-      "t": 161.51,
-      "ja": "キミが好きなのは自分でしょ (Yeah！)",
-      "en": ""
-    },
-    {
-      "t": 164.65,
-      "ja": "やっぱりアタシに興味ないじゃん",
-      "en": ""
-    },
-    {
-      "t": 167.45,
-      "ja": "その話もう聞き飽きたわ",
-      "en": ""
-    },
-    {
-      "t": 170.71,
-      "ja": "そもそもだいたいアタシに興味ないじゃん",
-      "en": ""
-    },
-    {
-      "t": 173.51,
-      "ja": "そーやってまた誤魔化して… (もう！)",
-      "en": ""
-    },
-    {
-      "t": 176.72,
-      "ja": "Get The Last Dance 覚悟はできてるの？",
-      "en": ""
-    },
-    {
-      "t": 181.12,
-      "ja": "気まぐれメルシィ",
-      "en": ""
-    },
-    {
-      "t": 187.11,
-      "ja": "…おあじはいかが？",
-      "en": ""
-    }
+    {"t": 17.76, "ja": "ほらほらまたはじまった", "en": "Here you go, here you go again —"},
+    {"t": 20.12, "ja": "お得意の自己弁護 言い訳「でもね」「だって」", "en": "your usual self-defense, excuses — \"but\" and \"because\""},
+    {"t": 29.81, "ja": "ほらほらまたはじまった", "en": "Here you go, here you go again —"},
+    {"t": 32.14, "ja": "ごめん！からの Kiss のパターンって感じ？ 安易", "en": "the \"I'm sorry!\" followed by a kiss pattern, huh? Too easy"},
+    {"t": 41.75, "ja": "\u201cいつかアタシだけ\u201d そんな夢見たこともあったけど", "en": "\"Someday it'll be just me\" — I used to dream that too"},
+    {"t": 47.63, "ja": "寂しい時だけ電話して もううんざりだわ！", "en": "but you only call when you're lonely — I am SO over it!"},
+    {"t": 53.81, "ja": "全然アタシに興味ないじゃん", "en": "You're not interested in me at all"},
+    {"t": 56.49, "ja": "キミが好きなのは自分でしょ (Yeah！)", "en": "The one you love is yourself, right? (Yeah!)"},
+    {"t": 59.69, "ja": "やっぱりアタシに興味ないじゃん", "en": "Yep, not interested in me, not one bit"},
+    {"t": 62.53, "ja": "その話もう聞き飽きたわ", "en": "I'm sick of hearing that same story"},
+    {"t": 65.76, "ja": "そもそもだいたいアタシに興味ないじゃん", "en": "Basically, fundamentally, you're not into me"},
+    {"t": 68.51, "ja": "そーやってまた誤魔化して… (もう！)", "en": "and here you are brushing me off again… (ugh!)"},
+    {"t": 71.67, "ja": "Be My Boy わがまますぎるBaby", "en": "Be my boy — you're way too selfish, baby"},
+    {"t": 76.21, "ja": "抱きしめてよね！", "en": "Hold me already!"},
+    {"t": 83.66, "ja": "ホントキミは しょーもないな", "en": "You really are hopeless"},
+    {"t": 85.27, "ja": "甘いアタシ 「しょーがないな」", "en": "And sweet little me goes, \"Guess I've got no choice\""},
+    {"t": 86.78, "ja": "泣いたって 行かないでって 言ったって 変わりゃしないや！", "en": "Whether I cry, whether I say \"don't go\" — none of it changes anything!"},
+    {"t": 89.78, "ja": "もう少しだけならまぁ 踊ってもいいかもな", "en": "Just a little longer — I guess I could keep dancing"},
+    {"t": 92.82, "ja": "とろけて とけてイキたいの", "en": "I wanna melt, I wanna come undone"},
+    {"t": 95.79, "ja": "どんなアピールも意味ないし 気づいてくれないけど", "en": "No matter how I try to get your attention, you never notice, but"},
+    {"t": 101.54,"ja": "アタシが寂しい時だって 逢いにきて！", "en": "when I'm the one who's lonely — come see me!"},
+    {"t": 107.82,"ja": "全然アタシに興味ないじゃん", "en": "You're not interested in me at all"},
+    {"t": 110.47,"ja": "どこがダメなの？ 教えてよ (Yeah！)", "en": "What's wrong with me? Tell me! (Yeah!)"},
+    {"t": 113.7, "ja": "やっぱりアタシに興味ないじゃん", "en": "Yep, not interested in me, not one bit"},
+    {"t": 116.49,"ja": "携带ばかりいじってさ", "en": "You just keep fiddling with your phone"},
+    {"t": 119.85,"ja": "そもそもだいたいアタシに興味ないじゃん", "en": "Basically, fundamentally, you're not into me"},
+    {"t": 122.51,"ja": "少しくらい期待させて (もう…)", "en": "Let me have a little hope at least (come ooon…)"},
+    {"t": 125.69,"ja": "Lonely Girl 独り占めてよBaby", "en": "Lonely girl — have me all to yourself, baby"},
+    {"t": 130.18,"ja": "振り回さないで！", "en": "Stop jerking me around!"},
+    {"t": 143.39,"ja": "ねぇ？ Maybe Melty？", "en": "Hey — maybe melty?"},
+    {"t": 145.3, "ja": "ワン・ツー Shall We Dance？ 踊りましょ", "en": "One, two, shall we dance? Let's dance"},
+    {"t": 149.25,"ja": "はやく 手と手 繋いで 最後にひとつだけ", "en": "Hurry — hand in hand — just one more thing at the end"},
+    {"t": 155.94,"ja": "溺れるくらい愛してよ", "en": "Love me until I drown in it"},
+    {"t": 158.73,"ja": "全然アタシに興味ないじゃん", "en": "You're not interested in me at all"},
+    {"t": 161.51,"ja": "キミが好きなのは自分でしょ (Yeah！)", "en": "The one you love is yourself, right? (Yeah!)"},
+    {"t": 164.65,"ja": "やっぱりアタシに興味ないじゃん", "en": "Yep, not interested in me, not one bit"},
+    {"t": 167.45,"ja": "その話もう聞き飽きたわ", "en": "I'm sick of hearing that same story"},
+    {"t": 170.71,"ja": "そもそもだいたいアタシに興味ないじゃん", "en": "Basically, fundamentally, you're not into me"},
+    {"t": 173.51,"ja": "そーやってまた誤魔化して… (もう！)", "en": "and here you are brushing me off again… (ugh!)"},
+    {"t": 176.72,"ja": "Get The Last Dance 覚悟はできてるの？", "en": "Get the last dance — are you ready?"},
+    {"t": 181.12,"ja": "気まぐれメルシィ", "en": "A fickle little \"merci\""},
+    {"t": 187.11,"ja": "…おあじはいかが？", "en": "…how's the taste?"}
   ]
 }

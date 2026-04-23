@@ -1,289 +1,65 @@
 {
   "id": "05-darling-dance",
-  "title": "ダーリンダンス",
-  "artist": "Kairiki bear",
+  "title": "Darling Dance",
+  "artist": "Kairiki Bear ft. Hatsune Miku",
   "mode": "timed",
   "neteaseId": 1864338278,
   "lines": [
-    {
-      "t": 16.16,
-      "ja": "存在証明　愛だって愛だって吐いたって",
-      "en": ""
-    },
-    {
-      "t": 19.41,
-      "ja": "嗚呼　寝転んゴロンて嫌ん嫌ん",
-      "en": ""
-    },
-    {
-      "t": 21.15,
-      "ja": "プリティプリティ　ダイエットDAY",
-      "en": ""
-    },
-    {
-      "t": 22.69,
-      "ja": "曖昧一回楽に　アイマイミー快楽に",
-      "en": ""
-    },
-    {
-      "t": 25.85,
-      "ja": "病み悪化してんだって",
-      "en": ""
-    },
-    {
-      "t": 27.19,
-      "ja": "愛だ　恋だ　何だってんだ",
-      "en": ""
-    },
-    {
-      "t": 34.99,
-      "ja": "生命線は　愛だって　愛だ　嘆いたって",
-      "en": ""
-    },
-    {
-      "t": 38.42,
-      "ja": "嗚呼　ああでもない　こうでもないな",
-      "en": ""
-    },
-    {
-      "t": 39.81,
-      "ja": "寂しい寂しいナンセンスDAY",
-      "en": ""
-    },
-    {
-      "t": 41.57,
-      "ja": "いっそ密会ラフに　節操無い　解LOVE ME",
-      "en": ""
-    },
-    {
-      "t": 44.67,
-      "ja": "溺れ奴隷　踊れ踊れ　亡霊だ",
-      "en": ""
-    },
-    {
-      "t": 47.61,
-      "ja": "なにもない　なにもない　私 なにもない (ねぇ)",
-      "en": ""
-    },
-    {
-      "t": 50.77,
-      "ja": "変われない　変われない　私 変われない (ねぇ)",
-      "en": ""
-    },
-    {
-      "t": 53.82,
-      "ja": "分からない　分からない「わかる」分からない",
-      "en": ""
-    },
-    {
-      "t": 56.7,
-      "ja": "はーい　目もと以外は隠して",
-      "en": ""
-    },
-    {
-      "t": 59.96,
-      "ja": "駄。",
-      "en": ""
-    },
-    {
-      "t": 60.27,
-      "ja": "ダダダダ　ダリダリ　ダーリン (笑) FUNNY",
-      "en": ""
-    },
-    {
-      "t": 63.21,
-      "ja": "はい冴えない愛情論で　おねだり",
-      "en": ""
-    },
-    {
-      "t": 66.09,
-      "ja": "駄ダダダダ　ダーリン脳裏　汚DIRTY＆汚DIRTY",
-      "en": ""
-    },
-    {
-      "t": 69.53,
-      "ja": "会いたい衝動 埋めてよ　ダダダーリン",
-      "en": ""
-    },
-    {
-      "t": 72.26,
-      "ja": "無…",
-      "en": ""
-    },
-    {
-      "t": 75.91,
-      "ja": "無い無い清純　感情が 行ったり来たり",
-      "en": ""
-    },
-    {
-      "t": 78.68,
-      "ja": "無…",
-      "en": ""
-    },
-    {
-      "t": 82.21,
-      "ja": "無い無い純情　感傷で 駄ダダダーリン",
-      "en": ""
-    },
-    {
-      "t": 97.67,
-      "ja": "ダダダダ　ダーリン ダ　愛だ 喘いだって",
-      "en": ""
-    },
-    {
-      "t": 101.11,
-      "ja": "まあ　ネコロン ゴロンてニャニャ",
-      "en": ""
-    },
-    {
-      "t": 102.51,
-      "ja": "食い意地　食い意地ダイエットDAY",
-      "en": ""
-    },
-    {
-      "t": 104.42,
-      "ja": "もう精一杯で詰み　暴論 お節介で無理",
-      "en": ""
-    },
-    {
-      "t": 107.38,
-      "ja": "病み垢してんだって　承認承認　接待だ",
-      "en": ""
-    },
-    {
-      "t": 110.48,
-      "ja": "なにもない　なにもない　私 なにもない (ねぇ)",
-      "en": ""
-    },
-    {
-      "t": 113.46,
-      "ja": "はしたない　はしたない　私 はしたない (ねぇ)",
-      "en": ""
-    },
-    {
-      "t": 116.48,
-      "ja": "分からない　分からない　「わかる」分からない",
-      "en": ""
-    },
-    {
-      "t": 119.52,
-      "ja": "はーい　自撮りは全部加工して",
-      "en": ""
-    },
-    {
-      "t": 122.62,
-      "ja": "駄。",
-      "en": ""
-    },
-    {
-      "t": 123.12,
-      "ja": "ダダダダ　ダリダリ　ダーリン (笑) FUNNY",
-      "en": ""
-    },
-    {
-      "t": 126.0,
-      "ja": "はい絶えない愛情論で　冷めたり",
-      "en": ""
-    },
-    {
-      "t": 129.0,
-      "ja": "駄ダダダダ　ダーリン無理　汚DIRTY＆汚DIRTY",
-      "en": ""
-    },
-    {
-      "t": 132.24,
-      "ja": "会いたい衝動 止めてよ　ダダダーリン",
-      "en": ""
-    },
-    {
-      "t": 135.29,
-      "ja": "踊れ踊れ　叫べ叫べ",
-      "en": ""
-    },
-    {
-      "t": 138.44,
-      "ja": "踊れ踊れ　ルラッパパ　ルラッパパ",
-      "en": ""
-    },
-    {
-      "t": 141.73,
-      "ja": "踊れ踊れ　唄え唄え",
-      "en": ""
-    },
-    {
-      "t": 144.7,
-      "ja": "踊れ踊れ　ルラッパパ　ルラッパパ",
-      "en": ""
-    },
-    {
-      "t": 149.29,
-      "ja": "もうドッキン　ドッキン脳",
-      "en": ""
-    },
-    {
-      "t": 150.73,
-      "ja": "しんど期　ドッキン悩",
-      "en": ""
-    },
-    {
-      "t": 152.37,
-      "ja": "はーい　素顔は全部無くして",
-      "en": ""
-    },
-    {
-      "t": 155.47,
-      "ja": "駄。",
-      "en": ""
-    },
-    {
-      "t": 155.78,
-      "ja": "ダダダダ　ダリダリ　ダーリン (笑) FUNNY",
-      "en": ""
-    },
-    {
-      "t": 159.02,
-      "ja": "どうしようもない感情論に　嗤ったり",
-      "en": ""
-    },
-    {
-      "t": 161.8,
-      "ja": "駄ダダダダ　ダーリン脳裏　汚DIRTY＆偽DUMMY",
-      "en": ""
-    },
-    {
-      "t": 165.21,
-      "ja": "会いたい衝動 埋めてよ　ダダダーリン",
-      "en": ""
-    },
-    {
-      "t": 168.19,
-      "ja": "無…",
-      "en": ""
-    },
-    {
-      "t": 171.51,
-      "ja": "無い無い反応　返答を 期待したり",
-      "en": ""
-    },
-    {
-      "t": 174.42,
-      "ja": "無…",
-      "en": ""
-    },
-    {
-      "t": 177.88,
-      "ja": "無い無い妄想　感傷で 駄ダダダーリン",
-      "en": ""
-    },
-    {
-      "t": 180.73,
-      "ja": "無い無い純情　感傷で 駄ダダダーリン",
-      "en": ""
-    },
-    {
-      "t": 183.7,
-      "ja": "ねぇ　ダーリン",
-      "en": ""
-    }
+    {"t": 16.16, "ja": "存在証明　愛だって愛だって吐いたって", "en": "Proof of existence — even saying \"love, love, love\" out loud"},
+    {"t": 19.41, "ja": "嗚呼　寝転んゴロンて嫌ん嫌ん", "en": "Ahh, sprawled out — nope, nope, no"},
+    {"t": 21.15, "ja": "プリティプリティ　ダイエットDAY", "en": "Pretty pretty — diet DAY"},
+    {"t": 22.69, "ja": "曖昧一回楽に　アイマイミー快楽に", "en": "Vague just once, easy — I-my-me, into pleasure"},
+    {"t": 25.85, "ja": "病み悪化してんだって", "en": "My mental's getting worse, they say"},
+    {"t": 27.19, "ja": "愛だ　恋だ　何だってんだ", "en": "Love — romance — what's it all even supposed to be"},
+    {"t": 34.99, "ja": "生命線は　愛だって　愛だ　嘆いたって", "en": "My lifeline is love, love — even if I'm grieving"},
+    {"t": 38.42, "ja": "嗚呼　ああでもない　こうでもないな", "en": "Ahh, not like this, not like that either"},
+    {"t": 39.81, "ja": "寂しい寂しいナンセンスDAY", "en": "Lonely, lonely — nonsense DAY"},
+    {"t": 41.57, "ja": "いっそ密会ラフに　節操無い　解LOVE ME", "en": "Let's just meet in secret, casually — no shame — unrave-LOVE ME"},
+    {"t": 44.67, "ja": "溺れ奴隷　踊れ踊れ　亡霊だ", "en": "A drowning slave — dance, dance, a ghost"},
+    {"t": 47.61, "ja": "なにもない　なにもない　私 なにもない (ねぇ)", "en": "Nothing, nothing — I've got nothing (hey)"},
+    {"t": 50.77, "ja": "変われない　変われない　私 変われない (ねぇ)", "en": "Can't change, can't change — I can't change (hey)"},
+    {"t": 53.82, "ja": "分からない　分からない「わかる」分からない", "en": "I don't get it, don't get it — the \"I get it\" — I don't get it"},
+    {"t": 56.7,  "ja": "はーい　目もと以外は隠して", "en": "Yes~ hide everything but the eyes"},
+    {"t": 59.96, "ja": "駄。", "en": "Worthless."},
+    {"t": 60.27, "ja": "ダダダダ　ダリダリ　ダーリン (笑) FUNNY", "en": "Da-da-da-da, dari-dari — darling (lol) FUNNY"},
+    {"t": 63.21, "ja": "はい冴えない愛情論で　おねだり", "en": "So I'm begging with my dull little love theory"},
+    {"t": 66.09, "ja": "駄ダダダダ　ダーリン脳裏　汚DIRTY＆汚DIRTY", "en": "Da-da-da-da-da — darling stuck in my head — filthy DIRTY & filthy DIRTY"},
+    {"t": 69.53, "ja": "会いたい衝動 埋めてよ　ダダダーリン", "en": "Bury this urge to see you — da-da-darling"},
+    {"t": 72.26, "ja": "無…", "en": "Nothing…"},
+    {"t": 75.91, "ja": "無い無い清純　感情が 行ったり来たり", "en": "No, no innocence — feelings going back and forth"},
+    {"t": 78.68, "ja": "無…", "en": "Nothing…"},
+    {"t": 82.21, "ja": "無い無い純情　感傷で 駄ダダダーリン", "en": "No, no pure-heart — just sentimentality, worthless da-da-darling"},
+    {"t": 97.67, "ja": "ダダダダ　ダーリン ダ　愛だ 喘いだって", "en": "Da-da-da-da — darling, da — love, even panting through it"},
+    {"t": 101.11,"ja": "まあ　ネコロン ゴロンてニャニャ", "en": "Well, kitty-curled — rollin' and meow-meow"},
+    {"t": 102.51,"ja": "食い意地　食い意地ダイエットDAY", "en": "Gluttony, gluttony — diet DAY"},
+    {"t": 104.42,"ja": "もう精一杯で詰み　暴論 お節介で無理", "en": "Already at my limit, done for — wild theories, nosy BS, can't"},
+    {"t": 107.38,"ja": "病み垢してんだって　承認承認　接待だ", "en": "Running a vent account, they say — approval, approval — customer service"},
+    {"t": 110.48,"ja": "なにもない　なにもない　私 なにもない (ねぇ)", "en": "Nothing, nothing — I've got nothing (hey)"},
+    {"t": 113.46,"ja": "はしたない　はしたない　私 はしたない (ねぇ)", "en": "Unseemly, unseemly — I'm unseemly (hey)"},
+    {"t": 116.48,"ja": "分からない　分からない　「わかる」分からない", "en": "I don't get it, don't get it — the \"I get it\" — I don't get it"},
+    {"t": 119.52,"ja": "はーい　自撮りは全部加工して", "en": "Yes~ every selfie gets the full filter treatment"},
+    {"t": 122.62,"ja": "駄。", "en": "Worthless."},
+    {"t": 123.12,"ja": "ダダダダ　ダリダリ　ダーリン (笑) FUNNY", "en": "Da-da-da-da, dari-dari — darling (lol) FUNNY"},
+    {"t": 126.0, "ja": "はい絶えない愛情論で　冷めたり", "en": "Never-ending little love theories making me cool off"},
+    {"t": 129.0, "ja": "駄ダダダダ　ダーリン無理　汚DIRTY＆汚DIRTY", "en": "Da-da-da-da-da — darling's too much — filthy DIRTY & filthy DIRTY"},
+    {"t": 132.24,"ja": "会いたい衝動 止めてよ　ダダダーリン", "en": "Stop this urge to see you — da-da-darling"},
+    {"t": 135.29,"ja": "踊れ踊れ　叫べ叫べ", "en": "Dance, dance — scream, scream"},
+    {"t": 138.44,"ja": "踊れ踊れ　ルラッパパ　ルラッパパ", "en": "Dance, dance — lu-rappapa, lu-rappapa"},
+    {"t": 141.73,"ja": "踊れ踊れ　唄え唄え", "en": "Dance, dance — sing, sing"},
+    {"t": 144.7, "ja": "踊れ踊れ　ルラッパパ　ルラッパパ", "en": "Dance, dance — lu-rappapa, lu-rappapa"},
+    {"t": 149.29,"ja": "もうドッキン　ドッキン脳", "en": "My brain's already thumping, thumping"},
+    {"t": 150.73,"ja": "しんど期　ドッキン悩", "en": "Burnout phase — heart-pounding anxiety"},
+    {"t": 152.37,"ja": "はーい　素顔は全部無くして", "en": "Yes~ erase every trace of my real face"},
+    {"t": 155.47,"ja": "駄。", "en": "Worthless."},
+    {"t": 155.78,"ja": "ダダダダ　ダリダリ　ダーリン (笑) FUNNY", "en": "Da-da-da-da, dari-dari — darling (lol) FUNNY"},
+    {"t": 159.02,"ja": "どうしようもない感情論に　嗤ったり", "en": "Laughing at this hopeless pile of emotional logic"},
+    {"t": 161.8, "ja": "駄ダダダダ　ダーリン脳裏　汚DIRTY＆偽DUMMY", "en": "Da-da-da-da-da — darling stuck in my head — filthy DIRTY & fake DUMMY"},
+    {"t": 165.21,"ja": "会いたい衝動 埋めてよ　ダダダーリン", "en": "Bury this urge to see you — da-da-darling"},
+    {"t": 168.19,"ja": "無…", "en": "Nothing…"},
+    {"t": 171.51,"ja": "無い無い反応　返答を 期待したり", "en": "No, no response — but I keep hoping for a reply"},
+    {"t": 174.42,"ja": "無…", "en": "Nothing…"},
+    {"t": 177.88,"ja": "無い無い妄想　感傷で 駄ダダダーリン", "en": "No, no more delusions — just sentimentality, worthless da-da-darling"},
+    {"t": 180.73,"ja": "無い無い純情　感傷で 駄ダダダーリン", "en": "No, no pure-heart — just sentimentality, worthless da-da-darling"},
+    {"t": 183.7, "ja": "ねぇ　ダーリン", "en": "Hey… darling"}
   ]
 }

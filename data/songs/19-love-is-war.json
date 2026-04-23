@@ -1,179 +1,43 @@
 {
   "id": "19-love-is-war",
-  "title": "恋は戦争",
-  "artist": "supercell",
+  "title": "Love is War",
+  "artist": "ryo (supercell) ft. Hatsune Miku",
   "mode": "timed",
   "neteaseId": 22677561,
   "lines": [
-    {
-      "t": 11.73,
-      "ja": "もう行き場がないわ",
-      "en": ""
-    },
-    {
-      "t": 16.3,
-      "ja": "この恋の熱量",
-      "en": ""
-    },
-    {
-      "t": 55.34,
-      "ja": "灰色の雲",
-      "en": ""
-    },
-    {
-      "t": 59.36,
-      "ja": "モノクロの喧騒",
-      "en": ""
-    },
-    {
-      "t": 65.52,
-      "ja": "日差しはかげり",
-      "en": ""
-    },
-    {
-      "t": 69.37,
-      "ja": "夕暮れは色を変えていく",
-      "en": ""
-    },
-    {
-      "t": 77.55,
-      "ja": "世界がにじんで",
-      "en": ""
-    },
-    {
-      "t": 81.71,
-      "ja": "それでも好きでいられるかなんて",
-      "en": ""
-    },
-    {
-      "t": 87.39,
-      "ja": "わかってる",
-      "en": ""
-    },
-    {
-      "t": 89.9,
-      "ja": "けどどうすればいいの",
-      "en": ""
-    },
-    {
-      "t": 93.19,
-      "ja": "どうしたら どうすれば",
-      "en": ""
-    },
-    {
-      "t": 99.3,
-      "ja": "バカだな… わたし",
-      "en": ""
-    },
-    {
-      "t": 101.21,
-      "ja": "始めるのよ これは戦争",
-      "en": ""
-    },
-    {
-      "t": 107.67,
-      "ja": "嬉しそうなキミをみるなんて！",
-      "en": ""
-    },
-    {
-      "t": 113.23,
-      "ja": "切なる恋 それは罪",
-      "en": ""
-    },
-    {
-      "t": 118.71,
-      "ja": "見せてあげる わたしの想いを",
-      "en": ""
-    },
-    {
-      "t": 134.86,
-      "ja": "叫んでみた",
-      "en": ""
-    },
-    {
-      "t": 138.94,
-      "ja": "メガホンは壊れてたの",
-      "en": ""
-    },
-    {
-      "t": 145.14,
-      "ja": "どれだけ背伸びしたって",
-      "en": ""
-    },
-    {
-      "t": 150.27,
-      "ja": "君の視界に入らない",
-      "en": ""
-    },
-    {
-      "t": 156.15,
-      "ja": "嗚呼、いつの間にか晴れた空",
-      "en": ""
-    },
-    {
-      "t": 165.3,
-      "ja": "全然似合わない",
-      "en": ""
-    },
-    {
-      "t": 167.7,
-      "ja": "気持ちが抑えられなくて",
-      "en": ""
-    },
-    {
-      "t": 172.56,
-      "ja": "どうしたら どうすれば",
-      "en": ""
-    },
-    {
-      "t": 177.72,
-      "ja": "泣いてなんか ないんだからね",
-      "en": ""
-    },
-    {
-      "t": 185.0,
-      "ja": "大好き",
-      "en": ""
-    },
-    {
-      "t": 186.32,
-      "ja": "たたかうのよ ハートを撃て",
-      "en": ""
-    },
-    {
-      "t": 192.7,
-      "ja": "手段なんて選んでられない",
-      "en": ""
-    },
-    {
-      "t": 197.96,
-      "ja": "スカートひらり見せ付けるのよ",
-      "en": ""
-    },
-    {
-      "t": 203.73,
-      "ja": "君の視線奪ってみせるの",
-      "en": ""
-    },
-    {
-      "t": 211.69,
-      "ja": "迎撃用意",
-      "en": ""
-    },
-    {
-      "t": 214.72,
-      "ja": "戦況は未だ不利なのです",
-      "en": ""
-    },
-    {
-      "t": 220.53,
-      "ja": "恋は盲目",
-      "en": ""
-    },
-    {
-      "t": 225.69,
-      "ja": "君の口づけで目が覚めるの！",
-      "en": ""
-    }
+    {"t": 11.73, "ja": "もう行き場がないわ", "en": "There's nowhere left for me to go"},
+    {"t": 16.3,  "ja": "この恋の熱量", "en": "The heat of this love —"},
+    {"t": 55.34, "ja": "灰色の雲", "en": "Gray clouds,"},
+    {"t": 59.36, "ja": "モノクロの喧騒", "en": "a monochrome commotion"},
+    {"t": 65.52, "ja": "日差しはかげり", "en": "The sunlight dims"},
+    {"t": 69.37, "ja": "夕暮れは色を変えていく", "en": "Dusk keeps shifting its colors"},
+    {"t": 77.55, "ja": "世界がにじんで", "en": "The world starts to blur —"},
+    {"t": 81.71, "ja": "それでも好きでいられるかなんて", "en": "whether I can still love you through all this,"},
+    {"t": 87.39, "ja": "わかってる", "en": "I already know"},
+    {"t": 89.9,  "ja": "けどどうすればいいの", "en": "but what am I supposed to do?"},
+    {"t": 93.19, "ja": "どうしたら どうすれば", "en": "What do I do, how do I —"},
+    {"t": 99.3,  "ja": "バカだな… わたし", "en": "I'm such an idiot…"},
+    {"t": 101.21,"ja": "始めるのよ これは戦争", "en": "It's on now — this is war"},
+    {"t": 107.67,"ja": "嬉しそうなキミをみるなんて！", "en": "I can't stand seeing you look so happy with her!"},
+    {"t": 113.23,"ja": "切なる恋 それは罪", "en": "A love this desperate is a sin"},
+    {"t": 118.71,"ja": "見せてあげる わたしの想いを", "en": "I'll show you exactly how I feel"},
+    {"t": 134.86,"ja": "叫んでみた", "en": "I tried shouting —"},
+    {"t": 138.94,"ja": "メガホンは壊れてたの", "en": "turns out the megaphone was broken"},
+    {"t": 145.14,"ja": "どれだけ背伸びしたって", "en": "No matter how hard I stretch,"},
+    {"t": 150.27,"ja": "君の視界に入らない", "en": "I never reach your line of sight"},
+    {"t": 156.15,"ja": "嗚呼、いつの間にか晴れた空", "en": "Ah — the sky cleared up before I noticed"},
+    {"t": 165.3, "ja": "全然似合わない", "en": "It doesn't suit me at all"},
+    {"t": 167.7, "ja": "気持ちが抑えられなくて", "en": "I can't keep these feelings down —"},
+    {"t": 172.56,"ja": "どうしたら どうすれば", "en": "What do I do, how do I —"},
+    {"t": 177.72,"ja": "泣いてなんか ないんだからね", "en": "I'm not crying or anything, okay?!"},
+    {"t": 185.0, "ja": "大好き", "en": "I love you"},
+    {"t": 186.32,"ja": "たたかうのよ ハートを撃て", "en": "I'm gonna fight — straight through the heart"},
+    {"t": 192.7, "ja": "手段なんて選んでられない", "en": "No time to be picky about how"},
+    {"t": 197.96,"ja": "スカートひらり見せ付けるのよ", "en": "One flick of my skirt and he'll look"},
+    {"t": 203.73,"ja": "君の視線奪ってみせるの", "en": "I'll steal your gaze, you'll see"},
+    {"t": 211.69,"ja": "迎撃用意", "en": "All units, ready to intercept"},
+    {"t": 214.72,"ja": "戦況は未だ不利なのです", "en": "The battle is still tipping against me"},
+    {"t": 220.53,"ja": "恋は盲目", "en": "Love is blind —"},
+    {"t": 225.69,"ja": "君の口づけで目が覚めるの！", "en": "your kiss is the only thing that'll wake me!"}
   ]
 }

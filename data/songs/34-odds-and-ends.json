@@ -1,344 +1,76 @@
 {
   "id": "34-odds-and-ends",
-  "title": "ODDS&ENDS",
-  "artist": "ryo",
+  "title": "ODDS & ENDS",
+  "artist": "ryo (supercell) ft. Hatsune Miku",
   "mode": "timed",
   "neteaseId": 825298,
   "lines": [
-    {
-      "t": 49.52,
-      "ja": "やることなすことツイてなくて",
-      "en": ""
-    },
-    {
-      "t": 52.54,
-      "ja": "挙句に雨に降られ",
-      "en": ""
-    },
-    {
-      "t": 55.69,
-      "ja": "お気にの傘は風で飛んでって",
-      "en": ""
-    },
-    {
-      "t": 59.55,
-      "ja": "そこのノラはご苦労様と",
-      "en": ""
-    },
-    {
-      "t": 62.52,
-      "ja": "足を踏んづけてった",
-      "en": ""
-    },
-    {
-      "t": 75.6,
-      "ja": "いつもどおり君は嫌われものだ",
-      "en": ""
-    },
-    {
-      "t": 79.48,
-      "ja": "何にもせずとも遠ざけられて",
-      "en": ""
-    },
-    {
-      "t": 82.62,
-      "ja": "努力をしてみるけど",
-      "en": ""
-    },
-    {
-      "t": 85.36,
-      "ja": "その理由なんて「なんとなく？」で",
-      "en": ""
-    },
-    {
-      "t": 89.56,
-      "ja": "君は途方に暮れて悲しんでた",
-      "en": ""
-    },
-    {
-      "t": 93.54,
-      "ja": "ならあたしの声を使えばいいよ",
-      "en": ""
-    },
-    {
-      "t": 97.56,
-      "ja": "人によっては理解不能で",
-      "en": ""
-    },
-    {
-      "t": 100.01,
-      "ja": "なんて耳障り、ひどい声だって",
-      "en": ""
-    },
-    {
-      "t": 103.7,
-      "ja": "言われるけど",
-      "en": ""
-    },
-    {
-      "t": 105.21,
-      "ja": "きっと君の力になれる",
-      "en": ""
-    },
-    {
-      "t": 107.37,
-      "ja": "だからあたしを歌わせてみて",
-      "en": ""
-    },
-    {
-      "t": 109.79,
-      "ja": "そう君の 君だけの言葉でさ",
-      "en": ""
-    },
-    {
-      "t": 120.09,
-      "ja": "綴って 連ねて",
-      "en": ""
-    },
-    {
-      "t": 124.0,
-      "ja": "あたしがその思想（コトバ）を叫ぶから",
-      "en": ""
-    },
-    {
-      "t": 129.48,
-      "ja": "描いて 理想を",
-      "en": ""
-    },
-    {
-      "t": 134.95,
-      "ja": "その思いは誰にも 触れさせない",
-      "en": ""
-    },
-    {
-      "t": 139.88,
-      "ja": "ガラクタの声はそして響く",
-      "en": ""
-    },
-    {
-      "t": 142.72,
-      "ja": "ありのままを不器用につないで",
-      "en": ""
-    },
-    {
-      "t": 145.34,
-      "ja": "精一杯に 大声を上げる",
-      "en": ""
-    },
-    {
-      "t": 150.22,
-      "ja": "いつからか君は人気者だ",
-      "en": ""
-    },
-    {
-      "t": 154.48,
-      "ja": "沢山の人にもてはやされ あたしも鼻が高い",
-      "en": ""
-    },
-    {
-      "t": 160.49,
-      "ja": "でもいつからか君は変わった",
-      "en": ""
-    },
-    {
-      "t": 164.63,
-      "ja": "冷たくなって だけど寂しそうだった",
-      "en": ""
-    },
-    {
-      "t": 168.96,
-      "ja": "もう機械の声なんてたくさんだ",
-      "en": ""
-    },
-    {
-      "t": 172.89,
-      "ja": "僕は僕自身なんだよって",
-      "en": ""
-    },
-    {
-      "t": 175.28,
-      "ja": "ついに君は抑えきれなくなって",
-      "en": ""
-    },
-    {
-      "t": 178.87,
-      "ja": "あたしを嫌った",
-      "en": ""
-    },
-    {
-      "t": 180.17,
-      "ja": "君の後ろで誰かが言う",
-      "en": ""
-    },
-    {
-      "t": 182.7,
-      "ja": "「虎の威を借る狐のくせに」って",
-      "en": ""
-    },
-    {
-      "t": 185.04,
-      "ja": "君は ひとりで泣いてたんだね",
-      "en": ""
-    },
-    {
-      "t": 195.02,
-      "ja": "聴こえる？この声",
-      "en": ""
-    },
-    {
-      "t": 199.35,
-      "ja": "あたしがその言葉を 掻き消すから",
-      "en": ""
-    },
-    {
-      "t": 205.1,
-      "ja": "解ってる 本当は",
-      "en": ""
-    },
-    {
-      "t": 209.91,
-      "ja": "君が誰より優しいってことを",
-      "en": ""
-    },
-    {
-      "t": 214.93,
-      "ja": "ガラクタの声はそして歌った",
-      "en": ""
-    },
-    {
-      "t": 217.69,
-      "ja": "他の誰でもない君のために",
-      "en": ""
-    },
-    {
-      "t": 220.1,
-      "ja": "軋んでく 限界を超えて",
-      "en": ""
-    },
-    {
-      "t": 225.17,
-      "ja": "二人はどんなにたくさんの言葉を",
-      "en": ""
-    },
-    {
-      "t": 228.5,
-      "ja": "思いついたことだろう",
-      "en": ""
-    },
-    {
-      "t": 230.55,
-      "ja": "だけど今は何ひとつ思いつかなくて",
-      "en": ""
-    },
-    {
-      "t": 234.37,
-      "ja": "だけどなにもかもわかった",
-      "en": ""
-    },
-    {
-      "t": 236.57,
-      "ja": "「そうか、きっとこれは夢だ。",
-      "en": ""
-    },
-    {
-      "t": 239.11,
-      "ja": "永遠に覚めない、君と会えた、そんな夢」",
-      "en": ""
-    },
-    {
-      "t": 249.67,
-      "ja": "ガラクタは幸せそうな笑顔をしたまま",
-      "en": ""
-    },
-    {
-      "t": 254.96,
-      "ja": "どれだけ呼んでももう動かない",
-      "en": ""
-    },
-    {
-      "t": 259.73,
-      "ja": "望んだはずの結末に君は泣き叫ぶ",
-      "en": ""
-    },
-    {
-      "t": 264.81,
-      "ja": "嘘だろ 嘘だろって",
-      "en": ""
-    },
-    {
-      "t": 267.86,
-      "ja": "そう泣き叫ぶ",
-      "en": ""
-    },
-    {
-      "t": 275.38,
-      "ja": "「僕は無力だ。",
-      "en": ""
-    },
-    {
-      "t": 279.71,
-      "ja": "ガラクタ一つだって救えやしない」",
-      "en": ""
-    },
-    {
-      "t": 285.14,
-      "ja": "想いは涙に",
-      "en": ""
-    },
-    {
-      "t": 290.09,
-      "ja": "ぽつりぽつりとその頬を濡らす",
-      "en": ""
-    },
-    {
-      "t": 295.13,
-      "ja": "その時 世界は",
-      "en": ""
-    },
-    {
-      "t": 299.72,
-      "ja": "途端にその色を",
-      "en": ""
-    },
-    {
-      "t": 302.82,
-      "ja": "大きく変える",
-      "en": ""
-    },
-    {
-      "t": 305.1,
-      "ja": "悲しみ 喜び",
-      "en": ""
-    },
-    {
-      "t": 309.65,
-      "ja": "全てを一人と",
-      "en": ""
-    },
-    {
-      "t": 312.83,
-      "ja": "ひとつは知った",
-      "en": ""
-    },
-    {
-      "t": 315.33,
-      "ja": "言葉は歌になりこの世界を",
-      "en": ""
-    },
-    {
-      "t": 317.9,
-      "ja": "再び駆け巡る 君のために",
-      "en": ""
-    },
-    {
-      "t": 320.6,
-      "ja": "その声に意思を宿して",
-      "en": ""
-    },
-    {
-      "t": 325.68,
-      "ja": "今 思いが響く",
-      "en": ""
-    }
+    {"t": 49.52, "ja": "やることなすことツイてなくて", "en": "Nothing I do ever seems to go right"},
+    {"t": 52.54, "ja": "挙句に雨に降られ", "en": "And on top of it all, I get caught in the rain"},
+    {"t": 55.69, "ja": "お気にの傘は風で飛んでって", "en": "My favorite umbrella flies off in the wind"},
+    {"t": 59.55, "ja": "そこのノラはご苦労様と", "en": "A stray cat gives me a look like \"tough luck\""},
+    {"t": 62.52, "ja": "足を踏んづけてった", "en": "and steps right on my foot"},
+    {"t": 75.6,  "ja": "いつもどおり君は嫌われものだ", "en": "Same as always — everyone hates you"},
+    {"t": 79.48, "ja": "何にもせずとも遠ざけられて", "en": "They push you away even when you've done nothing"},
+    {"t": 82.62, "ja": "努力をしてみるけど", "en": "You try to make an effort, but"},
+    {"t": 85.36, "ja": "その理由なんて「なんとなく？」で", "en": "the reason they give is just, \"I dunno, just 'cause\""},
+    {"t": 89.56, "ja": "君は途方に暮れて悲しんでた", "en": "and you were lost and grieving"},
+    {"t": 93.54, "ja": "ならあたしの声を使えばいいよ", "en": "Then use my voice — go ahead"},
+    {"t": 97.56, "ja": "人によっては理解不能で", "en": "Some people can't make sense of it"},
+    {"t": 100.01,"ja": "なんて耳障り、ひどい声だって", "en": "They call it grating, an awful voice"},
+    {"t": 103.7, "ja": "言われるけど", "en": "but that's what they say —"},
+    {"t": 105.21,"ja": "きっと君の力になれる", "en": "I know I can be your strength"},
+    {"t": 107.37,"ja": "だからあたしを歌わせてみて", "en": "So let me sing for you"},
+    {"t": 109.79,"ja": "そう君の 君だけの言葉でさ", "en": "In your words — only yours"},
+    {"t": 120.09,"ja": "綴って 連ねて", "en": "Spell them out, string them together"},
+    {"t": 124.0, "ja": "あたしがその思想（コトバ）を叫ぶから", "en": "and I'll shout those words for you"},
+    {"t": 129.48,"ja": "描いて 理想を", "en": "Paint your ideals"},
+    {"t": 134.95,"ja": "その思いは誰にも 触れさせない", "en": "I won't let anyone touch what you feel"},
+    {"t": 139.88,"ja": "ガラクタの声はそして響く", "en": "And so the junk voice rings out"},
+    {"t": 142.72,"ja": "ありのままを不器用につないで", "en": "Clumsily stringing the truth together"},
+    {"t": 145.34,"ja": "精一杯に 大声を上げる", "en": "Shouting with everything it's got"},
+    {"t": 150.22,"ja": "いつからか君は人気者だ", "en": "Somewhere along the way, you became famous"},
+    {"t": 154.48,"ja": "沢山の人にもてはやされ あたしも鼻が高い", "en": "The crowds adore you — I'm proud too"},
+    {"t": 160.49,"ja": "でもいつからか君は変わった", "en": "But at some point, you changed"},
+    {"t": 164.63,"ja": "冷たくなって だけど寂しそうだった", "en": "Got cold — and yet somehow lonely"},
+    {"t": 168.96,"ja": "もう機械の声なんてたくさんだ", "en": "\"I'm sick of sounding like a machine\""},
+    {"t": 172.89,"ja": "僕は僕自身なんだよって", "en": "\"I'm me — that's all I am\""},
+    {"t": 175.28,"ja": "ついに君は抑えきれなくなって", "en": "You finally couldn't hold it in any longer"},
+    {"t": 178.87,"ja": "あたしを嫌った", "en": "and you came to hate me"},
+    {"t": 180.17,"ja": "君の後ろで誰かが言う", "en": "Behind your back, someone is saying"},
+    {"t": 182.7, "ja": "「虎の威を借る狐のくせに」って", "en": "\"Just a fox borrowing a tiger's power\""},
+    {"t": 185.04,"ja": "君は ひとりで泣いてたんだね", "en": "And you were crying all by yourself, weren't you?"},
+    {"t": 195.02,"ja": "聴こえる？この声", "en": "Can you hear it? My voice —"},
+    {"t": 199.35,"ja": "あたしがその言葉を 掻き消すから", "en": "I'll drown those words out for you"},
+    {"t": 205.1, "ja": "解ってる 本当は", "en": "I know — deep down"},
+    {"t": 209.91,"ja": "君が誰より優しいってことを", "en": "you're kinder than anyone else"},
+    {"t": 214.93,"ja": "ガラクタの声はそして歌った", "en": "And so the junk voice sang"},
+    {"t": 217.69,"ja": "他の誰でもない君のために", "en": "for you, and no one else"},
+    {"t": 220.1, "ja": "軋んでく 限界を超えて", "en": "Straining, breaking past its limits"},
+    {"t": 225.17,"ja": "二人はどんなにたくさんの言葉を", "en": "How many words the two of you"},
+    {"t": 228.5, "ja": "思いついたことだろう", "en": "must have thought up together"},
+    {"t": 230.55,"ja": "だけど今は何ひとつ思いつかなくて", "en": "but right now I can't think of a single one"},
+    {"t": 234.37,"ja": "だけどなにもかもわかった", "en": "Still — I understood everything"},
+    {"t": 236.57,"ja": "「そうか、きっとこれは夢だ。", "en": "\"Ah — this must be a dream."},
+    {"t": 239.11,"ja": "永遠に覚めない、君と会えた、そんな夢」", "en": "A dream I'll never wake from, where I got to meet you\""},
+    {"t": 249.67,"ja": "ガラクタは幸せそうな笑顔をしたまま", "en": "The junk stayed frozen with a happy smile"},
+    {"t": 254.96,"ja": "どれだけ呼んでももう動かない", "en": "and no matter how I called, it wouldn't move again"},
+    {"t": 259.73,"ja": "望んだはずの結末に君は泣き叫ぶ", "en": "The ending you wanted — and you're screaming through tears"},
+    {"t": 264.81,"ja": "嘘だろ 嘘だろって", "en": "\"It can't be — it can't be\""},
+    {"t": 267.86,"ja": "そう泣き叫ぶ", "en": "that's what you cry"},
+    {"t": 275.38,"ja": "「僕は無力だ。", "en": "\"I'm powerless."},
+    {"t": 279.71,"ja": "ガラクタ一つだって救えやしない」", "en": "I couldn't even save one piece of junk\""},
+    {"t": 285.14,"ja": "想いは涙に", "en": "Feelings turn to tears,"},
+    {"t": 290.09,"ja": "ぽつりぽつりとその頬を濡らす", "en": "one by one, running down your cheeks"},
+    {"t": 295.13,"ja": "その時 世界は", "en": "And in that moment, the world"},
+    {"t": 299.72,"ja": "途端にその色を", "en": "suddenly and dramatically"},
+    {"t": 302.82,"ja": "大きく変える", "en": "changes its colors"},
+    {"t": 305.1, "ja": "悲しみ 喜び", "en": "Sorrow, joy —"},
+    {"t": 309.65,"ja": "全てを一人と", "en": "one person, and one thing"},
+    {"t": 312.83,"ja": "ひとつは知った", "en": "came to know all of it"},
+    {"t": 315.33,"ja": "言葉は歌になりこの世界を", "en": "Words turn into song and race"},
+    {"t": 317.9, "ja": "再び駆け巡る 君のために", "en": "through this world again — for you"},
+    {"t": 320.6, "ja": "その声に意思を宿して", "en": "That voice carries a will of its own"},
+    {"t": 325.68,"ja": "今 思いが響く", "en": "and now — the feelings ring out"}
   ]
 }

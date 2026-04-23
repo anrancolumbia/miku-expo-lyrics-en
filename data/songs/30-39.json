@@ -1,224 +1,52 @@
 {
   "id": "30-39",
-  "title": "39",
-  "artist": "sasakure.UK DECO*27",
+  "title": "39 (Thank You)",
+  "artist": "sasakure.UK × DECO*27 ft. Hatsune Miku",
   "mode": "timed",
   "neteaseId": 1841019659,
   "lines": [
-    {
-      "t": 15.24,
-      "ja": "「はじめまして」とか　何回言ったっけ",
-      "en": ""
-    },
-    {
-      "t": 20.75,
-      "ja": "アタシ、ホントは人見知りで",
-      "en": ""
-    },
-    {
-      "t": 25.54,
-      "ja": "ドキドキしてるよ　実は今だって",
-      "en": ""
-    },
-    {
-      "t": 30.98,
-      "ja": "上手く歌えてる？",
-      "en": ""
-    },
-    {
-      "t": 33.21,
-      "ja": "ねえ怖いんだ今でも",
-      "en": ""
-    },
-    {
-      "t": 36.33,
-      "ja": "それでも伝えたい",
-      "en": ""
-    },
-    {
-      "t": 41.03,
-      "ja": "だからきっと頑張れるんだって",
-      "en": ""
-    },
-    {
-      "t": 45.1,
-      "ja": "逃げないんだ",
-      "en": ""
-    },
-    {
-      "t": 46.39,
-      "ja": "君に出会って　みんな出会って",
-      "en": ""
-    },
-    {
-      "t": 49.18,
-      "ja": "”アタシ”であって良かったよ",
-      "en": ""
-    },
-    {
-      "t": 51.57,
-      "ja": "何回言ったって足りないよ",
-      "en": ""
-    },
-    {
-      "t": 56.0,
-      "ja": "声に出して　３９（サンキュー）",
-      "en": ""
-    },
-    {
-      "t": 58.11,
-      "ja": "あれ、なんだかアタシの名前みたい（笑）",
-      "en": ""
-    },
-    {
-      "t": 63.59,
-      "ja": "今日もありがとう",
-      "en": ""
-    },
-    {
-      "t": 81.37,
-      "ja": "「はじめまして」とか　何回言ったっけ",
-      "en": ""
-    },
-    {
-      "t": 86.94,
-      "ja": "アタシ、ホントに嬉しかったんだ",
-      "en": ""
-    },
-    {
-      "t": 91.69,
-      "ja": "ワクワクしてるよ　これからもずっと",
-      "en": ""
-    },
-    {
-      "t": 97.2,
-      "ja": "広がっていくんだ",
-      "en": ""
-    },
-    {
-      "t": 99.36,
-      "ja": "ああ繋がっていけるんだ",
-      "en": ""
-    },
-    {
-      "t": 102.24,
-      "ja": "跳ねる音粒　描いていく筆先",
-      "en": ""
-    },
-    {
-      "t": 107.49,
-      "ja": "奏でて踊って　生まれてく輪の中で",
-      "en": ""
-    },
-    {
-      "t": 113.03,
-      "ja": "泣きたくなること　たくさんあったよ",
-      "en": ""
-    },
-    {
-      "t": 118.39,
-      "ja": "でも、笑ってばかりだったな",
-      "en": ""
-    },
-    {
-      "t": 121.9,
-      "ja": "ごめんね、",
-      "en": ""
-    },
-    {
-      "t": 123.28,
-      "ja": "ありがとう、幸せだよ　お返しするよ",
-      "en": ""
-    },
-    {
-      "t": 134.9,
-      "ja": "プレゼント　アタシだけもらってばかりじゃ嫌だから",
-      "en": ""
-    },
-    {
-      "t": 140.37,
-      "ja": "受け取ってもらえなきゃ困る",
-      "en": ""
-    },
-    {
-      "t": 144.53,
-      "ja": "この歌を",
-      "en": ""
-    },
-    {
-      "t": 147.14,
-      "ja": "君に出会って　みんな出会って",
-      "en": ""
-    },
-    {
-      "t": 149.98,
-      "ja": "”アタシ”であって良かったよ",
-      "en": ""
-    },
-    {
-      "t": 152.32,
-      "ja": "何回言ったって足りないよ",
-      "en": ""
-    },
-    {
-      "t": 156.82,
-      "ja": "声に出して　３９（サンキュー）",
-      "en": ""
-    },
-    {
-      "t": 158.85,
-      "ja": "あれ、なんだかアタシの名前みたい（笑）",
-      "en": ""
-    },
-    {
-      "t": 164.29,
-      "ja": "今日もそして",
-      "en": ""
-    },
-    {
-      "t": 166.54,
-      "ja": "明日だって　この先だって",
-      "en": ""
-    },
-    {
-      "t": 169.13,
-      "ja": "アタシはずっと",
-      "en": ""
-    },
-    {
-      "t": 170.48,
-      "ja": "ここにいる",
-      "en": ""
-    },
-    {
-      "t": 171.52,
-      "ja": "なんかあったら聴きに来てよ　歌うよ",
-      "en": ""
-    },
-    {
-      "t": 176.49,
-      "ja": "何度だって",
-      "en": ""
-    },
-    {
-      "t": 177.56,
-      "ja": "「はじめまして」も",
-      "en": ""
-    },
-    {
-      "t": 179.44,
-      "ja": "はたまた",
-      "en": ""
-    },
-    {
-      "t": 180.23,
-      "ja": "「久しぶり」も",
-      "en": ""
-    },
-    {
-      "t": 182.41,
-      "ja": "みんなありがとう",
-      "en": ""
-    }
+    {"t": 15.24, "ja": "「はじめまして」とか　何回言ったっけ", "en": "How many times have I said \"nice to meet you\" by now?"},
+    {"t": 20.75, "ja": "アタシ、ホントは人見知りで", "en": "Honestly, I'm shy around new people"},
+    {"t": 25.54, "ja": "ドキドキしてるよ　実は今だって", "en": "My heart's pounding — even right now"},
+    {"t": 30.98, "ja": "上手く歌えてる？", "en": "Am I singing this okay?"},
+    {"t": 33.21, "ja": "ねえ怖いんだ今でも", "en": "Hey — I'm still scared, you know"},
+    {"t": 36.33, "ja": "それでも伝えたい", "en": "But I still want to tell you"},
+    {"t": 41.03, "ja": "だからきっと頑張れるんだって", "en": "That's why I know I can keep pushing through"},
+    {"t": 45.1,  "ja": "逃げないんだ", "en": "I won't run away"},
+    {"t": 46.39, "ja": "君に出会って　みんな出会って", "en": "Meeting you, meeting everyone —"},
+    {"t": 49.18, "ja": "”アタシ”であって良かったよ", "en": "I'm so glad I got to be \"me\""},
+    {"t": 51.57, "ja": "何回言ったって足りないよ", "en": "I could say it a thousand times and it still wouldn't be enough"},
+    {"t": 56.0,  "ja": "声に出して　３９（サンキュー）", "en": "Let me say it out loud — 39 (thank you)"},
+    {"t": 58.11, "ja": "あれ、なんだかアタシの名前みたい（笑）", "en": "Huh — that kinda sounds like my name (lol)"},
+    {"t": 63.59, "ja": "今日もありがとう", "en": "Thank you, today too"},
+    {"t": 81.37, "ja": "「はじめまして」とか　何回言ったっけ", "en": "How many times have I said \"nice to meet you\" by now?"},
+    {"t": 86.94, "ja": "アタシ、ホントに嬉しかったんだ", "en": "I was really, truly happy"},
+    {"t": 91.69, "ja": "ワクワクしてるよ　これからもずっと", "en": "I'm buzzing with excitement — and I will be from here on"},
+    {"t": 97.2,  "ja": "広がっていくんだ", "en": "It just keeps spreading outward"},
+    {"t": 99.36, "ja": "ああ繋がっていけるんだ", "en": "Ah — we get to stay connected"},
+    {"t": 102.24,"ja": "跳ねる音粒　描いていく筆先", "en": "Notes that bounce, a brush that keeps drawing"},
+    {"t": 107.49,"ja": "奏でて踊って　生まれてく輪の中で", "en": "Playing, dancing, inside this circle being born"},
+    {"t": 113.03,"ja": "泣きたくなること　たくさんあったよ", "en": "There were so many moments I felt like crying"},
+    {"t": 118.39,"ja": "でも、笑ってばかりだったな", "en": "but I ended up smiling through all of them"},
+    {"t": 121.9, "ja": "ごめんね、", "en": "I'm sorry —"},
+    {"t": 123.28,"ja": "ありがとう、幸せだよ　お返しするよ", "en": "thank you, I'm happy, and let me give something back"},
+    {"t": 134.9, "ja": "プレゼント　アタシだけもらってばかりじゃ嫌だから", "en": "I don't want to be the only one getting presents"},
+    {"t": 140.37,"ja": "受け取ってもらえなきゃ困る", "en": "So please — take this from me"},
+    {"t": 144.53,"ja": "この歌を", "en": "This song"},
+    {"t": 147.14,"ja": "君に出会って　みんな出会って", "en": "Meeting you, meeting everyone —"},
+    {"t": 149.98,"ja": "”アタシ”であって良かったよ", "en": "I'm so glad I got to be \"me\""},
+    {"t": 152.32,"ja": "何回言ったって足りないよ", "en": "I could say it a thousand times and it still wouldn't be enough"},
+    {"t": 156.82,"ja": "声に出して　３９（サンキュー）", "en": "Let me say it out loud — 39 (thank you)"},
+    {"t": 158.85,"ja": "あれ、なんだかアタシの名前みたい（笑）", "en": "Huh — that kinda sounds like my name (lol)"},
+    {"t": 164.29,"ja": "今日もそして", "en": "Today, and"},
+    {"t": 166.54,"ja": "明日だって　この先だって", "en": "tomorrow, and every day after"},
+    {"t": 169.13,"ja": "アタシはずっと", "en": "I'll always"},
+    {"t": 170.48,"ja": "ここにいる", "en": "be right here"},
+    {"t": 171.52,"ja": "なんかあったら聴きに来てよ　歌うよ", "en": "If anything happens, come and listen — I'll sing for you"},
+    {"t": 176.49,"ja": "何度だって", "en": "Over and over again —"},
+    {"t": 177.56,"ja": "「はじめまして」も", "en": "\"nice to meet you,\""},
+    {"t": 179.44,"ja": "はたまた", "en": "or maybe"},
+    {"t": 180.23,"ja": "「久しぶり」も", "en": "\"long time no see\" —"},
+    {"t": 182.41,"ja": "みんなありがとう", "en": "thank you, everyone"}
   ]
 }

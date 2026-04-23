@@ -1,189 +1,45 @@
 {
   "id": "06-raspberry-monster",
   "title": "Raspberry*Monster",
-  "artist": "HoneyWorks",
+  "artist": "HoneyWorks ft. Hatsune Miku",
   "mode": "timed",
   "neteaseId": 1318313402,
   "lines": [
-    {
-      "t": 1.2,
-      "ja": "呗：初音ミク",
-      "en": ""
-    },
-    {
-      "t": 1.5,
-      "ja": "翻唱：浮秋秋_Aki",
-      "en": ""
-    },
-    {
-      "t": 1.84,
-      "ja": "3，2，1 って合図カマしたら舌を出せ",
-      "en": ""
-    },
-    {
-      "t": 5.62,
-      "ja": "中指立てて绝好调",
-      "en": ""
-    },
-    {
-      "t": 8.1,
-      "ja": "味も薄れたラズベリーのガムを吐き舍てて",
-      "en": ""
-    },
-    {
-      "t": 12.85,
-      "ja": "Bye LOVE（アイ）",
-      "en": ""
-    },
-    {
-      "t": 24.36,
-      "ja": "AM6:00",
-      "en": ""
-    },
-    {
-      "t": 25.39,
-      "ja": "目覚まし时计を起こして",
-      "en": ""
-    },
-    {
-      "t": 27.99,
-      "ja": "ボリューム全开ロックで",
-      "en": ""
-    },
-    {
-      "t": 30.51,
-      "ja": "现実世界 ギャップに眩晕冷や汗をかいて",
-      "en": ""
-    },
-    {
-      "t": 34.55,
-      "ja": "PM6：00",
-      "en": ""
-    },
-    {
-      "t": 35.5,
-      "ja": "いつものガムは売り切れで",
-      "en": ""
-    },
-    {
-      "t": 38.08,
-      "ja": "电波も圏外どうして",
-      "en": ""
-    },
-    {
-      "t": 40.47,
-      "ja": "现実世界 胜手に期待もう构わないで消して",
-      "en": ""
-    },
-    {
-      "t": 45.72,
-      "ja": "爱（め）と爱（め）が苦手です隠れたいよ",
-      "en": ""
-    },
-    {
-      "t": 48.08,
-      "ja": "仮想（ドチラ）が现実（コチラ）です",
-      "en": ""
-    },
-    {
-      "t": 49.62,
-      "ja": "わかんないよ！",
-      "en": ""
-    },
-    {
-      "t": 50.52,
-      "ja": "身体を残して仆と繋ぐ仮想ドライブ",
-      "en": ""
-    },
-    {
-      "t": 55.27,
-      "ja": "ラズベリー＊モンスター",
-      "en": ""
-    },
-    {
-      "t": 59.7,
-      "ja": "赤く気高く立ち向かうたった一人",
-      "en": ""
-    },
-    {
-      "t": 64.94,
-      "ja": "ラズベリー＊モンスター",
-      "en": ""
-    },
-    {
-      "t": 69.5,
-      "ja": "君を止められるヤツは此処には居ないYeah！",
-      "en": ""
-    },
-    {
-      "t": 85.96,
-      "ja": "いつからこんな风になってしまっちゃったの",
-      "en": ""
-    },
-    {
-      "t": 90.51,
-      "ja": "笑颜さえもぎこちないや",
-      "en": ""
-    },
-    {
-      "t": 95.82,
-      "ja": "君は仆だ 仆だけの君だ",
-      "en": ""
-    },
-    {
-      "t": 100.51,
-      "ja": "早く助けてよ",
-      "en": ""
-    },
-    {
-      "t": 115.42,
-      "ja": "やる気はあります 空回ります",
-      "en": ""
-    },
-    {
-      "t": 118.1,
-      "ja": "何方が味方です",
-      "en": ""
-    },
-    {
-      "t": 119.53,
-      "ja": "わかんないよ！",
-      "en": ""
-    },
-    {
-      "t": 120.78,
-      "ja": "近づきたいんだ赤い少女",
-      "en": ""
-    },
-    {
-      "t": 127.62,
-      "ja": "ラズベリー＊モンスター",
-      "en": ""
-    },
-    {
-      "t": 131.87,
-      "ja": "缠う 攻撃は最大の防御なのに谁もが逃げてる",
-      "en": ""
-    },
-    {
-      "t": 137.47,
-      "ja": "ラズベリー＊モンスター",
-      "en": ""
-    },
-    {
-      "t": 141.76,
-      "ja": "仆を止められるヤツは何処にも居ない",
-      "en": ""
-    },
-    {
-      "t": 147.39,
-      "ja": "ラズベリー＊モンスター",
-      "en": ""
-    },
-    {
-      "t": 152.3,
-      "ja": "ラズベリー＊モンスター Yeah！",
-      "en": ""
-    }
+    {"t": 1.2,   "ja": "呗：初音ミク", "en": "Vocals: Hatsune Miku"},
+    {"t": 1.5,   "ja": "翻唱：浮秋秋_Aki", "en": "(Chinese cover credit)"},
+    {"t": 1.84,  "ja": "3，2，1 って合図カマしたら舌を出せ", "en": "3, 2, 1 — when I give the signal, stick out your tongue"},
+    {"t": 5.62,  "ja": "中指立てて绝好调", "en": "Middle finger up, feeling great"},
+    {"t": 8.1,   "ja": "味も薄れたラズベリーのガムを吐き舍てて", "en": "Spit out that raspberry gum that's lost its flavor"},
+    {"t": 12.85, "ja": "Bye LOVE（アイ）", "en": "Bye LOVE"},
+    {"t": 24.36, "ja": "AM6:00", "en": "AM 6:00"},
+    {"t": 25.39, "ja": "目覚まし时计を起こして", "en": "I wake up the alarm clock myself"},
+    {"t": 27.99, "ja": "ボリューム全开ロックで", "en": "Rock music, volume maxed"},
+    {"t": 30.51, "ja": "现実世界 ギャップに眩晕冷や汗をかいて", "en": "The real world — the gap makes me dizzy, cold sweat running"},
+    {"t": 34.55, "ja": "PM6：00", "en": "PM 6:00"},
+    {"t": 35.5,  "ja": "いつものガムは売り切れで", "en": "My usual gum is sold out"},
+    {"t": 38.08, "ja": "电波も圏外どうして", "en": "No signal either — why?"},
+    {"t": 40.47, "ja": "现実世界 胜手に期待もう构わないで消して", "en": "The real world — stop putting your expectations on me, just erase it"},
+    {"t": 45.72, "ja": "爱（め）と爱（め）が苦手です隠れたいよ", "en": "Eye-to-eye — I can't handle it, I want to hide"},
+    {"t": 48.08, "ja": "仮想（ドチラ）が现実（コチラ）です", "en": "Virtual is the real one here"},
+    {"t": 49.62, "ja": "わかんないよ！", "en": "I don't even know anymore!"},
+    {"t": 50.52, "ja": "身体を残して仆と繋ぐ仮想ドライブ", "en": "Leave your body behind — a virtual drive that connects you to me"},
+    {"t": 55.27, "ja": "ラズベリー＊モンスター", "en": "Raspberry*Monster"},
+    {"t": 59.7,  "ja": "赤く気高く立ち向かうたった一人", "en": "One lone figure, red and proud, standing her ground"},
+    {"t": 64.94, "ja": "ラズベリー＊モンスター", "en": "Raspberry*Monster"},
+    {"t": 69.5,  "ja": "君を止められるヤツは此処には居ないYeah！", "en": "No one here can stop you — yeah!"},
+    {"t": 85.96, "ja": "いつからこんな风になってしまっちゃったの", "en": "Since when did we end up this way?"},
+    {"t": 90.51, "ja": "笑颜さえもぎこちないや", "en": "Even my smile feels forced"},
+    {"t": 95.82, "ja": "君は仆だ 仆だけの君だ", "en": "You're me, and you're a you that belongs only to me"},
+    {"t": 100.51,"ja": "早く助けてよ", "en": "Hurry — save me already"},
+    {"t": 115.42,"ja": "やる気はあります 空回ります", "en": "I've got the drive — and I'm spinning my wheels"},
+    {"t": 118.1, "ja": "何方が味方です", "en": "Whose side am I even on?"},
+    {"t": 119.53,"ja": "わかんないよ！", "en": "I don't even know!"},
+    {"t": 120.78,"ja": "近づきたいんだ赤い少女", "en": "I want to get closer, red-haired girl"},
+    {"t": 127.62,"ja": "ラズベリー＊モンスター", "en": "Raspberry*Monster"},
+    {"t": 131.87,"ja": "缠う 攻撃は最大の防御なのに谁もが逃げてる", "en": "Attack is the best defense, they say — but everyone's running away"},
+    {"t": 137.47,"ja": "ラズベリー＊モンスター", "en": "Raspberry*Monster"},
+    {"t": 141.76,"ja": "仆を止められるヤツは何処にも居ない", "en": "Nobody anywhere can stop me"},
+    {"t": 147.39,"ja": "ラズベリー＊モンスター", "en": "Raspberry*Monster"},
+    {"t": 152.3, "ja": "ラズベリー＊モンスター Yeah！", "en": "Raspberry*Monster — yeah!"}
   ]
 }

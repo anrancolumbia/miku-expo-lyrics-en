@@ -1,304 +1,68 @@
 {
   "id": "07-solar-system-disco",
   "title": "Solar System Disco",
-  "artist": "NayutalieN",
+  "artist": "NayutalieN ft. Hatsune Miku",
   "mode": "timed",
   "neteaseId": 459717345,
   "lines": [
-    {
-      "t": 0.85,
-      "ja": "あの一等星のさんざめく光で",
-      "en": ""
-    },
-    {
-      "t": 4.6,
-      "ja": "あなたとダンスを踊ろうか",
-      "en": ""
-    },
-    {
-      "t": 7.23,
-      "ja": "我が太陽系の鼓動に合わせて",
-      "en": ""
-    },
-    {
-      "t": 10.96,
-      "ja": "絡まったステップで綺羅めいて、星ッ！",
-      "en": ""
-    },
-    {
-      "t": 26.82,
-      "ja": "ランバダ ルンバ ふたり 宇宙（そら）でランデブーな",
-      "en": ""
-    },
-    {
-      "t": 30.04,
-      "ja": "妄、患（わずら）って 連夜眠れない",
-      "en": ""
-    },
-    {
-      "t": 33.15,
-      "ja": "星座になって 混ざる どんな一等星も",
-      "en": ""
-    },
-    {
-      "t": 36.48,
-      "ja": "あなたに 代わる 光度はないわ",
-      "en": ""
-    },
-    {
-      "t": 39.55,
-      "ja": "校舎の裏 あの日 あなた見つけた",
-      "en": ""
-    },
-    {
-      "t": 42.92,
-      "ja": "奇跡さえ 今も はなれない",
-      "en": ""
-    },
-    {
-      "t": 45.96,
-      "ja": "隣に 繁（しげ）く 見える 冥王星も",
-      "en": ""
-    },
-    {
-      "t": 49.28,
-      "ja": "生憎（あいにく）、今は 興味がないわ",
-      "en": ""
-    },
-    {
-      "t": 52.28,
-      "ja": "星が舞っちゃって",
-      "en": ""
-    },
-    {
-      "t": 53.98,
-      "ja": "胸が鳴っちゃって",
-      "en": ""
-    },
-    {
-      "t": 55.35,
-      "ja": "気付けば彼方―――",
-      "en": ""
-    },
-    {
-      "t": 58.44,
-      "ja": "あの一等星のさんざめく光で",
-      "en": ""
-    },
-    {
-      "t": 62.21,
-      "ja": "あなたとダンスを踊ろうか",
-      "en": ""
-    },
-    {
-      "t": 64.84,
-      "ja": "我が太陽系の法則に誘われ",
-      "en": ""
-    },
-    {
-      "t": 68.62,
-      "ja": "交わった感度で綺羅めいて、星ッ！",
-      "en": ""
-    },
-    {
-      "t": 71.58,
-      "ja": "オー・オ・オー！",
-      "en": ""
-    },
-    {
-      "t": 73.2,
-      "ja": "星間線を絆いで (オー・オ・オー！)",
-      "en": ""
-    },
-    {
-      "t": 76.48,
-      "ja": "あなたに届け (オー・オ・オー！)",
-      "en": ""
-    },
-    {
-      "t": 79.7,
-      "ja": "宇宙の果てから (オー・オ・オー！)",
-      "en": ""
-    },
-    {
-      "t": 82.7,
-      "ja": "あなた 侵光系！",
-      "en": ""
-    },
-    {
-      "t": 84.58,
-      "ja": "ナナナーナナナーナナナー",
-      "en": ""
-    },
-    {
-      "t": 90.94,
-      "ja": "にゃにゃにゃーにゃにゃにゃー",
-      "en": ""
-    },
-    {
-      "t": 94.18,
-      "ja": "ナナナーナナナーナナナー",
-      "en": ""
-    },
-    {
-      "t": 97.28,
-      "ja": "大体のダンスは 星が光り標（しるべ）となるのさ",
-      "en": ""
-    },
-    {
-      "t": 100.25,
-      "ja": "未体験なステッポで HA,HA,HA,HA,",
-      "en": ""
-    },
-    {
-      "t": 103.74,
-      "ja": "大胆なスタンスで 周回軌道上なぞるのさ",
-      "en": ""
-    },
-    {
-      "t": 106.7,
-      "ja": "太陽系のデスコで HA,HA,HA,HA,",
-      "en": ""
-    },
-    {
-      "t": 109.92,
-      "ja": "宙 揺蕩（たゆた）って いつか ふたり忘れる",
-      "en": ""
-    },
-    {
-      "t": 113.28,
-      "ja": "言葉さえ 今は求めたい",
-      "en": ""
-    },
-    {
-      "t": 116.46,
-      "ja": "超新星を願う 暮れた世界も",
-      "en": ""
-    },
-    {
-      "t": 119.64,
-      "ja": "不思議と 今はどうでもいいわ",
-      "en": ""
-    },
-    {
-      "t": 122.84,
-      "ja": "何もなくたって",
-      "en": ""
-    },
-    {
-      "t": 124.21,
-      "ja": "何となくだって",
-      "en": ""
-    },
-    {
-      "t": 125.7,
-      "ja": "星は巡って―――",
-      "en": ""
-    },
-    {
-      "t": 128.95,
-      "ja": "あの一等星の届かぬ光は",
-      "en": ""
-    },
-    {
-      "t": 132.66,
-      "ja": "遥かな彼方で綺羅めいた",
-      "en": ""
-    },
-    {
-      "t": 135.28,
-      "ja": "我が太陽系の法則も外れて",
-      "en": ""
-    },
-    {
-      "t": 139.06,
-      "ja": "「それでもいいさ」手をのばして！",
-      "en": ""
-    },
-    {
-      "t": 141.56,
-      "ja": "さあ、幾星霜（いくせいそう）と宿した想いで",
-      "en": ""
-    },
-    {
-      "t": 145.39,
-      "ja": "あなたの全て求めようか",
-      "en": ""
-    },
-    {
-      "t": 148.03,
-      "ja": "ねえ、何光年の広大な旅路で",
-      "en": ""
-    },
-    {
-      "t": 151.72,
-      "ja": "比翼の恋理（れんり）を探そうか",
-      "en": ""
-    },
-    {
-      "t": 154.53,
-      "ja": "あの一等星のさんざめく光で",
-      "en": ""
-    },
-    {
-      "t": 158.25,
-      "ja": "あなたとダンスを踊ろうか",
-      "en": ""
-    },
-    {
-      "t": 160.78,
-      "ja": "ほら水金だって地火木土天海も",
-      "en": ""
-    },
-    {
-      "t": 164.65,
-      "ja": "ふたりの銀河で綺羅めいた、星ッ！",
-      "en": ""
-    },
-    {
-      "t": 167.7,
-      "ja": "オー・オ・オー！",
-      "en": ""
-    },
-    {
-      "t": 169.08,
-      "ja": "星間線を絆いで (オー・オ・オー！)",
-      "en": ""
-    },
-    {
-      "t": 172.52,
-      "ja": "あなたに届け (オー・オ・オー！)",
-      "en": ""
-    },
-    {
-      "t": 175.65,
-      "ja": "宇宙の果てから (オー・オ・オー！)",
-      "en": ""
-    },
-    {
-      "t": 178.59,
-      "ja": "あなた 侵光系！",
-      "en": ""
-    },
-    {
-      "t": 182.03,
-      "ja": "ナナナーナナナーナナナー",
-      "en": ""
-    },
-    {
-      "t": 188.61,
-      "ja": "にゃにゃにゃーにゃにゃにゃー",
-      "en": ""
-    },
-    {
-      "t": 191.8,
-      "ja": "ナナナーナナナーナナナー",
-      "en": ""
-    },
-    {
-      "t": 200.68,
-      "ja": "ー終わりー",
-      "en": ""
-    }
+    {"t": 0.85,  "ja": "あの一等星のさんざめく光で", "en": "By the glittering light of that first-magnitude star"},
+    {"t": 4.6,   "ja": "あなたとダンスを踊ろうか", "en": "shall we dance, you and I?"},
+    {"t": 7.23,  "ja": "我が太陽系の鼓動に合わせて", "en": "In time with the heartbeat of our solar system,"},
+    {"t": 10.96, "ja": "絡まったステップで綺羅めいて、星ッ！", "en": "with tangled-up footsteps, glittering — star!"},
+    {"t": 26.82, "ja": "ランバダ ルンバ ふたり 宇宙（そら）でランデブーな", "en": "Lambada, rumba — the two of us rendezvousing in space"},
+    {"t": 30.04, "ja": "妄、患（わずら）って 連夜眠れない", "en": "Obsessed, lovesick — I can't sleep night after night"},
+    {"t": 33.15, "ja": "星座になって 混ざる どんな一等星も", "en": "Becoming a constellation, blending in — any first-magnitude star"},
+    {"t": 36.48, "ja": "あなたに 代わる 光度はないわ", "en": "shines nowhere near as bright as you"},
+    {"t": 39.55, "ja": "校舎の裏 あの日 あなた見つけた", "en": "Behind the school building, that day, I found you"},
+    {"t": 42.92, "ja": "奇跡さえ 今も はなれない", "en": "and that miracle still won't let me go"},
+    {"t": 45.96, "ja": "隣に 繁（しげ）く 見える 冥王星も", "en": "Even Pluto, visible up close right beside me —"},
+    {"t": 49.28, "ja": "生憎（あいにく）、今は 興味がないわ", "en": "sorry, I've got no interest in it right now"},
+    {"t": 52.28, "ja": "星が舞っちゃって", "en": "The stars are dancing"},
+    {"t": 53.98, "ja": "胸が鳴っちゃって", "en": "my heart is pounding"},
+    {"t": 55.35, "ja": "気付けば彼方―――", "en": "and before I know it, I'm far away ———"},
+    {"t": 58.44, "ja": "あの一等星のさんざめく光で", "en": "By the glittering light of that first-magnitude star"},
+    {"t": 62.21, "ja": "あなたとダンスを踊ろうか", "en": "shall we dance, you and I?"},
+    {"t": 64.84, "ja": "我が太陽系の法則に誘われ", "en": "Drawn in by the laws of our solar system,"},
+    {"t": 68.62, "ja": "交わった感度で綺羅めいて、星ッ！", "en": "our overlapping sensitivities glittering — star!"},
+    {"t": 71.58, "ja": "オー・オ・オー！", "en": "Oh, oh, oh!"},
+    {"t": 73.2,  "ja": "星間線を絆いで (オー・オ・オー！)", "en": "Tie the interstellar lines together (oh, oh, oh!)"},
+    {"t": 76.48, "ja": "あなたに届け (オー・オ・オー！)", "en": "so it reaches you (oh, oh, oh!)"},
+    {"t": 79.7,  "ja": "宇宙の果てから (オー・オ・オー！)", "en": "from the edge of the universe (oh, oh, oh!)"},
+    {"t": 82.7,  "ja": "あなた 侵光系！", "en": "You're my Invasion-of-Light System!"},
+    {"t": 84.58, "ja": "ナナナーナナナーナナナー", "en": "Na-na-na~ na-na-na~ na-na-na~"},
+    {"t": 90.94, "ja": "にゃにゃにゃーにゃにゃにゃー", "en": "Nya-nya-nya~ nya-nya-nya~"},
+    {"t": 94.18, "ja": "ナナナーナナナーナナナー", "en": "Na-na-na~ na-na-na~ na-na-na~"},
+    {"t": 97.28, "ja": "大体のダンスは 星が光り標（しるべ）となるのさ", "en": "For most dances, the stars light up and show the way"},
+    {"t": 100.25,"ja": "未体験なステッポで HA,HA,HA,HA,", "en": "With footwork I've never tried before — ha, ha, ha, ha"},
+    {"t": 103.74,"ja": "大胆なスタンスで 周回軌道上なぞるのさ", "en": "with a bold stance, I trace the orbital path"},
+    {"t": 106.7, "ja": "太陽系のデスコで HA,HA,HA,HA,", "en": "at the solar-system disco — ha, ha, ha, ha"},
+    {"t": 109.92,"ja": "宙 揺蕩（たゆた）って いつか ふたり忘れる", "en": "Drifting through space, someday we'll forget each other"},
+    {"t": 113.28,"ja": "言葉さえ 今は求めたい", "en": "Right now, I just want words — even just words"},
+    {"t": 116.46,"ja": "超新星を願う 暮れた世界も", "en": "A world gone dark, wishing for a supernova —"},
+    {"t": 119.64,"ja": "不思議と 今はどうでもいいわ", "en": "weirdly enough, right now I don't care"},
+    {"t": 122.84,"ja": "何もなくたって", "en": "Even with nothing here,"},
+    {"t": 124.21,"ja": "何となくだって", "en": "even if it's for no real reason,"},
+    {"t": 125.7, "ja": "星は巡って―――", "en": "the stars keep turning ———"},
+    {"t": 128.95,"ja": "あの一等星の届かぬ光は", "en": "The light of that first-magnitude star that can't reach us"},
+    {"t": 132.66,"ja": "遥かな彼方で綺羅めいた", "en": "glittered somewhere far, far away"},
+    {"t": 135.28,"ja": "我が太陽系の法則も外れて", "en": "Breaking even the laws of our solar system,"},
+    {"t": 139.06,"ja": "「それでもいいさ」手をのばして！", "en": "\"it's fine that way\" — I reach out my hand!"},
+    {"t": 141.56,"ja": "さあ、幾星霜（いくせいそう）と宿した想いで", "en": "Now, with feelings I've carried through countless years,"},
+    {"t": 145.39,"ja": "あなたの全て求めようか", "en": "shall I ask for all of you?"},
+    {"t": 148.03,"ja": "ねえ、何光年の広大な旅路で", "en": "Hey — on a journey spanning who-knows-how-many light-years,"},
+    {"t": 151.72,"ja": "比翼の恋理（れんり）を探そうか", "en": "shall we go looking for a love like paired wings?"},
+    {"t": 154.53,"ja": "あの一等星のさんざめく光で", "en": "By the glittering light of that first-magnitude star"},
+    {"t": 158.25,"ja": "あなたとダンスを踊ろうか", "en": "shall we dance, you and I?"},
+    {"t": 160.78,"ja": "ほら水金だって地火木土天海も", "en": "Look — Mercury and Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune too"},
+    {"t": 164.65,"ja": "ふたりの銀河で綺羅めいた、星ッ！", "en": "are glittering in our galaxy — star!"},
+    {"t": 167.7, "ja": "オー・オ・オー！", "en": "Oh, oh, oh!"},
+    {"t": 169.08,"ja": "星間線を絆いで (オー・オ・オー！)", "en": "Tie the interstellar lines together (oh, oh, oh!)"},
+    {"t": 172.52,"ja": "あなたに届け (オー・オ・オー！)", "en": "so it reaches you (oh, oh, oh!)"},
+    {"t": 175.65,"ja": "宇宙の果てから (オー・オ・オー！)", "en": "from the edge of the universe (oh, oh, oh!)"},
+    {"t": 178.59,"ja": "あなた 侵光系！", "en": "You're my Invasion-of-Light System!"},
+    {"t": 182.03,"ja": "ナナナーナナナーナナナー", "en": "Na-na-na~ na-na-na~ na-na-na~"},
+    {"t": 188.61,"ja": "にゃにゃにゃーにゃにゃにゃー", "en": "Nya-nya-nya~ nya-nya-nya~"},
+    {"t": 191.8, "ja": "ナナナーナナナーナナナー", "en": "Na-na-na~ na-na-na~ na-na-na~"},
+    {"t": 200.68,"ja": "ー終わりー", "en": "—— The End ——"}
   ]
 }

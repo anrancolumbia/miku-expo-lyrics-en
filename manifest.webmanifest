@@ -1,0 +1,14 @@
+{
+  "name": "Miku Expo Lyrics",
+  "short_name": "Miku Expo",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "any",
+  "lang": "ja",
+  "icons": [
+    { "src": "pjsk.webp", "sizes": "any", "type": "image/webp", "purpose": "any" }
+  ]
+}

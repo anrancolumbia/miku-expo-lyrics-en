@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>Miku Expo 2026 — Lyrics</title>
+<link rel="apple-touch-icon" href="pjsk.webp">
+<link rel="icon" href="pjsk.webp">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#000000">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- Setlist picker view -->
+<section id="picker-view" class="view">
+  <header class="setlist-header">
+    <h1 id="concert-title">
+      <span id="concert-title-text">Miku Expo 2026</span>
+      <img class="title-deco" src="13335.gif" alt="" aria-hidden="true">
+    </h1>
+    <div class="hint">Pick tonight's setlist</div>
+    <div id="pwa-hint" class="pwa-hint hidden">
+      <b>Tip:</b> iPhone Safari → Share → <b>Add to Home Screen</b> to open without any browser bars.
+      <button id="pwa-dismiss" class="pwa-dismiss" aria-label="dismiss">×</button>
+    </div>
+  </header>
+  <div id="picker-cards"></div>
+</section>
+
+<!-- Setlist songs view -->
+<section id="setlist-view" class="view hidden">
+  <header class="setlist-header setlist-inner-header">
+    <button id="picker-back-btn" class="icon-btn" aria-label="back to picker">←</button>
+    <h1 id="current-setlist-title">SETLIST</h1>
+  </header>
+  <ol id="setlist"></ol>
+</section>
+
+<!-- Song view -->
+<section id="song-view" class="view hidden">
+  <header class="song-header">
+    <button id="back-btn" class="icon-btn" aria-label="back">←</button>
+    <button id="prev-btn" class="icon-btn" aria-label="prev song" title="Previous song">⏮</button>
+    <div class="song-meta">
+      <div id="song-title"></div>
+      <div id="song-artist"></div>
+    </div>
+    <button id="next-btn" class="icon-btn" aria-label="next song" title="Next song">⏭</button>
+    <button id="fs-btn" class="icon-btn" aria-label="fullscreen" title="Fullscreen">⛶</button>
+  </header>
+
+  <div id="lyrics-scroll">
+    <ul id="lyrics"></ul>
+  </div>
+
+  <footer id="controls">
+    <!-- Timed mode controls -->
+    <div id="timed-controls">
+      <button id="autoscroll-btn" class="toggle" aria-pressed="true">
+        <img class="miku-icon" src="pjsk.webp" alt="">
+        <span class="follow-pill">follow</span>
+      </button>
+      <div id="offset-display">Tap any line to jump · re-enter to re-sync</div>
+    </div>
+    <!-- Manual mode controls -->
+    <div id="manual-controls" class="hidden">
+      <button id="manual-prev" class="nudge">← PREV</button>
+      <button id="manual-next" class="primary">NEXT →</button>
+    </div>
+  </footer>
+</section>
+
+<script src="app.js"></script>
+</body>
+</html>

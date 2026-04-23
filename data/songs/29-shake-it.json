@@ -1,244 +1,56 @@
 {
   "id": "29-shake-it",
   "title": "shake it!",
-  "artist": "emon",
+  "artist": "emon(Tes.) ft. Hatsune Miku, Kagamine Rin & Len",
   "mode": "timed",
   "neteaseId": 22823323,
   "lines": [
-    {
-      "t": 0.01,
-      "ja": "寂しくて切ない一人の夜には",
-      "en": ""
-    },
-    {
-      "t": 4.61,
-      "ja": "消えたい言葉を捜して",
-      "en": ""
-    },
-    {
-      "t": 8.23,
-      "ja": "秘密のドアを抜けてきて　here we go",
-      "en": ""
-    },
-    {
-      "t": 12.07,
-      "ja": "oh yeah oh yeah",
-      "en": ""
-    },
-    {
-      "t": 30.82,
-      "ja": "目の前の扉を開ければ",
-      "en": ""
-    },
-    {
-      "t": 34.21,
-      "ja": "そう、終わりのない夜への始まりだ",
-      "en": ""
-    },
-    {
-      "t": 38.17,
-      "ja": "気球状のフロアの影から",
-      "en": ""
-    },
-    {
-      "t": 41.83,
-      "ja": "四次元への旅が始まるよ",
-      "en": ""
-    },
-    {
-      "t": 45.57,
-      "ja": "流星の箱舟に乗って",
-      "en": ""
-    },
-    {
-      "t": 48.98,
-      "ja": "さぁ　時空旅行へと進んでいくのさ",
-      "en": ""
-    },
-    {
-      "t": 52.93,
-      "ja": "天気予報は当てにならないから",
-      "en": ""
-    },
-    {
-      "t": 56.76,
-      "ja": "気の向くまま　all right",
-      "en": ""
-    },
-    {
-      "t": 60.34,
-      "ja": "Today is All night be",
-      "en": ""
-    },
-    {
-      "t": 62.19,
-      "ja": "funky funky funky night",
-      "en": ""
-    },
-    {
-      "t": 63.95,
-      "ja": "You & I be together",
-      "en": ""
-    },
-    {
-      "t": 65.8,
-      "ja": "funky funky funky night",
-      "en": ""
-    },
-    {
-      "t": 67.7,
-      "ja": "Today is All night be",
-      "en": ""
-    },
-    {
-      "t": 69.52,
-      "ja": "funky funky funky night",
-      "en": ""
-    },
-    {
-      "t": 71.45,
-      "ja": "You & I funky night!",
-      "en": ""
-    },
-    {
-      "t": 73.83,
-      "ja": "あげ↑てきな　Dance Dance",
-      "en": ""
-    },
-    {
-      "t": 75.94,
-      "ja": "君の瞳から　輝く金の流星が",
-      "en": ""
-    },
-    {
-      "t": 82.16,
-      "ja": "秘密のドアを抜けてきて　here we go",
-      "en": ""
-    },
-    {
-      "t": 85.94,
-      "ja": "oh yeah oh yeah　yeah yeah yeah",
-      "en": ""
-    },
-    {
-      "t": 89.73,
-      "ja": "shake shake　今夜は止まらない",
-      "en": ""
-    },
-    {
-      "t": 92.75,
-      "ja": "だから今は　oh　夢の中",
-      "en": ""
-    },
-    {
-      "t": 96.77,
-      "ja": "ミラーボールが回りまわる　hurry up",
-      "en": ""
-    },
-    {
-      "t": 100.61,
-      "ja": "oh yeah oh yeah　yeah yeah yeah",
-      "en": ""
-    },
-    {
-      "t": 119.24,
-      "ja": "Dance Dance　君の瞳から…",
-      "en": ""
-    },
-    {
-      "t": 126.7,
-      "ja": "Shake Shake　今夜は止まらない…",
-      "en": ""
-    },
-    {
-      "t": 147.58,
-      "ja": "あげ↑てきな　Dance Dance",
-      "en": ""
-    },
-    {
-      "t": 149.73,
-      "ja": "君の瞳から　輝く金の流星が",
-      "en": ""
-    },
-    {
-      "t": 155.97,
-      "ja": "秘密のドアを抜けてきて　here we go",
-      "en": ""
-    },
-    {
-      "t": 159.76,
-      "ja": "oh yeah oh yeah　yeah yeah yeah",
-      "en": ""
-    },
-    {
-      "t": 163.52,
-      "ja": "shake shake　今夜は止まらない",
-      "en": ""
-    },
-    {
-      "t": 166.63,
-      "ja": "だから今は　oh　夢の中",
-      "en": ""
-    },
-    {
-      "t": 170.74,
-      "ja": "ミラーボールが回りまわる　hurry up",
-      "en": ""
-    },
-    {
-      "t": 174.45,
-      "ja": "oh yeah oh yeah　yeah yeah yeah",
-      "en": ""
-    },
-    {
-      "t": 177.27,
-      "ja": "寂しくて切ない一人の夜には",
-      "en": ""
-    },
-    {
-      "t": 181.8,
-      "ja": "消えたい言葉を捜して",
-      "en": ""
-    },
-    {
-      "t": 185.47,
-      "ja": "秘密のドアを抜けてきて　here we go",
-      "en": ""
-    },
-    {
-      "t": 189.23,
-      "ja": "oh yeah oh yeah　yeah yeah yeah",
-      "en": ""
-    },
-    {
-      "t": 193.06,
-      "ja": "shake shake　今夜は止まらない",
-      "en": ""
-    },
-    {
-      "t": 196.09,
-      "ja": "だから今は　oh　夢の中",
-      "en": ""
-    },
-    {
-      "t": 200.27,
-      "ja": "ミラーボールが回りまわる　hurry up",
-      "en": ""
-    },
-    {
-      "t": 203.97,
-      "ja": "oh yeah oh yeah　yeah yeah yeah",
-      "en": ""
-    },
-    {
-      "t": 207.7,
-      "ja": "oh yeah oh yeah　yeah yeah yeah",
-      "en": ""
-    },
-    {
-      "t": 211.45,
-      "ja": "oh yeah oh yeah　yeah yeah yeah",
-      "en": ""
-    }
+    {"t": 0.01,  "ja": "寂しくて切ない一人の夜には", "en": "On those lonely, aching nights spent alone"},
+    {"t": 4.61,  "ja": "消えたい言葉を捜して", "en": "I go hunting for the words I want to erase"},
+    {"t": 8.23,  "ja": "秘密のドアを抜けてきて　here we go", "en": "Slip through the secret door — here we go"},
+    {"t": 12.07, "ja": "oh yeah oh yeah", "en": "oh yeah, oh yeah"},
+    {"t": 30.82, "ja": "目の前の扉を開ければ", "en": "Push open the door right in front of you and"},
+    {"t": 34.21, "ja": "そう、終わりのない夜への始まりだ", "en": "that's it — the start of a night with no end"},
+    {"t": 38.17, "ja": "気球状のフロアの影から", "en": "From the shadow of a hot-air-balloon-shaped floor"},
+    {"t": 41.83, "ja": "四次元への旅が始まるよ", "en": "a journey into the fourth dimension begins"},
+    {"t": 45.57, "ja": "流星の箱舟に乗って", "en": "Hop aboard the shooting-star ark"},
+    {"t": 48.98, "ja": "さぁ　時空旅行へと進んでいくのさ", "en": "and off we go — a trip through time and space"},
+    {"t": 52.93, "ja": "天気予報は当てにならないから", "en": "The forecast is never to be trusted, so"},
+    {"t": 56.76, "ja": "気の向くまま　all right", "en": "just follow your mood — all right"},
+    {"t": 60.34, "ja": "Today is All night be", "en": "Today is all night — be"},
+    {"t": 62.19, "ja": "funky funky funky night", "en": "funky funky funky night"},
+    {"t": 63.95, "ja": "You & I be together", "en": "You & I be together"},
+    {"t": 65.8,  "ja": "funky funky funky night", "en": "funky funky funky night"},
+    {"t": 67.7,  "ja": "Today is All night be", "en": "Today is all night — be"},
+    {"t": 69.52, "ja": "funky funky funky night", "en": "funky funky funky night"},
+    {"t": 71.45, "ja": "You & I funky night!", "en": "You & I — funky night!"},
+    {"t": 73.83, "ja": "あげ↑てきな　Dance Dance", "en": "Turn it up↑! Dance, Dance"},
+    {"t": 75.94, "ja": "君の瞳から　輝く金の流星が", "en": "A shining golden shooting star from your eyes"},
+    {"t": 82.16, "ja": "秘密のドアを抜けてきて　here we go", "en": "Slip through the secret door — here we go"},
+    {"t": 85.94, "ja": "oh yeah oh yeah　yeah yeah yeah", "en": "oh yeah, oh yeah, yeah yeah yeah"},
+    {"t": 89.73, "ja": "shake shake　今夜は止まらない", "en": "shake shake — tonight we can't stop"},
+    {"t": 92.75, "ja": "だから今は　oh　夢の中", "en": "so right now — oh — we're in a dream"},
+    {"t": 96.77, "ja": "ミラーボールが回りまわる　hurry up", "en": "the mirror ball keeps spinning and spinning — hurry up"},
+    {"t": 100.61,"ja": "oh yeah oh yeah　yeah yeah yeah", "en": "oh yeah, oh yeah, yeah yeah yeah"},
+    {"t": 119.24,"ja": "Dance Dance　君の瞳から…", "en": "Dance, Dance — from your eyes…"},
+    {"t": 126.7, "ja": "Shake Shake　今夜は止まらない…", "en": "Shake, Shake — tonight we can't stop…"},
+    {"t": 147.58,"ja": "あげ↑てきな　Dance Dance", "en": "Turn it up↑! Dance, Dance"},
+    {"t": 149.73,"ja": "君の瞳から　輝く金の流星が", "en": "A shining golden shooting star from your eyes"},
+    {"t": 155.97,"ja": "秘密のドアを抜けてきて　here we go", "en": "Slip through the secret door — here we go"},
+    {"t": 159.76,"ja": "oh yeah oh yeah　yeah yeah yeah", "en": "oh yeah, oh yeah, yeah yeah yeah"},
+    {"t": 163.52,"ja": "shake shake　今夜は止まらない", "en": "shake shake — tonight we can't stop"},
+    {"t": 166.63,"ja": "だから今は　oh　夢の中", "en": "so right now — oh — we're in a dream"},
+    {"t": 170.74,"ja": "ミラーボールが回りまわる　hurry up", "en": "the mirror ball keeps spinning and spinning — hurry up"},
+    {"t": 174.45,"ja": "oh yeah oh yeah　yeah yeah yeah", "en": "oh yeah, oh yeah, yeah yeah yeah"},
+    {"t": 177.27,"ja": "寂しくて切ない一人の夜には", "en": "On those lonely, aching nights spent alone"},
+    {"t": 181.8, "ja": "消えたい言葉を捜して", "en": "I go hunting for the words I want to erase"},
+    {"t": 185.47,"ja": "秘密のドアを抜けてきて　here we go", "en": "Slip through the secret door — here we go"},
+    {"t": 189.23,"ja": "oh yeah oh yeah　yeah yeah yeah", "en": "oh yeah, oh yeah, yeah yeah yeah"},
+    {"t": 193.06,"ja": "shake shake　今夜は止まらない", "en": "shake shake — tonight we can't stop"},
+    {"t": 196.09,"ja": "だから今は　oh　夢の中", "en": "so right now — oh — we're in a dream"},
+    {"t": 200.27,"ja": "ミラーボールが回りまわる　hurry up", "en": "the mirror ball keeps spinning and spinning — hurry up"},
+    {"t": 203.97,"ja": "oh yeah oh yeah　yeah yeah yeah", "en": "oh yeah, oh yeah, yeah yeah yeah"},
+    {"t": 207.7, "ja": "oh yeah oh yeah　yeah yeah yeah", "en": "oh yeah, oh yeah, yeah yeah yeah"},
+    {"t": 211.45,"ja": "oh yeah oh yeah　yeah yeah yeah", "en": "oh yeah, oh yeah, yeah yeah yeah"}
   ]
 }

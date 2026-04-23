@@ -215,7 +215,7 @@
 
   function updateOffsetDisplay() {
     // Hint only; offset is still adjustable by tapping a line.
-    offsetDisplay.textContent = 'Tap any line to jump · re-enter to re-sync';
+    offsetDisplay.textContent = 'Tap a line to jump there — reopen the song if it drifts';
   }
 
   // --- Timed mode ---

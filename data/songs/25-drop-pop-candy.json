@@ -1,214 +1,50 @@
 {
   "id": "25-drop-pop-candy",
-  "title": "ドロップポップキャンディ",
-  "artist": "Giga",
+  "title": "Drop Pop Candy",
+  "artist": "Giga ft. Kagamine Rin × Megurine Luka",
   "mode": "timed",
   "neteaseId": 2623126898,
   "lines": [
-    {
-      "t": 15.12,
-      "ja": "雨降りでも傘はささないの",
-      "en": ""
-    },
-    {
-      "t": 19.28,
-      "ja": "（初めましてと猫は鳴く）",
-      "en": ""
-    },
-    {
-      "t": 22.5,
-      "ja": "お気に入りのヒールを濡らすの",
-      "en": ""
-    },
-    {
-      "t": 29.51,
-      "ja": "何気ないような日常が今ほら",
-      "en": ""
-    },
-    {
-      "t": 33.06,
-      "ja": "変わりたいと藍色に染まりだす",
-      "en": ""
-    },
-    {
-      "t": 36.74,
-      "ja": "水たまりに映る一秒間",
-      "en": ""
-    },
-    {
-      "t": 40.51,
-      "ja": "ただ一度この目で見てみたいだけなの",
-      "en": ""
-    },
-    {
-      "t": 45.13,
-      "ja": "踊るよ 世界が 揺らいで 廻るの！",
-      "en": ""
-    },
-    {
-      "t": 48.88,
-      "ja": "届くよ 速度を上げて",
-      "en": ""
-    },
-    {
-      "t": 52.25,
-      "ja": "駆け出したいの　明日まで ひとっ飛び",
-      "en": ""
-    },
-    {
-      "t": 59.6,
-      "ja": "昨日の彼も朝焼けもいないけど　それでそれでいいの",
-      "en": ""
-    },
-    {
-      "t": 67.29,
-      "ja": "ずっと続いてく　きっと進んでる",
-      "en": ""
-    },
-    {
-      "t": 70.9,
-      "ja": "もっと愛してる！　日々を君を",
-      "en": ""
-    },
-    {
-      "t": 74.56,
-      "ja": "いっそ七転んで　何回起き上がって",
-      "en": ""
-    },
-    {
-      "t": 78.28,
-      "ja": "そうやってまた今日を想い合えてる",
-      "en": ""
-    },
-    {
-      "t": 89.0,
-      "ja": "頬を伝う彼女の雫は",
-      "en": ""
-    },
-    {
-      "t": 93.07,
-      "ja": "（みてみぬふり猫は鳴く）",
-      "en": ""
-    },
-    {
-      "t": 96.31,
-      "ja": "俯いたsink　退屈並べた",
-      "en": ""
-    },
-    {
-      "t": 103.37,
-      "ja": "優しさで紡がれた嘘でも",
-      "en": ""
-    },
-    {
-      "t": 106.92,
-      "ja": "悲しみに彩られた実でも",
-      "en": ""
-    },
-    {
-      "t": 110.56,
-      "ja": "水たまりに騒ぐ雨粒の",
-      "en": ""
-    },
-    {
-      "t": 114.3,
-      "ja": "ふちをそっと指先でなぞるよう",
-      "en": ""
-    },
-    {
-      "t": 118.13,
-      "ja": "描いて 奏でて きらめく 願いが 叶うよ！",
-      "en": ""
-    },
-    {
-      "t": 122.73,
-      "ja": "届くよ 高度を上げて",
-      "en": ""
-    },
-    {
-      "t": 126.06,
-      "ja": "駆け抜けたいの　宇宙まで ひとっ飛び",
-      "en": ""
-    },
-    {
-      "t": 133.41,
-      "ja": "浮かべた星も月にも会えないけど　それでそれでいいの",
-      "en": ""
-    },
-    {
-      "t": 141.06,
-      "ja": "ずっと続いてく　きっと進んでる",
-      "en": ""
-    },
-    {
-      "t": 144.72,
-      "ja": "もっと愛してる！　日々と君と",
-      "en": ""
-    },
-    {
-      "t": 148.38,
-      "ja": "いっそうずくまって　何回泣きじゃくって",
-      "en": ""
-    },
-    {
-      "t": 152.07,
-      "ja": "そうやってまた今日と巡りあえてる",
-      "en": ""
-    },
-    {
-      "t": 156.8,
-      "ja": "僕を照らしてブルームーン",
-      "en": ""
-    },
-    {
-      "t": 160.57,
-      "ja": "長い夢からもう覚めた",
-      "en": ""
-    },
-    {
-      "t": 164.29,
-      "ja": "明日の方角へ連れてってよ！",
-      "en": ""
-    },
-    {
-      "t": 167.86,
-      "ja": "速度を上げて",
-      "en": ""
-    },
-    {
-      "t": 172.29,
-      "ja": "駆け出したいの　明日まで ひとっ飛び",
-      "en": ""
-    },
-    {
-      "t": 179.69,
-      "ja": "昨日の彼も夕焼けもいないけど　それでそれでいいの",
-      "en": ""
-    },
-    {
-      "t": 187.21,
-      "ja": "ずっと続いてく　きっと進んでる",
-      "en": ""
-    },
-    {
-      "t": 190.84,
-      "ja": "もっと愛してる！　日々も君も",
-      "en": ""
-    },
-    {
-      "t": 194.57,
-      "ja": "いっそ七転んで　何回起き上がって",
-      "en": ""
-    },
-    {
-      "t": 198.3,
-      "ja": "そうやってまた今日も巡り合えてる",
-      "en": ""
-    },
-    {
-      "t": 203.85,
-      "ja": "想い合っていく　これからずっと",
-      "en": ""
-    }
+    {"t": 15.12, "ja": "雨降りでも傘はささないの", "en": "Even when it rains, I don't bother with an umbrella"},
+    {"t": 19.28, "ja": "（初めましてと猫は鳴く）", "en": "(the cat meows a \"nice to meet you\")"},
+    {"t": 22.5,  "ja": "お気に入りのヒールを濡らすの", "en": "Getting my favorite heels soaked"},
+    {"t": 29.51, "ja": "何気ないような日常が今ほら", "en": "This ordinary-looking everyday — look, right now"},
+    {"t": 33.06, "ja": "変わりたいと藍色に染まりだす", "en": "is dyeing itself indigo, wanting to change"},
+    {"t": 36.74, "ja": "水たまりに映る一秒間", "en": "For one second, reflected in a puddle"},
+    {"t": 40.51, "ja": "ただ一度この目で見てみたいだけなの", "en": "I just want to see it with my own eyes, just once"},
+    {"t": 45.13, "ja": "踊るよ 世界が 揺らいで 廻るの！", "en": "I'll dance! The world sways and spins!"},
+    {"t": 48.88, "ja": "届くよ 速度を上げて", "en": "I'll reach it — picking up speed"},
+    {"t": 52.25, "ja": "駆け出したいの　明日まで ひとっ飛び", "en": "I wanna take off running — one leap straight to tomorrow"},
+    {"t": 59.6,  "ja": "昨日の彼も朝焼けもいないけど　それでそれでいいの", "en": "Yesterday's him and yesterday's sunrise aren't here, but that's, that's fine"},
+    {"t": 67.29, "ja": "ずっと続いてく　きっと進んでる", "en": "It keeps going, I'm surely moving forward"},
+    {"t": 70.9,  "ja": "もっと愛してる！　日々を君を", "en": "I love it even more! These days, and you"},
+    {"t": 74.56, "ja": "いっそ七転んで　何回起き上がって", "en": "Fall seven times, get up again and again"},
+    {"t": 78.28, "ja": "そうやってまた今日を想い合えてる", "en": "that's how we find our way back to thinking of each other today"},
+    {"t": 89.0,  "ja": "頬を伝う彼女の雫は", "en": "The drops running down her cheek"},
+    {"t": 93.07, "ja": "（みてみぬふり猫は鳴く）", "en": "(the cat meows, pretending not to see)"},
+    {"t": 96.31, "ja": "俯いたsink　退屈並べた", "en": "Head bowed, sinking — boredom lined up in a row"},
+    {"t": 103.37,"ja": "優しさで紡がれた嘘でも", "en": "Even if it's a lie spun from kindness"},
+    {"t": 106.92,"ja": "悲しみに彩られた実でも", "en": "even if it's a truth painted over with sadness"},
+    {"t": 110.56,"ja": "水たまりに騒ぐ雨粒の", "en": "like the raindrops stirring in a puddle,"},
+    {"t": 114.3, "ja": "ふちをそっと指先でなぞるよう", "en": "I'll trace their edges gently with my fingertip"},
+    {"t": 118.13,"ja": "描いて 奏でて きらめく 願いが 叶うよ！", "en": "Draw it, play it, make it sparkle — your wish will come true!"},
+    {"t": 122.73,"ja": "届くよ 高度を上げて", "en": "I'll reach it — gaining altitude"},
+    {"t": 126.06,"ja": "駆け抜けたいの　宇宙まで ひとっ飛び", "en": "I wanna blast through — one leap all the way to space"},
+    {"t": 133.41,"ja": "浮かべた星も月にも会えないけど　それでそれでいいの", "en": "The stars I imagined, the moon — I can't meet them, but that's, that's fine"},
+    {"t": 141.06,"ja": "ずっと続いてく　きっと進んでる", "en": "It keeps going, I'm surely moving forward"},
+    {"t": 144.72,"ja": "もっと愛してる！　日々と君と", "en": "I love it even more! With these days, with you"},
+    {"t": 148.38,"ja": "いっそうずくまって　何回泣きじゃくって", "en": "Curl up on the ground, sob my eyes out again and again"},
+    {"t": 152.07,"ja": "そうやってまた今日と巡りあえてる", "en": "that's how I find my way back to today"},
+    {"t": 156.8, "ja": "僕を照らしてブルームーン", "en": "Light me up, blue moon"},
+    {"t": 160.57,"ja": "長い夢からもう覚めた", "en": "I've finally woken from that long dream"},
+    {"t": 164.29,"ja": "明日の方角へ連れてってよ！", "en": "Take me in the direction of tomorrow!"},
+    {"t": 167.86,"ja": "速度を上げて", "en": "Picking up speed"},
+    {"t": 172.29,"ja": "駆け出したいの　明日まで ひとっ飛び", "en": "I wanna take off running — one leap straight to tomorrow"},
+    {"t": 179.69,"ja": "昨日の彼も夕焼けもいないけど　それでそれでいいの", "en": "Yesterday's him and yesterday's sunset aren't here, but that's, that's fine"},
+    {"t": 187.21,"ja": "ずっと続いてく　きっと進んでる", "en": "It keeps going, I'm surely moving forward"},
+    {"t": 190.84,"ja": "もっと愛してる！　日々も君も", "en": "I love it even more! These days, and you"},
+    {"t": 194.57,"ja": "いっそ七転んで　何回起き上がって", "en": "Fall seven times, get up again and again"},
+    {"t": 198.3, "ja": "そうやってまた今日も巡り合えてる", "en": "that's how we meet today, once more"},
+    {"t": 203.85,"ja": "想い合っていく　これからずっと", "en": "We'll keep thinking of each other — from now on, forever"}
   ]
 }

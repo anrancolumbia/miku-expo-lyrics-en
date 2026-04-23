@@ -1,294 +1,66 @@
 {
   "id": "12-8hit",
   "title": "8HIT",
-  "artist": "じーざす ft. 鏡音リン・レン",
+  "artist": "Wonderful☆Opportunity (じーざす) ft. Kagamine Rin & Len",
   "mode": "timed",
   "neteaseId": 502691152,
   "lines": [
-    {
-      "t": 9.89,
-      "ja": "そろそろ覚悟してください",
-      "en": ""
-    },
-    {
-      "t": 12.2,
-      "ja": "ねえ",
-      "en": ""
-    },
-    {
-      "t": 23.95,
-      "ja": "自信を確信にするプロセスが",
-      "en": ""
-    },
-    {
-      "t": 27.61,
-      "ja": "きっと力になって",
-      "en": ""
-    },
-    {
-      "t": 29.77,
-      "ja": "次の技を身につけるステージへ",
-      "en": ""
-    },
-    {
-      "t": 33.5,
-      "ja": "押し上げて",
-      "en": ""
-    },
-    {
-      "t": 35.46,
-      "ja": "「精神論や気合いは当然」",
-      "en": ""
-    },
-    {
-      "t": 38.07,
-      "ja": "「キレにスピード、重さも肝心」",
-      "en": ""
-    },
-    {
-      "t": 40.93,
-      "ja": "必修事項が多すぎないか？",
-      "en": ""
-    },
-    {
-      "t": 43.63,
-      "ja": "先輩、ちょっと疲れました",
-      "en": ""
-    },
-    {
-      "t": 46.48,
-      "ja": "強くなればセカイは変わる？",
-      "en": ""
-    },
-    {
-      "t": 52.3,
-      "ja": "この手で掴めるかな？",
-      "en": ""
-    },
-    {
-      "t": 56.88,
-      "ja": "いくぜ！",
-      "en": ""
-    },
-    {
-      "t": 57.67,
-      "ja": "1、2、3、4、5、6、7、8!",
-      "en": ""
-    },
-    {
-      "t": 60.58,
-      "ja": "朝から晩まで修行したんで",
-      "en": ""
-    },
-    {
-      "t": 63.31,
-      "ja": "俊敏さならまかせてちょうだい",
-      "en": ""
-    },
-    {
-      "t": 66.18,
-      "ja": "一切手加減しないで",
-      "en": ""
-    },
-    {
-      "t": 68.95,
-      "ja": "そう心頭滅却 火もまた涼し",
-      "en": ""
-    },
-    {
-      "t": 71.82,
-      "ja": "耐えがたきを耐え忍んだんで",
-      "en": ""
-    },
-    {
-      "t": 74.55,
-      "ja": "超人的なタフさも売りよ",
-      "en": ""
-    },
-    {
-      "t": 77.43,
-      "ja": "ちょっとやそっとじゃ倒れない",
-      "en": ""
-    },
-    {
-      "t": 80.01,
-      "ja": "ほら",
-      "en": ""
-    },
-    {
-      "t": 91.5,
-      "ja": "疑心を器量で埋めるプラクティスが",
-      "en": ""
-    },
-    {
-      "t": 95.57,
-      "ja": "きっと力になって",
-      "en": ""
-    },
-    {
-      "t": 97.34,
-      "ja": "心の目で善悪が見えてくる",
-      "en": ""
-    },
-    {
-      "t": 102.29,
-      "ja": "組み手のイメトレとかも慣れてきた",
-      "en": ""
-    },
-    {
-      "t": 106.62,
-      "ja": "ちょっと余裕じゃんね",
-      "en": ""
-    },
-    {
-      "t": 108.7,
-      "ja": "もっと手ごわい相手を出してみて",
-      "en": ""
-    },
-    {
-      "t": 112.52,
-      "ja": "いざ勝負！",
-      "en": ""
-    },
-    {
-      "t": 114.23,
-      "ja": "（上段、下段と蹴りで崩して..）",
-      "en": ""
-    },
-    {
-      "t": 116.99,
-      "ja": "（左抜き手でお命頂戴..）",
-      "en": ""
-    },
-    {
-      "t": 119.95,
-      "ja": "必殺キックが効かないなんて！",
-      "en": ""
-    },
-    {
-      "t": 122.61,
-      "ja": "コイツ..ちょっと強すぎじゃね？",
-      "en": ""
-    },
-    {
-      "t": 136.68,
-      "ja": "連戦連勝とはいかないね",
-      "en": ""
-    },
-    {
-      "t": 143.47,
-      "ja": "とても無理なこと",
-      "en": ""
-    },
-    {
-      "t": 148.18,
-      "ja": "あなたを超える為に",
-      "en": ""
-    },
-    {
-      "t": 153.02,
-      "ja": "明日から毎日、修行だぜ！",
-      "en": ""
-    },
-    {
-      "t": 160.33,
-      "ja": "いくぜ！",
-      "en": ""
-    },
-    {
-      "t": 161.98,
-      "ja": "1、2、3、4、5、6、7、8!",
-      "en": ""
-    },
-    {
-      "t": 164.87,
-      "ja": "朝から晩まで修行したんで",
-      "en": ""
-    },
-    {
-      "t": 167.63,
-      "ja": "俊敏さならまかせてちょうだい",
-      "en": ""
-    },
-    {
-      "t": 170.45,
-      "ja": "一切手加減なしだぜ！",
-      "en": ""
-    },
-    {
-      "t": 172.87,
-      "ja": "すでに心頭滅却 火もまた涼し",
-      "en": ""
-    },
-    {
-      "t": 176.09,
-      "ja": "耐えがたきを耐え忍んだんで",
-      "en": ""
-    },
-    {
-      "t": 178.91,
-      "ja": "超人的なタフさも売りよ",
-      "en": ""
-    },
-    {
-      "t": 181.75,
-      "ja": "ちょっとやそっとじゃ倒れない",
-      "en": ""
-    },
-    {
-      "t": 184.18,
-      "ja": "まだまだ",
-      "en": ""
-    },
-    {
-      "t": 184.73,
-      "ja": "1、2、3、4、5、6、7、8!",
-      "en": ""
-    },
-    {
-      "t": 187.34,
-      "ja": "打ちのめされても明日に着地",
-      "en": ""
-    },
-    {
-      "t": 190.23,
-      "ja": "能ある鷹も爪むき出して",
-      "en": ""
-    },
-    {
-      "t": 193.32,
-      "ja": "一切手加減しません",
-      "en": ""
-    },
-    {
-      "t": 195.74,
-      "ja": "ほら",
-      "en": ""
-    },
-    {
-      "t": 196.15,
-      "ja": "1、2、3、4、5、6、7、8!",
-      "en": ""
-    },
-    {
-      "t": 198.97,
-      "ja": "年がら年中修行したんで",
-      "en": ""
-    },
-    {
-      "t": 201.79,
-      "ja": "期待通りに仕上がりました",
-      "en": ""
-    },
-    {
-      "t": 204.53,
-      "ja": "そろそろ覚悟してください",
-      "en": ""
-    },
-    {
-      "t": 207.01,
-      "ja": "ねえ",
-      "en": ""
-    }
+    {"t": 9.89,  "ja": "そろそろ覚悟してください", "en": "You'd better brace yourself right about now"},
+    {"t": 12.2,  "ja": "ねえ", "en": "hey"},
+    {"t": 23.95, "ja": "自信を確信にするプロセスが", "en": "The process of turning confidence into certainty"},
+    {"t": 27.61, "ja": "きっと力になって", "en": "will surely become your strength"},
+    {"t": 29.77, "ja": "次の技を身につけるステージへ", "en": "and push you up to the next stage,"},
+    {"t": 33.5,  "ja": "押し上げて", "en": "to learn the next move"},
+    {"t": 35.46, "ja": "「精神論や気合いは当然」", "en": "\"Willpower and guts, obviously\""},
+    {"t": 38.07, "ja": "「キレにスピード、重さも肝心」", "en": "\"Sharpness, speed, weight — all essential\""},
+    {"t": 40.93, "ja": "必修事項が多すぎないか？", "en": "Isn't that kind of a lot of required material?"},
+    {"t": 43.63, "ja": "先輩、ちょっと疲れました", "en": "Senpai — I'm getting a little tired"},
+    {"t": 46.48, "ja": "強くなればセカイは変わる？", "en": "If I get stronger, will the world change?"},
+    {"t": 52.3,  "ja": "この手で掴めるかな？", "en": "Can I grab it with these hands?"},
+    {"t": 56.88, "ja": "いくぜ！", "en": "Here we go!"},
+    {"t": 57.67, "ja": "1、2、3、4、5、6、7、8!", "en": "1, 2, 3, 4, 5, 6, 7, 8!"},
+    {"t": 60.58, "ja": "朝から晩まで修行したんで", "en": "I've been training morning till night"},
+    {"t": 63.31, "ja": "俊敏さならまかせてちょうだい", "en": "so when it comes to speed, leave it to me"},
+    {"t": 66.18, "ja": "一切手加減しないで", "en": "Don't hold back on me at all"},
+    {"t": 68.95, "ja": "そう心頭滅却 火もまた涼し", "en": "Clear the mind — \"even fire feels cool\""},
+    {"t": 71.82, "ja": "耐えがたきを耐え忍んだんで", "en": "I've endured the unendurable,"},
+    {"t": 74.55, "ja": "超人的なタフさも売りよ", "en": "so superhuman toughness is another selling point"},
+    {"t": 77.43, "ja": "ちょっとやそっとじゃ倒れない", "en": "You won't knock me down that easily"},
+    {"t": 80.01, "ja": "ほら", "en": "See?"},
+    {"t": 91.5,  "ja": "疑心を器量で埋めるプラクティスが", "en": "The practice of filling your doubts with sheer capability"},
+    {"t": 95.57, "ja": "きっと力になって", "en": "will surely become your strength"},
+    {"t": 97.34, "ja": "心の目で善悪が見えてくる", "en": "and the eye of your heart will start to see good from bad"},
+    {"t": 102.29,"ja": "組み手のイメトレとかも慣れてきた", "en": "I've gotten used to visualizing sparring drills"},
+    {"t": 106.62,"ja": "ちょっと余裕じゃんね", "en": "Actually kinda got room to spare"},
+    {"t": 108.7, "ja": "もっと手ごわい相手を出してみて", "en": "Bring out someone tougher"},
+    {"t": 112.52,"ja": "いざ勝負！", "en": "Time to fight!"},
+    {"t": 114.23,"ja": "（上段、下段と蹴りで崩して..）", "en": "(High, low, break them down with kicks…)"},
+    {"t": 116.99,"ja": "（左抜き手でお命頂戴..）", "en": "(left spear-hand — your life, please…)"},
+    {"t": 119.95,"ja": "必殺キックが効かないなんて！", "en": "My finishing kick isn't even landing?!"},
+    {"t": 122.61,"ja": "コイツ..ちょっと強すぎじゃね？", "en": "This guy… isn't he a little too strong?"},
+    {"t": 136.68,"ja": "連戦連勝とはいかないね", "en": "You don't always get a winning streak"},
+    {"t": 143.47,"ja": "とても無理なこと", "en": "Totally out of reach —"},
+    {"t": 148.18,"ja": "あなたを超える為に", "en": "but to surpass you,"},
+    {"t": 153.02,"ja": "明日から毎日、修行だぜ！", "en": "starting tomorrow, it's training every single day!"},
+    {"t": 160.33,"ja": "いくぜ！", "en": "Here we go!"},
+    {"t": 161.98,"ja": "1、2、3、4、5、6、7、8!", "en": "1, 2, 3, 4, 5, 6, 7, 8!"},
+    {"t": 164.87,"ja": "朝から晩まで修行したんで", "en": "I've been training morning till night"},
+    {"t": 167.63,"ja": "俊敏さならまかせてちょうだい", "en": "so when it comes to speed, leave it to me"},
+    {"t": 170.45,"ja": "一切手加減なしだぜ！", "en": "No holding back, none at all!"},
+    {"t": 172.87,"ja": "すでに心頭滅却 火もまた涼し", "en": "Mind already cleared — \"even fire feels cool\""},
+    {"t": 176.09,"ja": "耐えがたきを耐え忍んだんで", "en": "I've endured the unendurable,"},
+    {"t": 178.91,"ja": "超人的なタフさも売りよ", "en": "so superhuman toughness is another selling point"},
+    {"t": 181.75,"ja": "ちょっとやそっとじゃ倒れない", "en": "You won't knock me down that easily"},
+    {"t": 184.18,"ja": "まだまだ", "en": "Not yet, not yet —"},
+    {"t": 184.73,"ja": "1、2、3、4、5、6、7、8!", "en": "1, 2, 3, 4, 5, 6, 7, 8!"},
+    {"t": 187.34,"ja": "打ちのめされても明日に着地", "en": "Even knocked flat, I'll land on my feet tomorrow"},
+    {"t": 190.23,"ja": "能ある鷹も爪むき出して", "en": "The clever hawk is showing its talons now"},
+    {"t": 193.32,"ja": "一切手加減しません", "en": "I'm not pulling any punches"},
+    {"t": 195.74,"ja": "ほら", "en": "See?"},
+    {"t": 196.15,"ja": "1、2、3、4、5、6、7、8!", "en": "1, 2, 3, 4, 5, 6, 7, 8!"},
+    {"t": 198.97,"ja": "年がら年中修行したんで", "en": "I've trained all year round —"},
+    {"t": 201.79,"ja": "期待通りに仕上がりました", "en": "came out exactly as expected"},
+    {"t": 204.53,"ja": "そろそろ覚悟してください", "en": "You'd better brace yourself right about now"},
+    {"t": 207.01,"ja": "ねえ", "en": "hey"}
   ]
 }

@@ -1,294 +1,66 @@
 {
   "id": "22-somedays-coming",
   "title": "Someday'z Coming",
-  "artist": "Shoten Taro",
+  "artist": "Shoten Taro ft. Megurine Luka",
   "mode": "timed",
   "neteaseId": 2022913539,
   "lines": [
-    {
-      "t": 70.3,
-      "ja": "I was ready to do anything for you",
-      "en": ""
-    },
-    {
-      "t": 74.36,
-      "ja": "Nothing changed I am(you are) blinded by",
-      "en": ""
-    },
-    {
-      "t": 76.93,
-      "ja": "greed and fallen down",
-      "en": ""
-    },
-    {
-      "t": 79.86,
-      "ja": "目を逸らした現実に 突きつけられた",
-      "en": ""
-    },
-    {
-      "t": 86.51,
-      "ja": "「What is your desired fate in order?」",
-      "en": ""
-    },
-    {
-      "t": 89.34,
-      "ja": "掴んだ答えの果ては",
-      "en": ""
-    },
-    {
-      "t": 91.77,
-      "ja": "余りにも朽ちて崩れてく",
-      "en": ""
-    },
-    {
-      "t": 94.2,
-      "ja": "偽りの居場所の跡さえも",
-      "en": ""
-    },
-    {
-      "t": 97.25,
-      "ja": "（消えて）",
-      "en": ""
-    },
-    {
-      "t": 98.9,
-      "ja": "満たされた筈の渇きを",
-      "en": ""
-    },
-    {
-      "t": 101.32,
-      "ja": "思い出すように貪った",
-      "en": ""
-    },
-    {
-      "t": 103.81,
-      "ja": "焼き付けた君の影が",
-      "en": ""
-    },
-    {
-      "t": 106.16,
-      "ja": "遠ざかった",
-      "en": ""
-    },
-    {
-      "t": 108.27,
-      "ja": "この時の中で 泡沫に消えるなら",
-      "en": ""
-    },
-    {
-      "t": 113.0,
-      "ja": "大切なモノなんて何も無くて",
-      "en": ""
-    },
-    {
-      "t": 117.61,
-      "ja": "I just wanna believe in you",
-      "en": ""
-    },
-    {
-      "t": 120.06,
-      "ja": "Nothing changes my love for you",
-      "en": ""
-    },
-    {
-      "t": 122.64,
-      "ja": "But someday....",
-      "en": ""
-    },
-    {
-      "t": 127.33,
-      "ja": "求め続けるよ 僕が僕である意味を",
-      "en": ""
-    },
-    {
-      "t": 152.84,
-      "ja": "傷ついたこの手で 何を得た？",
-      "en": ""
-    },
-    {
-      "t": 158.55,
-      "ja": "Am I hearing this right?",
-      "en": ""
-    },
-    {
-      "t": 160.21,
-      "ja": "「Trust me again!」",
-      "en": ""
-    },
-    {
-      "t": 161.4,
-      "ja": "誰かが言う真実が 引き裂いたのは",
-      "en": ""
-    },
-    {
-      "t": 168.1,
-      "ja": "「Who are you talking to now?」",
-      "en": ""
-    },
-    {
-      "t": 170.91,
-      "ja": "壊れた視界の中で",
-      "en": ""
-    },
-    {
-      "t": 173.38,
-      "ja": "いつかみた君を見つけても",
-      "en": ""
-    },
-    {
-      "t": 175.84,
-      "ja": "呼びかけた声は聞こえなくて",
-      "en": ""
-    },
-    {
-      "t": 178.85,
-      "ja": "（Looking for...）",
-      "en": ""
-    },
-    {
-      "t": 180.56,
-      "ja": "描いた理想のために",
-      "en": ""
-    },
-    {
-      "t": 182.95,
-      "ja": "重ねた罪は離れないのに",
-      "en": ""
-    },
-    {
-      "t": 185.34,
-      "ja": "記憶に残った君は",
-      "en": ""
-    },
-    {
-      "t": 187.69,
-      "ja": "擦り抜けていく",
-      "en": ""
-    },
-    {
-      "t": 189.64,
-      "ja": "この時を越えて 僕を呼ぶ声がした",
-      "en": ""
-    },
-    {
-      "t": 194.55,
-      "ja": "名前さえ霞む姿でもまだ",
-      "en": ""
-    },
-    {
-      "t": 199.41,
-      "ja": "I still remember even now",
-      "en": ""
-    },
-    {
-      "t": 201.68,
-      "ja": "But I cannot even touch you",
-      "en": ""
-    },
-    {
-      "t": 204.19,
-      "ja": "But someday...",
-      "en": ""
-    },
-    {
-      "t": 208.7,
-      "ja": "幻でも良い 確かに君を想うよ",
-      "en": ""
-    },
-    {
-      "t": 233.75,
-      "ja": "僕達の過去と存在が",
-      "en": ""
-    },
-    {
-      "t": 235.68,
-      "ja": "全て作られた偽りなら",
-      "en": ""
-    },
-    {
-      "t": 238.16,
-      "ja": "最初から僕の意味なんて無い？",
-      "en": ""
-    },
-    {
-      "t": 241.3,
-      "ja": "（No, I'm not.）",
-      "en": ""
-    },
-    {
-      "t": 242.89,
-      "ja": "刻んだ痛みも夢も",
-      "en": ""
-    },
-    {
-      "t": 245.22,
-      "ja": "この胸に深く残してたんだ",
-      "en": ""
-    },
-    {
-      "t": 247.63,
-      "ja": "擦り切れた君の声が",
-      "en": ""
-    },
-    {
-      "t": 250.12,
-      "ja": "今届いた",
-      "en": ""
-    },
-    {
-      "t": 252.13,
-      "ja": "この時の中で泡沫になる前に",
-      "en": ""
-    },
-    {
-      "t": 256.85,
-      "ja": "大切なモノを守りたくて 僕は",
-      "en": ""
-    },
-    {
-      "t": 261.83,
-      "ja": "I am gonna believe in you",
-      "en": ""
-    },
-    {
-      "t": 264.01,
-      "ja": "Nothing changes my love for you",
-      "en": ""
-    },
-    {
-      "t": 266.59,
-      "ja": "Because someday....",
-      "en": ""
-    },
-    {
-      "t": 271.22,
-      "ja": "その手をとるまで 何度でも呼ぶから",
-      "en": ""
-    },
-    {
-      "t": 276.06,
-      "ja": "強く強く願いを込めて",
-      "en": ""
-    },
-    {
-      "t": 281.02,
-      "ja": "This is my final answer",
-      "en": ""
-    },
-    {
-      "t": 283.24,
-      "ja": "No matter who says what,",
-      "en": ""
-    },
-    {
-      "t": 284.81,
-      "ja": "I find you anyway...",
-      "en": ""
-    },
-    {
-      "t": 290.57,
-      "ja": "求め続けるよ 僕が僕であるために",
-      "en": ""
-    }
+    {"t": 70.3,  "ja": "I was ready to do anything for you", "en": "I was ready to do anything for you"},
+    {"t": 74.36, "ja": "Nothing changed I am(you are) blinded by", "en": "Nothing changed — I am (you are) blinded by"},
+    {"t": 76.93, "ja": "greed and fallen down", "en": "greed, and fallen down"},
+    {"t": 79.86, "ja": "目を逸らした現実に 突きつけられた", "en": "The reality I was looking away from was shoved right in my face"},
+    {"t": 86.51, "ja": "「What is your desired fate in order?」", "en": "\"What is your desired fate in order?\""},
+    {"t": 89.34, "ja": "掴んだ答えの果ては", "en": "The answer I grasped, at the end of it all,"},
+    {"t": 91.77, "ja": "余りにも朽ちて崩れてく", "en": "was too decayed, falling apart"},
+    {"t": 94.2,  "ja": "偽りの居場所の跡さえも", "en": "Even the traces of that false place I called home"},
+    {"t": 97.25, "ja": "（消えて）", "en": "(disappear)"},
+    {"t": 98.9,  "ja": "満たされた筈の渇きを", "en": "A thirst I thought I'd quenched —"},
+    {"t": 101.32,"ja": "思い出すように貪った", "en": "I devoured it like I was trying to remember"},
+    {"t": 103.81,"ja": "焼き付けた君の影が", "en": "The silhouette of you, burned into me,"},
+    {"t": 106.16,"ja": "遠ざかった", "en": "receded further away"},
+    {"t": 108.27,"ja": "この時の中で 泡沫に消えるなら", "en": "If I'm going to vanish like foam within this moment,"},
+    {"t": 113.0, "ja": "大切なモノなんて何も無くて", "en": "then I have nothing precious left"},
+    {"t": 117.61,"ja": "I just wanna believe in you", "en": "I just wanna believe in you"},
+    {"t": 120.06,"ja": "Nothing changes my love for you", "en": "Nothing changes my love for you"},
+    {"t": 122.64,"ja": "But someday....", "en": "But someday…"},
+    {"t": 127.33,"ja": "求め続けるよ 僕が僕である意味を", "en": "I'll keep searching — for the meaning of being me"},
+    {"t": 152.84,"ja": "傷ついたこの手で 何を得た？", "en": "With these wounded hands — what did I even gain?"},
+    {"t": 158.55,"ja": "Am I hearing this right?", "en": "Am I hearing this right?"},
+    {"t": 160.21,"ja": "「Trust me again!」", "en": "\"Trust me again!\""},
+    {"t": 161.4, "ja": "誰かが言う真実が 引き裂いたのは", "en": "What someone else's truth tore apart was —"},
+    {"t": 168.1, "ja": "「Who are you talking to now?」", "en": "\"Who are you talking to now?\""},
+    {"t": 170.91,"ja": "壊れた視界の中で", "en": "Inside a broken field of vision,"},
+    {"t": 173.38,"ja": "いつかみた君を見つけても", "en": "even if I find the you I once saw,"},
+    {"t": 175.84,"ja": "呼びかけた声は聞こえなくて", "en": "the voice I call out with never reaches"},
+    {"t": 178.85,"ja": "（Looking for...）", "en": "(Looking for…)"},
+    {"t": 180.56,"ja": "描いた理想のために", "en": "For the sake of the ideal I drew,"},
+    {"t": 182.95,"ja": "重ねた罪は離れないのに", "en": "the sins I piled up refuse to let me go,"},
+    {"t": 185.34,"ja": "記憶に残った君は", "en": "yet the you I remember"},
+    {"t": 187.69,"ja": "擦り抜けていく", "en": "slips right through my fingers"},
+    {"t": 189.64,"ja": "この時を越えて 僕を呼ぶ声がした", "en": "Beyond this moment, I heard a voice calling me"},
+    {"t": 194.55,"ja": "名前さえ霞む姿でもまだ", "en": "Even as a figure whose name is blurring out —"},
+    {"t": 199.41,"ja": "I still remember even now", "en": "I still remember even now"},
+    {"t": 201.68,"ja": "But I cannot even touch you", "en": "But I cannot even touch you"},
+    {"t": 204.19,"ja": "But someday...", "en": "But someday…"},
+    {"t": 208.7, "ja": "幻でも良い 確かに君を想うよ", "en": "Even if it's an illusion — I'm truly thinking of you"},
+    {"t": 233.75,"ja": "僕達の過去と存在が", "en": "If our past and our existence"},
+    {"t": 235.68,"ja": "全て作られた偽りなら", "en": "are all fabricated lies,"},
+    {"t": 238.16,"ja": "最初から僕の意味なんて無い？", "en": "then from the start, was there any meaning to me?"},
+    {"t": 241.3, "ja": "（No, I'm not.）", "en": "(No, I'm not.)"},
+    {"t": 242.89,"ja": "刻んだ痛みも夢も", "en": "The pain I carved in, the dreams too —"},
+    {"t": 245.22,"ja": "この胸に深く残してたんだ", "en": "I was keeping them deep in my chest"},
+    {"t": 247.63,"ja": "擦り切れた君の声が", "en": "Your worn-out voice"},
+    {"t": 250.12,"ja": "今届いた", "en": "just reached me"},
+    {"t": 252.13,"ja": "この時の中で泡沫になる前に", "en": "Before I dissolve into foam within this moment,"},
+    {"t": 256.85,"ja": "大切なモノを守りたくて 僕は", "en": "I want to protect what matters to me, so — I'll —"},
+    {"t": 261.83,"ja": "I am gonna believe in you", "en": "I am gonna believe in you"},
+    {"t": 264.01,"ja": "Nothing changes my love for you", "en": "Nothing changes my love for you"},
+    {"t": 266.59,"ja": "Because someday....", "en": "Because someday…"},
+    {"t": 271.22,"ja": "その手をとるまで 何度でも呼ぶから", "en": "I'll call for you as many times as it takes, until I can take your hand"},
+    {"t": 276.06,"ja": "強く強く願いを込めて", "en": "With a wish as fierce as I can make it"},
+    {"t": 281.02,"ja": "This is my final answer", "en": "This is my final answer"},
+    {"t": 283.24,"ja": "No matter who says what,", "en": "No matter who says what,"},
+    {"t": 284.81,"ja": "I find you anyway...", "en": "I find you anyway…"},
+    {"t": 290.57,"ja": "求め続けるよ 僕が僕であるために", "en": "I'll keep searching — so I can keep being me"}
   ]
 }

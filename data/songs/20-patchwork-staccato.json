@@ -1,294 +1,66 @@
 {
   "id": "20-patchwork-staccato",
-  "title": "ツギハギスタッカート",
-  "artist": "とあ",
+  "title": "Patchwork Staccato",
+  "artist": "Toa ft. Hatsune Miku",
   "mode": "timed",
   "neteaseId": 32958083,
   "lines": [
-    {
-      "t": 1.18,
-      "ja": "ツギハギだらけの君との時間も",
-      "en": ""
-    },
-    {
-      "t": 6.2,
-      "ja": "そろそろ終わりにしよう",
-      "en": ""
-    },
-    {
-      "t": 9.62,
-      "ja": "この糸 ちぎるの",
-      "en": ""
-    },
-    {
-      "t": 13.03,
-      "ja": "色とりどり 散らばるでしょ",
-      "en": ""
-    },
-    {
-      "t": 15.69,
-      "ja": "ねえ ほら あの時の言葉",
-      "en": ""
-    },
-    {
-      "t": 19.98,
-      "ja": "重ねた 無駄な時間",
-      "en": ""
-    },
-    {
-      "t": 23.36,
-      "ja": "この糸 ちぎるだけ",
-      "en": ""
-    },
-    {
-      "t": 26.77,
-      "ja": "不揃いだね 笑えるでしょ",
-      "en": ""
-    },
-    {
-      "t": 29.74,
-      "ja": "tick tack tick tack 円を描いて",
-      "en": ""
-    },
-    {
-      "t": 33.16,
-      "ja": "ding dong ding dong あそびましょ",
-      "en": ""
-    },
-    {
-      "t": 36.51,
-      "ja": "tick tack tick tack 結んで開いて",
-      "en": ""
-    },
-    {
-      "t": 40.01,
-      "ja": "ding dong ding dong じゃあまたね",
-      "en": ""
-    },
-    {
-      "t": 43.58,
-      "ja": "解れた糸が 囁く",
-      "en": ""
-    },
-    {
-      "t": 49.22,
-      "ja": "君よ いっそいっそ 居なくなれ",
-      "en": ""
-    },
-    {
-      "t": 53.09,
-      "ja": "変わらない このままなら",
-      "en": ""
-    },
-    {
-      "t": 56.35,
-      "ja": "たぶん きっときっと なんてことない",
-      "en": ""
-    },
-    {
-      "t": 59.88,
-      "ja": "少し軽くなるだけ",
-      "en": ""
-    },
-    {
-      "t": 63.26,
-      "ja": "ねえ いっかいっか 捨てちゃえば",
-      "en": ""
-    },
-    {
-      "t": 66.77,
-      "ja": "気づかない そのままなら",
-      "en": ""
-    },
-    {
-      "t": 70.05,
-      "ja": "だけど ずっとずっと 好きかもな",
-      "en": ""
-    },
-    {
-      "t": 73.52,
-      "ja": "少しだけ 痛いかな...",
-      "en": ""
-    },
-    {
-      "t": 79.83,
-      "ja": "気づけば気にしてる画面も",
-      "en": ""
-    },
-    {
-      "t": 84.05,
-      "ja": "そろそろ見飽きた",
-      "en": ""
-    },
-    {
-      "t": 87.01,
-      "ja": "アレ抜きコレ抜きそれじゃ",
-      "en": ""
-    },
-    {
-      "t": 90.57,
-      "ja": "つまんないんでしょ退屈でしょ",
-      "en": ""
-    },
-    {
-      "t": 93.84,
-      "ja": "Flick tap flick tap 面を滑って",
-      "en": ""
-    },
-    {
-      "t": 97.26,
-      "ja": "Swipe tap swipe tap A.R→T",
-      "en": ""
-    },
-    {
-      "t": 100.77,
-      "ja": "Flick tap flick tap 開いて叩いて",
-      "en": ""
-    },
-    {
-      "t": 104.2,
-      "ja": "Swipe swipe swipe swipe もう嫌だな",
-      "en": ""
-    },
-    {
-      "t": 107.76,
-      "ja": "ズルズル糸が呟く",
-      "en": ""
-    },
-    {
-      "t": 111.88,
-      "ja": "君よいっそいっそ居なくなれ",
-      "en": ""
-    },
-    {
-      "t": 116.0,
-      "ja": "変わらないこのままだよ",
-      "en": ""
-    },
-    {
-      "t": 119.27,
-      "ja": "だからきっときっとなんてことない",
-      "en": ""
-    },
-    {
-      "t": 122.87,
-      "ja": "少し寂しくなるだけ",
-      "en": ""
-    },
-    {
-      "t": 126.28,
-      "ja": "もういっかいっか",
-      "en": ""
-    },
-    {
-      "t": 128.14,
-      "ja": "捨てちゃえば",
-      "en": ""
-    },
-    {
-      "t": 129.8,
-      "ja": "気づかないそのままだし",
-      "en": ""
-    },
-    {
-      "t": 132.9,
-      "ja": "たぶんずっとずっと",
-      "en": ""
-    },
-    {
-      "t": 134.97,
-      "ja": "好きだけど",
-      "en": ""
-    },
-    {
-      "t": 136.57,
-      "ja": "少しだけ痛いけど",
-      "en": ""
-    },
-    {
-      "t": 170.71,
-      "ja": "だから",
-      "en": ""
-    },
-    {
-      "t": 173.89,
-      "ja": "だからいっそいっそ",
-      "en": ""
-    },
-    {
-      "t": 175.7,
-      "ja": "居なくなれ",
-      "en": ""
-    },
-    {
-      "t": 177.41,
-      "ja": "変わらないこのままだし",
-      "en": ""
-    },
-    {
-      "t": 180.43,
-      "ja": "たぶんきっときっとなんてことない",
-      "en": ""
-    },
-    {
-      "t": 184.24,
-      "ja": "少し寂しくなるけど",
-      "en": ""
-    },
-    {
-      "t": 187.56,
-      "ja": "ねえいいのいいの",
-      "en": ""
-    },
-    {
-      "t": 189.47,
-      "ja": "捨てちゃうよ",
-      "en": ""
-    },
-    {
-      "t": 191.07,
-      "ja": "気づかないまだ気づかないなら",
-      "en": ""
-    },
-    {
-      "t": 194.8,
-      "ja": "そっかそっか好きなのは",
-      "en": ""
-    },
-    {
-      "t": 197.97,
-      "ja": "最初から僕だけ",
-      "en": ""
-    },
-    {
-      "t": 201.57,
-      "ja": "Tick tack tick tack",
-      "en": ""
-    },
-    {
-      "t": 208.52,
-      "ja": "Ding dong ding dong",
-      "en": ""
-    },
-    {
-      "t": 228.44,
-      "ja": "ツギハギだらけの君との時間を",
-      "en": ""
-    },
-    {
-      "t": 233.35,
-      "ja": "そろそろ終わりにしよう",
-      "en": ""
-    },
-    {
-      "t": 236.82,
-      "ja": "この糸ちぎるだけ",
-      "en": ""
-    },
-    {
-      "t": 239.89,
-      "ja": "簡単でしょ笑えるよね",
-      "en": ""
-    }
+    {"t": 1.18,  "ja": "ツギハギだらけの君との時間も", "en": "This patchwork time with you —"},
+    {"t": 6.2,   "ja": "そろそろ終わりにしよう", "en": "it's about time we ended it"},
+    {"t": 9.62,  "ja": "この糸 ちぎるの", "en": "I'll snap this thread"},
+    {"t": 13.03, "ja": "色とりどり 散らばるでしょ", "en": "Colors scattering everywhere, right?"},
+    {"t": 15.69, "ja": "ねえ ほら あの時の言葉", "en": "Hey, look — those words from back then,"},
+    {"t": 19.98, "ja": "重ねた 無駄な時間", "en": "the useless time we stacked up —"},
+    {"t": 23.36, "ja": "この糸 ちぎるだけ", "en": "I'm just snapping this thread"},
+    {"t": 26.77, "ja": "不揃いだね 笑えるでしょ", "en": "Pretty uneven, huh? Kinda funny, right?"},
+    {"t": 29.74, "ja": "tick tack tick tack 円を描いて", "en": "tick tack tick tack — drawing a circle"},
+    {"t": 33.16, "ja": "ding dong ding dong あそびましょ", "en": "ding dong ding dong — let's play"},
+    {"t": 36.51, "ja": "tick tack tick tack 結んで開いて", "en": "tick tack tick tack — open, close, open"},
+    {"t": 40.01, "ja": "ding dong ding dong じゃあまたね", "en": "ding dong ding dong — see you later"},
+    {"t": 43.58, "ja": "解れた糸が 囁く", "en": "The unraveled thread whispers"},
+    {"t": 49.22, "ja": "君よ いっそいっそ 居なくなれ", "en": "Oh you — just, just disappear already"},
+    {"t": 53.09, "ja": "変わらない このままなら", "en": "If nothing changes, if we stay like this"},
+    {"t": 56.35, "ja": "たぶん きっときっと なんてことない", "en": "then probably, surely, surely — it'll be nothing much"},
+    {"t": 59.88, "ja": "少し軽くなるだけ", "en": "Just a little lighter, that's all"},
+    {"t": 63.26, "ja": "ねえ いっかいっか 捨てちゃえば", "en": "Hey — fine, fine, just throw it away"},
+    {"t": 66.77, "ja": "気づかない そのままなら", "en": "and nobody will notice, if we leave it"},
+    {"t": 70.05, "ja": "だけど ずっとずっと 好きかもな", "en": "but maybe, always, always — I might like you"},
+    {"t": 73.52, "ja": "少しだけ 痛いかな...", "en": "Might hurt, just a little…"},
+    {"t": 79.83, "ja": "気づけば気にしてる画面も", "en": "Even the screen I keep checking without realizing —"},
+    {"t": 84.05, "ja": "そろそろ見飽きた", "en": "I'm about done with it"},
+    {"t": 87.01, "ja": "アレ抜きコレ抜きそれじゃ", "en": "Take this out, take that out — at this rate"},
+    {"t": 90.57, "ja": "つまんないんでしょ退屈でしょ", "en": "it's dull, isn't it? Boring, right?"},
+    {"t": 93.84, "ja": "Flick tap flick tap 面を滑って", "en": "Flick tap flick tap — sliding across the screen"},
+    {"t": 97.26, "ja": "Swipe tap swipe tap A.R→T", "en": "Swipe tap swipe tap — A.R→T"},
+    {"t": 100.77,"ja": "Flick tap flick tap 開いて叩いて", "en": "Flick tap flick tap — open it, tap it"},
+    {"t": 104.2, "ja": "Swipe swipe swipe swipe もう嫌だな", "en": "Swipe swipe swipe swipe — ugh, I'm sick of this"},
+    {"t": 107.76,"ja": "ズルズル糸が呟く", "en": "The dragging thread mutters"},
+    {"t": 111.88,"ja": "君よいっそいっそ居なくなれ", "en": "Oh you — just, just disappear already"},
+    {"t": 116.0, "ja": "変わらないこのままだよ", "en": "Nothing's changing, it's staying like this"},
+    {"t": 119.27,"ja": "だからきっときっとなんてことない", "en": "so surely, surely, it won't be anything much"},
+    {"t": 122.87,"ja": "少し寂しくなるだけ", "en": "Just a little lonelier, that's all"},
+    {"t": 126.28,"ja": "もういっかいっか", "en": "Fine, fine already,"},
+    {"t": 128.14,"ja": "捨てちゃえば", "en": "just throw it away"},
+    {"t": 129.8, "ja": "気づかないそのままだし", "en": "nobody'll notice, staying like this"},
+    {"t": 132.9, "ja": "たぶんずっとずっと", "en": "Probably, always, always"},
+    {"t": 134.97,"ja": "好きだけど", "en": "I'll still like you"},
+    {"t": 136.57,"ja": "少しだけ痛いけど", "en": "even if it stings a little"},
+    {"t": 170.71,"ja": "だから", "en": "And so —"},
+    {"t": 173.89,"ja": "だからいっそいっそ", "en": "so just, just"},
+    {"t": 175.7, "ja": "居なくなれ", "en": "disappear"},
+    {"t": 177.41,"ja": "変わらないこのままだし", "en": "Nothing's changing, it's staying like this"},
+    {"t": 180.43,"ja": "たぶんきっときっとなんてことない", "en": "so probably, surely, it won't be anything much"},
+    {"t": 184.24,"ja": "少し寂しくなるけど", "en": "even if it gets a little lonelier"},
+    {"t": 187.56,"ja": "ねえいいのいいの", "en": "Hey, it's fine, it's fine,"},
+    {"t": 189.47,"ja": "捨てちゃうよ", "en": "I'm throwing it away"},
+    {"t": 191.07,"ja": "気づかないまだ気づかないなら", "en": "If you still haven't noticed,"},
+    {"t": 194.8, "ja": "そっかそっか好きなのは", "en": "I see, I see — the only one in love here"},
+    {"t": 197.97,"ja": "最初から僕だけ", "en": "was me all along"},
+    {"t": 201.57,"ja": "Tick tack tick tack", "en": "Tick tack tick tack"},
+    {"t": 208.52,"ja": "Ding dong ding dong", "en": "Ding dong ding dong"},
+    {"t": 228.44,"ja": "ツギハギだらけの君との時間を", "en": "This patchwork time with you —"},
+    {"t": 233.35,"ja": "そろそろ終わりにしよう", "en": "it's about time we ended it"},
+    {"t": 236.82,"ja": "この糸ちぎるだけ", "en": "I'm just snapping this thread"},
+    {"t": 239.89,"ja": "簡単でしょ笑えるよね", "en": "Easy, right? Pretty funny, huh?"}
   ]
 }

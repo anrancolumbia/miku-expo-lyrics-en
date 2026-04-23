@@ -1,199 +1,47 @@
 {
   "id": "10-tyqoon",
   "title": "TYQOON",
-  "artist": "Sohbana",
+  "artist": "Sohbana ft. MEIKO",
   "mode": "timed",
   "neteaseId": 1991436464,
   "lines": [
-    {
-      "t": 1.34,
-      "ja": "四角四面でいらんなくてごめん",
-      "en": ""
-    },
-    {
-      "t": 4.19,
-      "ja": "全能のクセして限界だ、ごめん",
-      "en": ""
-    },
-    {
-      "t": 6.92,
-      "ja": "未だ来ない未来に酔い痴れてたら",
-      "en": ""
-    },
-    {
-      "t": 9.87,
-      "ja": "アニメ化の波に飲まれました",
-      "en": ""
-    },
-    {
-      "t": 12.93,
-      "ja": "中心から離れるほどに強くなる力にただ抗って",
-      "en": ""
-    },
-    {
-      "t": 15.92,
-      "ja": "殿堂へ登るのも実家で寝るのも全てがあなた次第で",
-      "en": ""
-    },
-    {
-      "t": 18.75,
-      "ja": "1だけ聞いたら10知るあなたに3000くらい語って",
-      "en": ""
-    },
-    {
-      "t": 21.61,
-      "ja": "健康を見せるのも優雅でいるのも興味がないもんで",
-      "en": ""
-    },
-    {
-      "t": 24.7,
-      "ja": "苦楽苦楽させるあやしのエゴ",
-      "en": ""
-    },
-    {
-      "t": 27.55,
-      "ja": "当たっては外れてあをによし",
-      "en": ""
-    },
-    {
-      "t": 30.3,
-      "ja": "倣っ給ったのね、誰かのエゴ",
-      "en": ""
-    },
-    {
-      "t": 33.07,
-      "ja": "そうできないのが大君の性なんだ",
-      "en": ""
-    },
-    {
-      "t": 47.55,
-      "ja": "救いは来ないぞ狂い損ない",
-      "en": ""
-    },
-    {
-      "t": 50.52,
-      "ja": "桃源郷にそんな福祉は無い",
-      "en": ""
-    },
-    {
-      "t": 53.54,
-      "ja": "「ああ、こんなに上手に滑るとは思わず」",
-      "en": ""
-    },
-    {
-      "t": 57.24,
-      "ja": "と、言いたげ　無彩色",
-      "en": ""
-    },
-    {
-      "t": 59.5,
-      "ja": "伝わるほうへ伝わればいいとか言ったがアレは違くて",
-      "en": ""
-    },
-    {
-      "t": 62.45,
-      "ja": "戦争が起きるのも何派が在るのも結構どうでもよくて",
-      "en": ""
-    },
-    {
-      "t": 65.37,
-      "ja": "1から「あ」なり「A」なり産める可能性だけが自慢で",
-      "en": ""
-    },
-    {
-      "t": 68.14,
-      "ja": "台風の目とかいう「空っぽ」が僕の夢です！",
-      "en": ""
-    },
-    {
-      "t": 70.36,
-      "ja": "なんて叫んでら",
-      "en": ""
-    },
-    {
-      "t": 71.52,
-      "ja": "ﾀﾋ死にたいあなたに共感はしないが",
-      "en": ""
-    },
-    {
-      "t": 74.08,
-      "ja": "何となく感じ入ったげるわ",
-      "en": ""
-    },
-    {
-      "t": 76.8,
-      "ja": "そんなあなたは冥土へも行けず",
-      "en": ""
-    },
-    {
-      "t": 79.81,
-      "ja": "飯田も数子も言うはずだわ",
-      "en": ""
-    },
-    {
-      "t": 82.73,
-      "ja": "ﾀﾋ死にたいあなたに共感はしないが",
-      "en": ""
-    },
-    {
-      "t": 85.58,
-      "ja": "何となく感じ入ったげるわ",
-      "en": ""
-    },
-    {
-      "t": 88.35,
-      "ja": "そんなあなたが世界を救う",
-      "en": ""
-    },
-    {
-      "t": 91.36,
-      "ja": "0.1縷を説いたげるわ",
-      "en": ""
-    },
-    {
-      "t": 105.72,
-      "ja": "素材で食ってきたあの子は今",
-      "en": ""
-    },
-    {
-      "t": 108.85,
-      "ja": "尖り違った末レプリカ未満",
-      "en": ""
-    },
-    {
-      "t": 111.68,
-      "ja": "食らい給ったのね、あたしのエゴ",
-      "en": ""
-    },
-    {
-      "t": 114.78,
-      "ja": "その蓋然を崩したいの",
-      "en": ""
-    },
-    {
-      "t": 117.7,
-      "ja": "苦楽苦楽してるあたしは今",
-      "en": ""
-    },
-    {
-      "t": 120.37,
-      "ja": "光の向け先を探してる",
-      "en": ""
-    },
-    {
-      "t": 123.41,
-      "ja": "教え給ったとこ無礼ながら",
-      "en": ""
-    },
-    {
-      "t": 126.34,
-      "ja": "偉人も君子も教科書にならないわ！",
-      "en": ""
-    },
-    {
-      "t": 133.19,
-      "ja": "教科書にならないわ",
-      "en": ""
-    }
+    {"t": 1.34, "ja": "四角四面でいらんなくてごめん", "en": "Sorry I'm too stiff and square, no use to anyone"},
+    {"t": 4.19, "ja": "全能のクセして限界だ、ごめん", "en": "Sorry — I act all-knowing and I'm already at my limit"},
+    {"t": 6.92, "ja": "未だ来ない未来に酔い痴れてたら", "en": "While I was busy getting drunk on a future that never came"},
+    {"t": 9.87, "ja": "アニメ化の波に飲まれました", "en": "the wave of anime adaptations swallowed me whole"},
+    {"t": 12.93,"ja": "中心から離れるほどに強くなる力にただ抗って", "en": "Just pushing back against the force that grows stronger the farther you drift from the center"},
+    {"t": 15.92,"ja": "殿堂へ登るのも実家で寝るのも全てがあなた次第で", "en": "Climbing into the hall of fame, or napping at your parents' place — all up to you"},
+    {"t": 18.75,"ja": "1だけ聞いたら10知るあなたに3000くらい語って", "en": "To you who gets ten from one, I'll rattle off three thousand"},
+    {"t": 21.61,"ja": "健康を見せるのも優雅でいるのも興味がないもんで", "en": "I've got zero interest in looking healthy or staying graceful"},
+    {"t": 24.7, "ja": "苦楽苦楽させるあやしのエゴ", "en": "A shady little ego that keeps flipping me between pain and pleasure"},
+    {"t": 27.55,"ja": "当たっては外れてあをによし", "en": "Hit, miss, hit, miss — \"oh how fair the ancient capital\""},
+    {"t": 30.3, "ja": "倣っ給ったのね、誰かのエゴ", "en": "So you've been imitating — someone else's ego"},
+    {"t": 33.07,"ja": "そうできないのが大君の性なんだ", "en": "Not being able to do that — that's the nature of the sovereign"},
+    {"t": 47.55,"ja": "救いは来ないぞ狂い損ない", "en": "Salvation isn't coming, you half-mad failure"},
+    {"t": 50.52,"ja": "桃源郷にそんな福祉は無い", "en": "There's no welfare like that in paradise"},
+    {"t": 53.54,"ja": "「ああ、こんなに上手に滑るとは思わず」", "en": "\"Ah — I never imagined I'd faceplant this gracefully\""},
+    {"t": 57.24,"ja": "と、言いたげ　無彩色", "en": "— or so it seemed to say. Colorless."},
+    {"t": 59.5, "ja": "伝わるほうへ伝わればいいとか言ったがアレは違くて", "en": "I said \"it'll reach whoever it reaches\" — yeah, that was wrong"},
+    {"t": 62.45,"ja": "戦争が起きるのも何派が在るのも結構どうでもよくて", "en": "Wars breaking out, camps forming — honestly I couldn't care less"},
+    {"t": 65.37,"ja": "1から「あ」なり「A」なり産める可能性だけが自慢で", "en": "All I can brag about is the odds of birthing an \"a\" or an \"A\" from a single 1"},
+    {"t": 68.14,"ja": "台風の目とかいう「空っぽ」が僕の夢です！", "en": "That \"empty space\" they call the eye of a typhoon — that's my dream!"},
+    {"t": 70.36,"ja": "なんて叫んでら", "en": "— or so I'm out here shouting"},
+    {"t": 71.52,"ja": "ﾀﾋ死にたいあなたに共感はしないが", "en": "I can't relate to you wanting to die, but"},
+    {"t": 74.08,"ja": "何となく感じ入ったげるわ", "en": "I'll vaguely nod along with you anyway"},
+    {"t": 76.8, "ja": "そんなあなたは冥土へも行けず", "en": "Someone like you can't even make it to the afterlife"},
+    {"t": 79.81,"ja": "飯田も数子も言うはずだわ", "en": "Both Iida and Kazuko would probably say the same"},
+    {"t": 82.73,"ja": "ﾀﾋ死にたいあなたに共感はしないが", "en": "I can't relate to you wanting to die, but"},
+    {"t": 85.58,"ja": "何となく感じ入ったげるわ", "en": "I'll vaguely nod along with you anyway"},
+    {"t": 88.35,"ja": "そんなあなたが世界を救う", "en": "And somebody like you is going to save the world"},
+    {"t": 91.36,"ja": "0.1縷を説いたげるわ", "en": "I'll preach you a 0.1-thread sermon of hope"},
+    {"t": 105.72,"ja": "素材で食ってきたあの子は今", "en": "That girl who lived off her looks — right now"},
+    {"t": 108.85,"ja": "尖り違った末レプリカ未満", "en": "she leaned edgy in the wrong direction and ended up less than a replica"},
+    {"t": 111.68,"ja": "食らい給ったのね、あたしのエゴ", "en": "So you gobbled it up, huh — my ego"},
+    {"t": 114.78,"ja": "その蓋然を崩したいの", "en": "I want to tear that whole probability down"},
+    {"t": 117.7, "ja": "苦楽苦楽してるあたしは今", "en": "I'm bouncing between highs and lows right now"},
+    {"t": 120.37,"ja": "光の向け先を探してる", "en": "Hunting for where to aim the light"},
+    {"t": 123.41,"ja": "教え給ったとこ無礼ながら", "en": "With all due disrespect to what you taught me —"},
+    {"t": 126.34,"ja": "偉人も君子も教科書にならないわ！", "en": "no great figure or gentleman is making it into the textbook!"},
+    {"t": 133.19,"ja": "教科書にならないわ", "en": "Not gonna make it in the textbook"}
   ]
 }

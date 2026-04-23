@@ -1,229 +1,53 @@
 {
   "id": "15-sweet-magic",
-  "title": "スイートマジック",
-  "artist": "Junky",
+  "title": "Sweet Magic",
+  "artist": "Junky ft. Kagamine Rin",
   "mode": "timed",
   "neteaseId": 423997820,
   "lines": [
-    {
-      "t": 2.59,
-      "ja": "bababala...",
-      "en": ""
-    },
-    {
-      "t": 26.05,
-      "ja": "甘くて幸せなこと",
-      "en": ""
-    },
-    {
-      "t": 30.28,
-      "ja": "隠し味何にしよう",
-      "en": ""
-    },
-    {
-      "t": 34.28,
-      "ja": "純粋な乙女心",
-      "en": ""
-    },
-    {
-      "t": 37.09,
-      "ja": "甘い恋も絡めなくちや",
-      "en": ""
-    },
-    {
-      "t": 42.16,
-      "ja": "切なさ重ねてミルフイ一ユ",
-      "en": ""
-    },
-    {
-      "t": 45.85,
-      "ja": "酸味も積み上げ夕ル卜",
-      "en": ""
-    },
-    {
-      "t": 49.88,
-      "ja": "苦味もチヨコレ一卜ケ一キ",
-      "en": ""
-    },
-    {
-      "t": 52.96,
-      "ja": "魔法かけた甘い奇跡",
-      "en": ""
-    },
-    {
-      "t": 57.18,
-      "ja": "甘さを抑えてビタ一とか",
-      "en": ""
-    },
-    {
-      "t": 60.73,
-      "ja": "ミルクなしのコ一ヒ一とか",
-      "en": ""
-    },
-    {
-      "t": 65.07,
-      "ja": "甘いだけじや大人になねないの",
-      "en": ""
-    },
-    {
-      "t": 68.85,
-      "ja": "そんなの絶対絶対やだやだやだ",
-      "en": ""
-    },
-    {
-      "t": 72.81,
-      "ja": "bababala...",
-      "en": ""
-    },
-    {
-      "t": 76.7,
-      "ja": "ねえ~ あげようか",
-      "en": ""
-    },
-    {
-      "t": 79.59,
-      "ja": "甘い罠",
-      "en": ""
-    },
-    {
-      "t": 81.57,
-      "ja": "ほら虜にしてあげる",
-      "en": ""
-    },
-    {
-      "t": 85.53,
-      "ja": "そんな魔法",
-      "en": ""
-    },
-    {
-      "t": 87.42,
-      "ja": "かけるから",
-      "en": ""
-    },
-    {
-      "t": 89.38,
-      "ja": "ちよつとだけ待たせたげるわ",
-      "en": ""
-    },
-    {
-      "t": 116.18,
-      "ja": "sweet sweet sweet magicka",
-      "en": ""
-    },
-    {
-      "t": 119.98,
-      "ja": "sweet sweet sweet yeah~yeah~",
-      "en": ""
-    },
-    {
-      "t": 123.94,
-      "ja": "sweet sweet sweet magicka",
-      "en": ""
-    },
-    {
-      "t": 127.38,
-      "ja": "sweet sweet",
-      "en": ""
-    },
-    {
-      "t": 131.25,
-      "ja": "たった一ロが足りなくて",
-      "en": ""
-    },
-    {
-      "t": 135.17,
-      "ja": "赤いイチゴみたく意地張つて",
-      "en": ""
-    },
-    {
-      "t": 139.11,
-      "ja": "甘いところなんて見せないわ",
-      "en": ""
-    },
-    {
-      "t": 142.96,
-      "ja": "完璧に作るもん一人でも、でも、でも",
-      "en": ""
-    },
-    {
-      "t": 146.94,
-      "ja": "bababala",
-      "en": ""
-    },
-    {
-      "t": 154.66,
-      "ja": "ねえ、気付いてるんでしよ？",
-      "en": ""
-    },
-    {
-      "t": 157.66,
-      "ja": "わかつてるんでしよ？",
-      "en": ""
-    },
-    {
-      "t": 159.64,
-      "ja": "隠し味の恋心",
-      "en": ""
-    },
-    {
-      "t": 163.57,
-      "ja": "苦味とか",
-      "en": ""
-    },
-    {
-      "t": 165.46,
-      "ja": "酸味とか",
-      "en": ""
-    },
-    {
-      "t": 167.41,
-      "ja": "そういうのもたまにはいいわ",
-      "en": ""
-    },
-    {
-      "t": 171.35,
-      "ja": "意地つ張りで",
-      "en": ""
-    },
-    {
-      "t": 173.3,
-      "ja": "ワガママな",
-      "en": ""
-    },
-    {
-      "t": 175.26,
-      "ja": "そんな「甘い魔法」使い",
-      "en": ""
-    },
-    {
-      "t": 179.46,
-      "ja": "oh year~~",
-      "en": ""
-    },
-    {
-      "t": 185.45,
-      "ja": "wow wow year~~",
-      "en": ""
-    },
-    {
-      "t": 193.04,
-      "ja": "wow wow year~~wow wow year~~",
-      "en": ""
-    },
-    {
-      "t": 198.19,
-      "ja": "sweet sweet sweet yeah~yeah~",
-      "en": ""
-    },
-    {
-      "t": 202.0,
-      "ja": "sweet sweet sweet magicka",
-      "en": ""
-    },
-    {
-      "t": 205.47,
-      "ja": "sweet sweet sweet yeah~yeah~",
-      "en": ""
-    }
+    {"t": 2.59, "ja": "bababala...", "en": "bababala..."},
+    {"t": 26.05,"ja": "甘くて幸せなこと", "en": "Sweet and happy things —"},
+    {"t": 30.28,"ja": "隠し味何にしよう", "en": "what should my secret ingredient be?"},
+    {"t": 34.28,"ja": "純粋な乙女心", "en": "A pure maiden's heart"},
+    {"t": 37.09,"ja": "甘い恋も絡めなくちや", "en": "I've gotta fold some sweet love in too"},
+    {"t": 42.16,"ja": "切なさ重ねてミルフイ一ユ", "en": "Stack layers of heartache — that's mille-feuille"},
+    {"t": 45.85,"ja": "酸味も積み上げ夕ル卜", "en": "Pile tartness on top — that's a tart"},
+    {"t": 49.88,"ja": "苦味もチヨコレ一卜ケ一キ", "en": "Add bitterness — chocolate cake"},
+    {"t": 52.96,"ja": "魔法かけた甘い奇跡", "en": "A sweet miracle with a spell on it"},
+    {"t": 57.18,"ja": "甘さを抑えてビタ一とか", "en": "Dialing down the sweet for something bitter,"},
+    {"t": 60.73,"ja": "ミルクなしのコ一ヒ一とか", "en": "or coffee without milk —"},
+    {"t": 65.07,"ja": "甘いだけじや大人になねないの", "en": "Sweet-only won't grow you up, huh?"},
+    {"t": 68.85,"ja": "そんなの絶対絶対やだやだやだ", "en": "No way, no way, NO way!"},
+    {"t": 72.81,"ja": "bababala...", "en": "bababala..."},
+    {"t": 76.7, "ja": "ねえ~ あげようか", "en": "Hey~ should I give it to you?"},
+    {"t": 79.59,"ja": "甘い罠", "en": "My sweet trap"},
+    {"t": 81.57,"ja": "ほら虜にしてあげる", "en": "There — I'll make you fall for me"},
+    {"t": 85.53,"ja": "そんな魔法", "en": "That kind of magic —"},
+    {"t": 87.42,"ja": "かけるから", "en": "I'll cast it on you"},
+    {"t": 89.38,"ja": "ちよつとだけ待たせたげるわ", "en": "Just make you wait a little bit~"},
+    {"t": 116.18,"ja": "sweet sweet sweet magicka", "en": "sweet sweet sweet magicka"},
+    {"t": 119.98,"ja": "sweet sweet sweet yeah~yeah~", "en": "sweet sweet sweet yeah~yeah~"},
+    {"t": 123.94,"ja": "sweet sweet sweet magicka", "en": "sweet sweet sweet magicka"},
+    {"t": 127.38,"ja": "sweet sweet", "en": "sweet sweet"},
+    {"t": 131.25,"ja": "たった一ロが足りなくて", "en": "One little bite is never quite enough"},
+    {"t": 135.17,"ja": "赤いイチゴみたく意地張つて", "en": "I get stubborn, like a bright red strawberry"},
+    {"t": 139.11,"ja": "甘いところなんて見せないわ", "en": "I won't show you my sweet side"},
+    {"t": 142.96,"ja": "完璧に作るもん一人でも、でも、でも", "en": "I'll bake it perfectly all on my own — but, but, but"},
+    {"t": 146.94,"ja": "bababala", "en": "bababala"},
+    {"t": 154.66,"ja": "ねえ、気付いてるんでしよ？", "en": "Hey — you've noticed, right?"},
+    {"t": 157.66,"ja": "わかつてるんでしよ？", "en": "You already get it, right?"},
+    {"t": 159.64,"ja": "隠し味の恋心", "en": "The secret ingredient is my heart"},
+    {"t": 163.57,"ja": "苦味とか", "en": "A little bitter,"},
+    {"t": 165.46,"ja": "酸味とか", "en": "a little sour —"},
+    {"t": 167.41,"ja": "そういうのもたまにはいいわ", "en": "sometimes that's nice too"},
+    {"t": 171.35,"ja": "意地つ張りで", "en": "A stubborn,"},
+    {"t": 173.3, "ja": "ワガママな", "en": "selfish little"},
+    {"t": 175.26,"ja": "そんな「甘い魔法」使い", "en": "\"sweet magic\" caster, that's me"},
+    {"t": 179.46,"ja": "oh year~~", "en": "oh yeah~~"},
+    {"t": 185.45,"ja": "wow wow year~~", "en": "wow wow yeah~~"},
+    {"t": 193.04,"ja": "wow wow year~~wow wow year~~", "en": "wow wow yeah~~ wow wow yeah~~"},
+    {"t": 198.19,"ja": "sweet sweet sweet yeah~yeah~", "en": "sweet sweet sweet yeah~yeah~"},
+    {"t": 202.0, "ja": "sweet sweet sweet magicka", "en": "sweet sweet sweet magicka"},
+    {"t": 205.47,"ja": "sweet sweet sweet yeah~yeah~", "en": "sweet sweet sweet yeah~yeah~"}
   ]
 }
